@@ -1,7 +1,8 @@
 # Tracker_poker
 
 Ok les gars, voici le projet du tracker sur lequel j'ai bossé. C'est un peu le bordel dans le projet, mais je pense que l'algorithmie est bonne. 
-A ce point, le code que j'ai écrit permet d'analiser un fichier .txt fourni par les site de poker en ligne (c'est les même pour winamax et Pokerstar). 
+A ce point, le code que j'ai écrit permet d'analiser UN fichier .txt fourni par les site de poker en ligne (c'est les même pour winamax et Pokerstar). J'ai commencer à écrire les fichier qui lancerons l'analyse sur tout un dossier contenant plein de hystory_hand.
+Pour le moment, on est loin du tracker utilisable, mais on s'en rapproche.. Je pense que le gros du code est fait, il va juste falloir coder les fonctions qui traite les données que nous voulons récupérer.  
 
 ---------------------------------------------------------------------------------------------
 Comment ça marche ? 
