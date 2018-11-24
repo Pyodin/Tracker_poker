@@ -1,0 +1,1043 @@
+Winamax Poker - CashGame - HandId: #11799996-715-1538420884 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:08:04 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: YulGG (3.51€)
+Seat 2: paul bzh (0€)
+Seat 3: chatpitre (0.36€)
+Seat 4: chivi71 (2€)
+Seat 5: matbld (2.12€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+*** PRE-FLOP *** 
+matbld folds
+YulGG folds
+chatpitre folds
+chivi71 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: chivi71 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-716-1538420893 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:08:13 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: YulGG (3.51€)
+Seat 2: paul bzh (2€)
+Seat 3: chatpitre (0.35€)
+Seat 4: chivi71 (2.01€)
+Seat 5: matbld (2.12€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+paul bzh posts big blind 0.02€ out of position
+Dealt to paul bzh [4h 3h]
+*** PRE-FLOP *** 
+YulGG folds
+paul bzh checks
+chatpitre calls 0.02€
+chivi71 folds
+matbld checks
+*** FLOP *** [5h 5c Kd]
+matbld checks
+paul bzh checks
+chatpitre checks
+*** TURN *** [5h 5c Kd][Ad]
+matbld checks
+paul bzh bets 0.05€
+chatpitre folds
+matbld folds
+paul bzh collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [5h 5c Kd Ad]
+Seat 2: paul bzh won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #11799996-717-1538420963 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:09:23 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: YulGG (3.51€)
+Seat 2: paul bzh (2.05€)
+Seat 3: chatpitre (0.33€)
+Seat 4: chivi71 (2€)
+Seat 5: matbld (2.10€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+YulGG posts big blind 0.02€
+Dealt to paul bzh [2c 5s]
+*** PRE-FLOP *** 
+paul bzh folds
+chatpitre calls 0.02€
+chivi71 raises 0.06€ to 0.08€
+matbld calls 0.07€
+YulGG folds
+chatpitre folds
+*** FLOP *** [As 6h 9d]
+matbld checks
+chivi71 bets 0.10€
+matbld folds
+chivi71 collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [As 6h 9d]
+Seat 4: chivi71 (button) won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #11799996-718-1538421022 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:10:22 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: YulGG (3.49€)
+Seat 2: paul bzh (2.05€)
+Seat 3: chatpitre (0.31€)
+Seat 4: chivi71 (2.11€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+YulGG posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [6s 8c]
+*** PRE-FLOP *** 
+chatpitre folds
+chivi71 raises 0.04€ to 0.06€
+matbld folds
+YulGG calls 0.05€
+paul bzh folds
+*** FLOP *** [7d Jd 7s]
+YulGG checks
+chivi71 bets 0.07€
+YulGG folds
+chivi71 collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [7d Jd 7s]
+Seat 4: chivi71 won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #11799996-719-1538421091 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:11:31 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.03€)
+Seat 3: chatpitre (0.31€)
+Seat 4: chivi71 (2.18€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [4s Js]
+*** PRE-FLOP *** 
+chivi71 folds
+matbld folds
+YulGG folds
+paul bzh calls 0.01€
+chatpitre checks
+*** FLOP *** [8h 3c 6c]
+paul bzh checks
+chatpitre bets 0.04€
+paul bzh folds
+chatpitre collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [8h 3c 6c]
+Seat 3: chatpitre (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11799996-720-1538421120 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:12:00 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.01€)
+Seat 3: chatpitre (0.33€)
+Seat 4: chivi71 (2.18€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+Dealt to paul bzh [Qh 2h]
+*** PRE-FLOP *** 
+matbld folds
+YulGG folds
+paul bzh raises 0.04€ to 0.06€
+chatpitre folds
+chivi71 folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 2: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11799996-721-1538421136 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:12:16 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.04€)
+Seat 3: chatpitre (0.32€)
+Seat 4: chivi71 (2.16€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+Dealt to paul bzh [Kd Kc]
+*** PRE-FLOP *** 
+YulGG folds
+paul bzh raises 0.06€ to 0.08€
+chatpitre folds
+chivi71 folds
+matbld calls 0.06€
+*** FLOP *** [9d 5s 5d]
+matbld checks
+paul bzh bets 0.09€
+matbld folds
+paul bzh collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [9d 5s 5d]
+Seat 2: paul bzh won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #11799996-722-1538421165 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:12:45 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.12€)
+Seat 3: chatpitre (0.32€)
+Seat 4: chivi71 (2.15€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+YulGG posts big blind 0.02€
+Dealt to paul bzh [Ks 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+chatpitre folds
+chivi71 folds
+matbld folds
+YulGG collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: YulGG (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-723-1538421185 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:13:05 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: YulGG (3.44€)
+Seat 2: paul bzh (2.12€)
+Seat 3: chatpitre (0.32€)
+Seat 4: chivi71 (2.15€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+YulGG posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [4c Kd]
+*** PRE-FLOP *** 
+chatpitre folds
+chivi71 folds
+matbld raises 0.03€ to 0.05€
+YulGG folds
+paul bzh folds
+matbld collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: matbld (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11799996-724-1538421224 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:13:44 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.10€)
+Seat 3: chatpitre (0.32€)
+Seat 4: chivi71 (2.15€)
+Seat 5: matbld (2.03€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [7c 3h]
+*** PRE-FLOP *** 
+chivi71 folds
+matbld raises 0.04€ to 0.06€
+YulGG folds
+paul bzh folds
+chatpitre folds
+matbld collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: matbld won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11799996-725-1538421240 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:14:00 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.09€)
+Seat 3: chatpitre (0.30€)
+Seat 4: chivi71 (2.15€)
+Seat 5: matbld (2.06€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+Dealt to paul bzh [Ac 8s]
+*** PRE-FLOP *** 
+matbld folds
+YulGG folds
+paul bzh raises 0.04€ to 0.06€
+chatpitre folds
+chivi71 folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 2: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11799996-726-1538421266 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:14:26 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.12€)
+Seat 3: chatpitre (0.29€)
+Seat 4: chivi71 (2.13€)
+Seat 5: matbld (2.06€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+Dealt to paul bzh [Tc 5d]
+*** PRE-FLOP *** 
+YulGG folds
+paul bzh raises 0.02€ to 0.04€
+chatpitre calls 0.04€
+chivi71 folds
+matbld calls 0.02€
+*** FLOP *** [4c 6h 6d]
+matbld checks
+paul bzh bets 0.07€
+chatpitre folds
+matbld folds
+paul bzh collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [4c 6h 6d]
+Seat 2: paul bzh won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #11799996-727-1538421325 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:15:25 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.20€)
+Seat 3: chatpitre (0.25€)
+Seat 4: chivi71 (2.12€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+YulGG posts big blind 0.02€
+Dealt to paul bzh [3s 7s]
+*** PRE-FLOP *** 
+paul bzh folds
+chatpitre folds
+chivi71 folds
+matbld folds
+YulGG collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: YulGG (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-728-1538421336 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:15:36 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: YulGG (3.44€)
+Seat 2: paul bzh (2.20€)
+Seat 3: chatpitre (0.25€)
+Seat 4: chivi71 (2.12€)
+Seat 5: matbld (2.01€)
+*** ANTE/BLINDS ***
+YulGG posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [9h Ac]
+*** PRE-FLOP *** 
+chatpitre folds
+chivi71 folds
+matbld raises 0.03€ to 0.05€
+YulGG folds
+paul bzh calls 0.03€
+*** FLOP *** [Ah Td 9c]
+paul bzh checks
+matbld checks
+*** TURN *** [Ah Td 9c][Jh]
+paul bzh bets 0.11€
+matbld calls 0.11€
+*** RIVER *** [Ah Td 9c Jh][2d]
+paul bzh bets 0.33€
+matbld folds
+paul bzh collected 0.64€ from pot
+*** SUMMARY ***
+Total pot 0.64€ | Rake 0.02€
+Board: [Ah Td 9c Jh 2d]
+Seat 2: paul bzh (big blind) won 0.64€
+
+
+Winamax Poker - CashGame - HandId: #11799996-729-1538421375 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:16:15 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.35€)
+Seat 3: chatpitre (0.25€)
+Seat 4: chivi71 (2.12€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [6h Js]
+*** PRE-FLOP *** 
+chivi71 folds
+matbld raises 0.04€ to 0.06€
+YulGG folds
+paul bzh folds
+chatpitre calls 0.04€
+*** FLOP *** [Ad 3d 5d]
+chatpitre checks
+matbld checks
+*** TURN *** [Ad 3d 5d][4h]
+chatpitre checks
+matbld checks
+*** RIVER *** [Ad 3d 5d 4h][7h]
+chatpitre checks
+matbld checks
+*** SHOW DOWN ***
+chatpitre shows [Qh Ts] (High card : Ace)
+matbld shows [9c 7c] (One pair : 7)
+matbld collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [Ad 3d 5d 4h 7h]
+Seat 3: chatpitre (big blind) showed [Qh Ts] and lost with High card : Ace
+Seat 5: matbld showed [9c 7c] and won 0.12€ with One pair : 7
+
+
+Winamax Poker - CashGame - HandId: #11799996-730-1538421436 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:17:16 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.34€)
+Seat 3: chatpitre (0.19€)
+Seat 4: chivi71 (2.12€)
+Seat 5: matbld (2.06€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+Dealt to paul bzh [5s 3d]
+*** PRE-FLOP *** 
+matbld folds
+YulGG folds
+paul bzh raises 0.04€ to 0.06€
+chatpitre folds
+chivi71 raises 0.13€ to 0.19€
+paul bzh folds
+chivi71 collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | No rake
+Seat 4: chivi71 (big blind) won 0.26€
+
+
+Winamax Poker - CashGame - HandId: #11799996-731-1538421458 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:17:38 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.28€)
+Seat 3: chatpitre (0.18€)
+Seat 4: chivi71 (2.19€)
+Seat 5: matbld (2.06€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+Dealt to paul bzh [6h 8d]
+*** PRE-FLOP *** 
+YulGG folds
+paul bzh raises 0.02€ to 0.04€
+chatpitre folds
+chivi71 folds
+matbld calls 0.02€
+*** FLOP *** [7s 5s 7c]
+matbld checks
+paul bzh bets 0.06€
+matbld raises 0.14€ to 0.20€
+paul bzh calls 0.14€
+*** TURN *** [7s 5s 7c][9c]
+matbld bets 0.32€
+paul bzh raises 0.48€ to 0.80€
+matbld folds
+paul bzh collected 1.55€ from pot
+*** SUMMARY ***
+Total pot 1.55€ | Rake 0.06€
+Board: [7s 5s 7c 9c]
+Seat 2: paul bzh won 1.55€
+
+
+Winamax Poker - CashGame - HandId: #11799996-732-1538421538 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:18:58 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: YulGG (3.43€)
+Seat 2: paul bzh (2.79€)
+Seat 3: chatpitre (0.18€)
+Seat 4: chivi71 (2.18€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [5h 6d]
+*** PRE-FLOP *** 
+chatpitre folds
+chivi71 folds
+matbld folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-733-1538421562 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:19:22 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 2: paul bzh (2.80€)
+Seat 3: chatpitre (0.18€)
+Seat 4: chivi71 (2.18€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [4s 2c]
+*** PRE-FLOP *** 
+chivi71 folds
+matbld folds
+paul bzh calls 0.01€
+chatpitre checks
+*** FLOP *** [8d 9c 6d]
+paul bzh checks
+chatpitre checks
+*** TURN *** [8d 9c 6d][Tc]
+paul bzh checks
+chatpitre bets 0.02€
+paul bzh folds
+chatpitre collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [8d 9c 6d Tc]
+Seat 3: chatpitre (big blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #11799996-734-1538421596 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:19:56 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: Bonaporte (1€)
+Seat 2: paul bzh (2.78€)
+Seat 3: chatpitre (0.20€)
+Seat 4: chivi71 (2.18€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+Bonaporte posts big blind 0.02€ out of position
+Dealt to paul bzh [9c Ts]
+*** PRE-FLOP *** 
+matbld folds
+Bonaporte checks
+paul bzh calls 0.02€
+chatpitre folds
+chivi71 checks
+*** FLOP *** [6d Th 4s]
+chivi71 checks
+Bonaporte checks
+paul bzh bets 0.05€
+chivi71 calls 0.05€
+Bonaporte folds
+*** TURN *** [6d Th 4s][Kd]
+chivi71 checks
+paul bzh bets 0.11€
+chivi71 calls 0.11€
+*** RIVER *** [6d Th 4s Kd][5h]
+chivi71 checks
+paul bzh checks
+*** SHOW DOWN ***
+chivi71 shows [Jd Qc] (High card : King)
+paul bzh shows [9c Ts] (One pair : Tens)
+paul bzh collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.02€
+Board: [6d Th 4s Kd 5h]
+Seat 2: paul bzh (button) showed [9c Ts] and won 0.37€ with One pair : Tens
+Seat 4: chivi71 (big blind) showed [Jd Qc] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #11799996-735-1538421643 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:20:43 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: Bonaporte (0.98€)
+Seat 2: paul bzh (2.97€)
+Seat 3: chatpitre (0.19€)
+Seat 4: chivi71 (2€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+Dealt to paul bzh [7c Th]
+*** PRE-FLOP *** 
+Bonaporte folds
+paul bzh folds
+chatpitre folds
+chivi71 raises 0.04€ to 0.06€
+matbld raises 0.12€ to 0.18€
+chivi71 folds
+matbld collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | No rake
+Seat 5: matbld (big blind) won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #11799996-736-1538421678 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:21:18 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: Bonaporte (0.98€)
+Seat 2: paul bzh (2.97€)
+Seat 3: chatpitre (0.19€)
+Seat 4: chivi71 (2€)
+Seat 5: matbld (2.06€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+Bonaporte posts big blind 0.02€
+Dealt to paul bzh [Jd 3h]
+*** PRE-FLOP *** 
+paul bzh folds
+chatpitre folds
+chivi71 raises 0.04€ to 0.06€
+matbld calls 0.05€
+Bonaporte folds
+*** FLOP *** [Jh 6c Jc]
+matbld checks
+chivi71 bets 0.07€
+matbld folds
+chivi71 collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [Jh 6c Jc]
+Seat 4: chivi71 (button) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #11799996-737-1538421718 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:21:58 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: Bonaporte (0.96€)
+Seat 2: paul bzh (2.97€)
+Seat 3: chatpitre (0.19€)
+Seat 4: chivi71 (2.07€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+Bonaporte posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [5c 3c]
+*** PRE-FLOP *** 
+chatpitre calls 0.02€
+chivi71 folds
+matbld folds
+Bonaporte raises 0.02€ to 0.04€
+paul bzh calls 0.02€
+chatpitre calls 0.02€
+*** FLOP *** [4s 9h 2s]
+Bonaporte checks
+paul bzh checks
+chatpitre checks
+*** TURN *** [4s 9h 2s][4h]
+Bonaporte bets 0.03€
+paul bzh calls 0.03€
+chatpitre folds
+*** RIVER *** [4s 9h 2s 4h][Kd]
+Bonaporte bets 0.05€
+paul bzh folds
+Bonaporte collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [4s 9h 2s 4h Kd]
+Seat 1: Bonaporte (small blind) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11799996-738-1538421778 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:22:58 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: Bonaporte (1.06€)
+Seat 2: paul bzh (2.90€)
+Seat 3: chatpitre (0.15€)
+Seat 4: chivi71 (2.07€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [3h 4d]
+*** PRE-FLOP *** 
+chivi71 folds
+matbld folds
+Bonaporte folds
+paul bzh folds
+chatpitre collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: chatpitre (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-739-1538421785 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:23:05 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: Bonaporte (1.06€)
+Seat 2: paul bzh (2.89€)
+Seat 3: chatpitre (0.16€)
+Seat 4: chivi71 (2.07€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+chatpitre posts small blind 0.01€
+chivi71 posts big blind 0.02€
+Dealt to paul bzh [Js Tc]
+*** PRE-FLOP *** 
+matbld folds
+Bonaporte raises 0.03€ to 0.05€
+paul bzh calls 0.05€
+chatpitre folds
+chivi71 folds
+*** FLOP *** [Qs 7h 9h]
+Bonaporte bets 0.05€
+paul bzh calls 0.05€
+*** TURN *** [Qs 7h 9h][6h]
+Bonaporte checks
+paul bzh checks
+*** RIVER *** [Qs 7h 9h 6h][Ad]
+Bonaporte bets 0.10€
+paul bzh folds
+Bonaporte collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.01€
+Board: [Qs 7h 9h 6h Ad]
+Seat 1: Bonaporte won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #11799996-740-1538421818 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:23:38 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: Bonaporte (1.18€)
+Seat 2: paul bzh (2.79€)
+Seat 3: chatpitre (0.15€)
+Seat 4: chivi71 (2.05€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+matbld posts big blind 0.02€
+Dealt to paul bzh [6c 2s]
+*** PRE-FLOP *** 
+Bonaporte folds
+paul bzh folds
+chatpitre raises 0.03€ to 0.05€
+chivi71 folds
+matbld calls 0.03€
+*** FLOP *** [7s Ad Jd]
+matbld checks
+chatpitre bets 0.06€
+matbld folds
+chatpitre collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [7s Ad Jd]
+Seat 3: chatpitre (button) won 0.16€
+
+
+Winamax Poker - CashGame - HandId: #11799996-741-1538421857 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:24:17 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: Bonaporte (1.18€)
+Seat 2: paul bzh (2.79€)
+Seat 3: chatpitre (0.20€)
+Seat 4: chivi71 (2.04€)
+Seat 5: matbld (2€)
+*** ANTE/BLINDS ***
+matbld posts small blind 0.01€
+Bonaporte posts big blind 0.02€
+Dealt to paul bzh [Td 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+chatpitre folds
+chivi71 folds
+matbld raises 0.04€ to 0.06€
+Bonaporte folds
+matbld collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: matbld (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11799996-742-1538421880 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:24:40 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: Bonaporte (1.16€)
+Seat 2: paul bzh (2.79€)
+Seat 3: chatpitre (0.20€)
+Seat 4: chivi71 (2.04€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+Bonaporte posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Qc Ts]
+*** PRE-FLOP *** 
+chatpitre folds
+chivi71 folds
+matbld folds
+Bonaporte calls 0.01€
+paul bzh raises 0.04€ to 0.06€
+Bonaporte folds
+paul bzh collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: paul bzh (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11799996-743-1538421901 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:25:01 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: Bonaporte (1.14€)
+Seat 2: paul bzh (2.81€)
+Seat 3: chatpitre (0.20€)
+Seat 4: chivi71 (2.04€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+chatpitre posts big blind 0.02€
+Dealt to paul bzh [Jc Th]
+*** PRE-FLOP *** 
+chivi71 raises 0.04€ to 0.06€
+matbld folds
+Bonaporte folds
+paul bzh calls 0.05€
+chatpitre raises 0.14€ to 0.20€ and is all-in
+chivi71 calls 0.14€
+paul bzh folds
+*** FLOP *** [4d 8c Qs]
+*** TURN *** [4d 8c Qs][7s]
+*** RIVER *** [4d 8c Qs 7s][5c]
+*** SHOW DOWN ***
+chatpitre shows [Ts As] (High card : Ace)
+chivi71 shows [Td Qd] (One pair : Queens)
+chivi71 collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.03€
+Board: [4d 8c Qs 7s 5c]
+Seat 3: chatpitre (big blind) showed [Ts As] and lost with High card : Ace
+Seat 4: chivi71 showed [Td Qd] and won 0.43€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #11799996-744-1538421953 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:25:53 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: Bonaporte (1.14€)
+Seat 2: paul bzh (2.75€)
+Seat 3: chatpitre (0€)
+Seat 4: chivi71 (2.27€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+chivi71 posts big blind 0.02€
+Dealt to paul bzh [2h 3s]
+*** PRE-FLOP *** 
+matbld folds
+Bonaporte folds
+paul bzh raises 0.04€ to 0.06€
+chivi71 folds
+paul bzh collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: paul bzh (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11799996-745-1538421967 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:26:07 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: Bonaporte (1.14€)
+Seat 2: paul bzh (2.77€)
+Seat 3: trancos (0€)
+Seat 4: chivi71 (2.25€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+chivi71 posts small blind 0.01€
+Bonaporte posts big blind 0.02€
+Dealt to paul bzh [3s 6s]
+*** PRE-FLOP *** 
+paul bzh calls 0.02€
+chivi71 raises 0.06€ to 0.08€
+Bonaporte folds
+paul bzh calls 0.06€
+*** FLOP *** [8h Td 5d]
+chivi71 bets 0.09€
+paul bzh folds
+chivi71 collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.01€
+Board: [8h Td 5d]
+Seat 4: chivi71 (small blind) won 0.26€
+
+
+Winamax Poker - CashGame - HandId: #11799996-746-1538421995 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:26:35 UTC
+Table: 'Nice 23' 5-max (real money) Seat #4 is the button
+Seat 1: Bonaporte (1.12€)
+Seat 2: paul bzh (2.69€)
+Seat 3: trancos (2€)
+Seat 4: chivi71 (2.34€)
+Seat 5: matbld (2.02€)
+*** ANTE/BLINDS ***
+Bonaporte posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Js Kc]
+*** PRE-FLOP *** 
+chivi71 folds
+Bonaporte folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11799996-747-1538422007 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:26:47 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: Bonaporte (1.11€)
+Seat 2: paul bzh (2.70€)
+Seat 3: trancos (2€)
+Seat 4: chivi71 (2.34€)
+Seat 5: Spongebobcar (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+trancos posts big blind 0.02€
+Dealt to paul bzh [9d 4s]
+*** PRE-FLOP *** 
+chivi71 folds
+Bonaporte folds
+paul bzh calls 0.01€
+trancos checks
+*** FLOP *** [3d Td 7h]
+paul bzh checks
+trancos checks
+*** TURN *** [3d Td 7h][9h]
+paul bzh checks
+trancos bets 0.04€
+paul bzh calls 0.04€
+*** RIVER *** [3d Td 7h 9h][Jh]
+paul bzh bets 0.08€
+trancos raises 0.28€ to 0.36€
+paul bzh folds
+trancos collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.02€
+Board: [3d Td 7h 9h Jh]
+Seat 3: trancos (big blind) won 0.54€
+
+
+Winamax Poker - CashGame - HandId: #11799996-748-1538422083 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:28:03 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: Bonaporte (1.11€)
+Seat 2: paul bzh (2.56€)
+Seat 3: trancos (2.12€)
+Seat 5: Spongebobcar (2€)
+*** ANTE/BLINDS ***
+trancos posts small blind 0.01€
+Spongebobcar posts big blind 0.02€
+Dealt to paul bzh [Qc Js]
+*** PRE-FLOP *** 
+Bonaporte raises 0.03€ to 0.05€
+paul bzh raises 0.10€ to 0.15€
+trancos folds
+Spongebobcar folds
+Bonaporte raises 0.10€ to 0.25€
+paul bzh calls 0.10€
+*** FLOP *** [7d 3s 5h]
+Bonaporte bets 0.05€
+paul bzh calls 0.05€
+*** TURN *** [7d 3s 5h][5s]
+Bonaporte bets 0.13€
+paul bzh calls 0.13€
+*** RIVER *** [7d 3s 5h 5s][Ad]
+Bonaporte bets 0.05€
+paul bzh calls 0.05€
+*** SHOW DOWN ***
+paul bzh shows [Qc Js] (One pair : 5)
+Bonaporte shows [As Jd] (Two pairs : Aces and 5)
+Bonaporte collected 0.93€ from pot
+*** SUMMARY ***
+Total pot 0.93€ | Rake 0.06€
+Board: [7d 3s 5h 5s Ad]
+Seat 1: Bonaporte showed [As Jd] and won 0.93€ with Two pairs : Aces and 5
+Seat 2: paul bzh (button) showed [Qc Js] and lost with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #11799996-749-1538422146 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:29:06 UTC
+Table: 'Nice 23' 5-max (real money) Seat #3 is the button
+Seat 1: Bonaporte (1.56€)
+Seat 2: paul bzh (2.08€)
+Seat 3: trancos (2.11€)
+Seat 4: valoooo89 (0.61€)
+Seat 5: Spongebobcar (2€)
+*** ANTE/BLINDS ***
+Spongebobcar posts small blind 0.01€
+Bonaporte posts big blind 0.02€
+Dealt to paul bzh [3c Jd]
+*** PRE-FLOP *** 
+paul bzh folds
+trancos folds
+Spongebobcar raises 0.04€ to 0.06€
+Bonaporte calls 0.04€
+*** FLOP *** [5h Th Ts]
+Spongebobcar bets 0.06€
+Bonaporte folds
+Spongebobcar collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [5h Th Ts]
+Seat 5: Spongebobcar (small blind) won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #11799996-750-1538422169 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:29:29 UTC
+Table: 'Nice 23' 5-max (real money) Seat #5 is the button
+Seat 1: Bonaporte (1.50€)
+Seat 2: paul bzh (2.08€)
+Seat 3: trancos (2.11€)
+Seat 4: valoooo89 (0.61€)
+Seat 5: Spongebobcar (2.05€)
+*** ANTE/BLINDS ***
+Bonaporte posts small blind 0.01€
+paul bzh posts big blind 0.02€
+valoooo89 posts big blind 0.02€ out of position
+Dealt to paul bzh [7c Qc]
+*** PRE-FLOP *** 
+trancos folds
+valoooo89 checks
+Spongebobcar raises 0.06€ to 0.08€
+Bonaporte folds
+paul bzh folds
+valoooo89 calls 0.06€
+*** FLOP *** [8h 7s Qh]
+valoooo89 bets 0.13€
+Spongebobcar folds
+valoooo89 collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.01€
+Board: [8h 7s Qh]
+Seat 4: valoooo89 won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #11799996-751-1538422212 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:30:12 UTC
+Table: 'Nice 23' 5-max (real money) Seat #1 is the button
+Seat 1: Bonaporte (1.49€)
+Seat 2: paul bzh (2.06€)
+Seat 3: trancos (2.11€)
+Seat 4: valoooo89 (0.71€)
+Seat 5: Spongebobcar (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+valoooo89 posts big blind 0.02€
+Dealt to paul bzh [9s 5c]
+*** PRE-FLOP *** 
+Spongebobcar folds
+Bonaporte folds
+paul bzh calls 0.01€
+valoooo89 checks
+*** FLOP *** [Qs 4d 4s]
+paul bzh checks
+valoooo89 bets 0.02€
+paul bzh folds
+valoooo89 collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [Qs 4d 4s]
+Seat 4: valoooo89 (big blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #11799996-752-1538422269 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:31:09 UTC
+Table: 'Nice 23' 5-max (real money) Seat #2 is the button
+Seat 1: Bonaporte (1.49€)
+Seat 2: paul bzh (2.04€)
+Seat 4: valoooo89 (0.73€)
+Seat 5: Spongebobcar (2€)
+*** ANTE/BLINDS ***
+valoooo89 posts small blind 0.01€
+Spongebobcar posts big blind 0.02€
+Dealt to paul bzh [8s 6h]
+*** PRE-FLOP *** 
+Bonaporte raises 0.03€ to 0.05€
+paul bzh folds
+valoooo89 folds
+Spongebobcar folds
+Bonaporte collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 1: Bonaporte won 0.08€
+
+

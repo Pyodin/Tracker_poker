@@ -1,0 +1,355 @@
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585588-1538488912 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:01:52 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Romanoskii (2.06€)
+Seat 2: paul bzh (2€)
+Seat 3: etc.. (5.08€)
+Seat 4: Gafe2018 (2.04€)
+Seat 5: shipper11 (2€)
+Seat 6: Woosa (2.36€)
+*** ANTE/BLINDS ***
+Romanoskii posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [6c 8d]
+*** PRE-FLOP *** 
+etc.. folds
+Gafe2018 folds
+shipper11 folds
+Woosa raises 0.04€ to 0.06€
+Romanoskii raises 2€ to 2.06€ and is all-in
+paul bzh calls 1.98€ and is all-in
+Woosa folds
+*** FLOP *** [5h 9s Ts]
+*** TURN *** [5h 9s Ts][7h]
+*** RIVER *** [5h 9s Ts 7h][2s]
+*** SHOW DOWN ***
+Romanoskii shows [Qs Jh] (High card : Queen)
+paul bzh shows [6c 8d] (Straight Ten high)
+paul bzh collected 3.83€ from main pot
+Romanoskii collected 0.06€ from side pot 1
+*** SUMMARY ***
+Total pot 3.89€ | Rake 0.23€
+Board: [5h 9s Ts 7h 2s]
+Seat 1: Romanoskii (small blind) showed [Qs Jh] and won 0.06€ with High card : Queen
+Seat 2: paul bzh (big blind) showed [6c 8d] and won 3.83€ with Straight Ten high
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585638-1538488943 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:02:23 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: AleK sky (1.22€)
+Seat 2: K1NOU (2.61€)
+Seat 3: paul bzh (3.82€)
+Seat 4: Irisana (2.03€)
+Seat 5: RAFLATOR (2€)
+Seat 6: krizoo125 (3.25€)
+*** ANTE/BLINDS ***
+AleK sky posts small blind 0.01€
+K1NOU posts big blind 0.02€
+Dealt to paul bzh [Jc 3c]
+*** PRE-FLOP *** 
+paul bzh folds
+Irisana folds
+RAFLATOR folds
+krizoo125 folds
+AleK sky folds
+K1NOU collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: K1NOU (big blind) won 0.03€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585641-1538488944 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:02:24 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: etc.. (2.56€)
+Seat 2: instashold (3.80€)
+Seat 3: Blackmoro (1.58€)
+Seat 4: paul bzh (3.82€)
+Seat 5: Bapasam (1.35€)
+Seat 6: Lolo4Whine (0.47€)
+*** ANTE/BLINDS ***
+etc.. posts small blind 0.01€
+instashold posts big blind 0.02€
+Dealt to paul bzh [Ks 4h]
+*** PRE-FLOP *** 
+Blackmoro folds
+paul bzh folds
+Bapasam folds
+Lolo4Whine raises 0.04€ to 0.06€
+etc.. folds
+instashold folds
+Lolo4Whine collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 6: Lolo4Whine (button) won 0.09€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585635-1538488940 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:02:20 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (3.83€)
+Seat 2: Woosa (2.30€)
+Seat 3: Romanoskii (0.06€)
+Seat 4: profeetroll (2€)
+Seat 5: c.moi.etvous (9.32€)
+Seat 6: etc.. (5.05€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Woosa posts big blind 0.02€
+Dealt to paul bzh [Kd 9c]
+*** PRE-FLOP *** 
+Romanoskii folds
+profeetroll folds
+c.moi.etvous folds
+etc.. folds
+paul bzh folds
+Woosa collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Woosa (big blind) won 0.03€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585646-1538488947 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:02:27 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Jo le Rigolo (2.35€)
+Seat 2: etc.. (2.55€)
+Seat 3: Escovadee (6.15€)
+Seat 4: cactus49 (1.03€)
+Seat 5: Irisana (2.03€)
+Seat 6: paul bzh (3.82€)
+*** ANTE/BLINDS ***
+Jo le Rigolo posts small blind 0.01€
+etc.. posts big blind 0.02€
+Dealt to paul bzh [Ac 7d]
+*** PRE-FLOP *** 
+Escovadee folds
+cactus49 raises 0.02€ to 0.04€
+Irisana folds
+paul bzh calls 0.04€
+Jo le Rigolo folds
+etc.. folds
+*** FLOP *** [2d 7h 9h]
+cactus49 checks
+paul bzh bets 0.06€
+cactus49 folds
+paul bzh collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [2d 7h 9h]
+Seat 6: paul bzh (button) won 0.16€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585714-1538488985 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:03:05 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: instashold (4.23€)
+Seat 2: Kearvek (3.07€)
+Seat 3: flipao (1.91€)
+Seat 4: jperullera (1.15€)
+Seat 5: paul bzh (3.88€)
+Seat 6: Gafe2018 (1.91€)
+*** ANTE/BLINDS ***
+instashold posts small blind 0.01€
+Kearvek posts big blind 0.02€
+Dealt to paul bzh [Js 3h]
+*** PRE-FLOP *** 
+flipao raises 0.04€ to 0.06€
+jperullera calls 0.06€
+paul bzh folds
+Gafe2018 folds
+instashold folds
+Kearvek folds
+*** FLOP *** [8c 5d 3c]
+flipao checks
+jperullera checks
+*** TURN *** [8c 5d 3c][7s]
+flipao bets 0.07€
+jperullera folds
+flipao collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [8c 5d 3c 7s]
+Seat 3: flipao won 0.21€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585724-1538488991 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:03:11 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: 4-Knox (3.09€)
+Seat 2: paul bzh (3.88€)
+Seat 3: TuVeuxTesTeR (4.85€)
+Seat 4: chAAlfff (3.20€)
+Seat 5: Gafe2018 (1.91€)
+Seat 6: Aibloy (3.71€)
+*** ANTE/BLINDS ***
+4-Knox posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Ad 6h]
+*** PRE-FLOP *** 
+TuVeuxTesTeR folds
+chAAlfff folds
+Gafe2018 folds
+Aibloy raises 0.04€ to 0.06€
+4-Knox folds
+paul bzh calls 0.04€
+*** FLOP *** [Kc 7c Th]
+paul bzh checks
+Aibloy bets 0.09€
+paul bzh folds
+Aibloy collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Kc 7c Th]
+Seat 6: Aibloy (button) won 0.21€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585720-1538488988 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:03:08 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Polonaise71 (2€)
+Seat 2: etc.. (2.07€)
+Seat 3: Escovadee (6.12€)
+Seat 4: paul bzh (3.88€)
+Seat 5: RAFLATOR (2€)
+Seat 6: maxou 43 (2.54€)
+*** ANTE/BLINDS ***
+Polonaise71 posts small blind 0.01€
+etc.. posts big blind 0.02€
+Dealt to paul bzh [6h 5d]
+*** PRE-FLOP *** 
+Escovadee raises 0.04€ to 0.06€
+paul bzh folds
+RAFLATOR folds
+maxou 43 calls 0.06€
+Polonaise71 folds
+etc.. folds
+*** FLOP *** [Ad Tc 3h]
+Escovadee checks
+maxou 43 checks
+*** TURN *** [Ad Tc 3h][8d]
+Escovadee checks
+maxou 43 checks
+*** RIVER *** [Ad Tc 3h 8d][4s]
+Escovadee checks
+maxou 43 checks
+*** SHOW DOWN ***
+maxou 43 shows [Qs Kd] (High card : Ace)
+Escovadee shows [Jd Js] (One pair : Jacks)
+Escovadee collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [Ad Tc 3h 8d 4s]
+Seat 3: Escovadee showed [Jd Js] and won 0.14€ with One pair : Jacks
+Seat 6: maxou 43 (button) showed [Qs Kd] and lost with High card : Ace
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585772-1538489019 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:03:39 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (3.82€)
+Seat 2: Oh_myGOD (3.37€)
+Seat 3: Lolo4Whine (0.29€)
+Seat 4: Draconis22 (0.90€)
+Seat 5: zazanator (2.25€)
+Seat 6: Gafe2018 (2.06€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Oh_myGOD posts big blind 0.02€
+Dealt to paul bzh [2d 4d]
+*** PRE-FLOP *** 
+Lolo4Whine folds
+Draconis22 folds
+zazanator folds
+Gafe2018 folds
+paul bzh calls 0.01€
+Oh_myGOD checks
+*** FLOP *** [Jd 7d 7c]
+paul bzh bets 0.04€
+Oh_myGOD folds
+paul bzh collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [Jd 7d 7c]
+Seat 1: paul bzh (small blind) won 0.08€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585860-1538489071 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:04:31 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: RAFLATOR (2€)
+Seat 2: Oh_myGOD (3.34€)
+Seat 3: cactus49 (0.97€)
+Seat 4: maxou 43 (2.45€)
+Seat 5: dinkytoy30 (0.93€)
+Seat 6: paul bzh (3.84€)
+*** ANTE/BLINDS ***
+RAFLATOR posts small blind 0.01€
+Oh_myGOD posts big blind 0.02€
+Dealt to paul bzh [Kh 2s]
+*** PRE-FLOP *** 
+cactus49 raises 0.02€ to 0.04€
+maxou 43 folds
+dinkytoy30 folds
+paul bzh calls 0.04€
+RAFLATOR folds
+Oh_myGOD folds
+*** FLOP *** [5h Jc Qd]
+cactus49 checks
+paul bzh checks
+*** TURN *** [5h Jc Qd][9s]
+cactus49 checks
+paul bzh bets 0.02€
+cactus49 calls 0.02€
+*** RIVER *** [5h Jc Qd 9s][Tc]
+cactus49 checks
+paul bzh bets 0.11€
+cactus49 folds
+paul bzh collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [5h Jc Qd 9s Tc]
+Seat 6: paul bzh (button) won 0.25€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585969-1538489135 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:05:35 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Escovadee (6.03€)
+Seat 2: etc.. (2€)
+Seat 3: paul bzh (3.92€)
+Seat 4: Lolo4Whine (0.48€)
+Seat 5: Polonaise71 (1.73€)
+Seat 6: stephy401 (2.41€)
+*** ANTE/BLINDS ***
+Escovadee posts small blind 0.01€
+etc.. posts big blind 0.02€
+Dealt to paul bzh [9h 8c]
+*** PRE-FLOP *** 
+paul bzh folds
+Lolo4Whine raises 0.46€ to 0.48€ and is all-in
+Polonaise71 folds
+stephy401 folds
+Escovadee folds
+etc.. folds
+Lolo4Whine collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | No rake
+Seat 4: Lolo4Whine won 0.51€
+
+
+Winamax Poker - Go Fast "Colorado" - HandId: #11740852-1585974-1538489139 - Holdem no limit (0.01€/0.02€) - 2018/10/02 14:05:39 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Oh_myGOD (2€)
+Seat 2: Revolteks (2.65€)
+Seat 3: gil95100 (2.14€)
+Seat 4: zazanator (2.19€)
+Seat 5: paul bzh (3.92€)
+Seat 6: Draconis22 (1.40€)
+*** ANTE/BLINDS ***
+Oh_myGOD posts small blind 0.01€
+Revolteks posts big blind 0.02€
+Dealt to paul bzh [Ac Ts]
+*** PRE-FLOP *** 
+gil95100 folds
+zazanator folds
+paul bzh raises 0.06€ to 0.08€
+Draconis22 folds
+Oh_myGOD folds
+Revolteks folds
+paul bzh collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Seat 5: paul bzh won 0.11€
+
+

@@ -1,0 +1,1360 @@
+Winamax Poker - CashGame - HandId: #11783039-717-1538081858 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:57:38 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #1 is the button
+Seat 1: KiCkErSdu11 (2.76€)
+Seat 2: ooGIANToo (2.01€)
+Seat 3: KoalaDormeur (6.09€)
+Seat 4: Asashoryu (3.67€)
+Seat 5: paul bzh (2€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+paul bzh posts big blind 0.02€ out of position
+Dealt to paul bzh [Qs Th]
+*** PRE-FLOP *** 
+Asashoryu folds
+paul bzh raises 0.02€ to 0.04€
+ooGIANToo folds
+KoalaDormeur folds
+paul bzh collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 5: paul bzh won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11783039-718-1538081909 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:58:29 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (2.76€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.07€)
+Seat 4: Asashoryu (3.67€)
+Seat 5: paul bzh (2.03€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Asashoryu posts big blind 0.02€
+Dealt to paul bzh [Th 6d]
+*** PRE-FLOP *** 
+paul bzh folds
+KiCkErSdu11 calls 0.02€
+ooGIANToo folds
+KoalaDormeur folds
+Asashoryu checks
+*** FLOP *** [2s Kd 6h]
+Asashoryu checks
+KiCkErSdu11 checks
+*** TURN *** [2s Kd 6h][5h]
+Asashoryu checks
+KiCkErSdu11 bets 0.02€
+Asashoryu folds
+KiCkErSdu11 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Board: [2s Kd 6h 5h]
+Seat 1: KiCkErSdu11 won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11783039-719-1538081944 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:59:04 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (2.79€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.06€)
+Seat 4: Asashoryu (3.65€)
+Seat 5: paul bzh (2.03€)
+*** ANTE/BLINDS ***
+Asashoryu posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Js 7h]
+*** PRE-FLOP *** 
+KiCkErSdu11 folds
+ooGIANToo folds
+KoalaDormeur raises 0.04€ to 0.06€
+Asashoryu folds
+paul bzh folds
+KoalaDormeur collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: KoalaDormeur (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-720-1538081970 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:59:30 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (2.79€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.09€)
+Seat 4: Asashoryu (3.64€)
+Seat 5: paul bzh (2.01€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+KiCkErSdu11 posts big blind 0.02€
+Dealt to paul bzh [Tc Ah]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur raises 0.05€ to 0.07€
+Asashoryu raises 0.14€ to 0.21€
+paul bzh calls 0.20€
+KiCkErSdu11 folds
+KoalaDormeur calls 0.14€
+*** FLOP *** [3s 5s 2d]
+paul bzh checks
+KoalaDormeur checks
+Asashoryu bets 0.43€
+paul bzh folds
+KoalaDormeur folds
+Asashoryu collected 1.04€ from pot
+*** SUMMARY ***
+Total pot 1.04€ | Rake 0.04€
+Board: [3s 5s 2d]
+Seat 4: Asashoryu (button) won 1.04€
+
+
+Winamax Poker - CashGame - HandId: #11783039-721-1538082047 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:00:47 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (2.77€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (5.88€)
+Seat 4: Asashoryu (4.04€)
+Seat 5: paul bzh (1.80€)
+*** ANTE/BLINDS ***
+KiCkErSdu11 posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [Jh 7d]
+*** PRE-FLOP *** 
+KoalaDormeur folds
+Asashoryu folds
+paul bzh raises 0.04€ to 0.06€
+KiCkErSdu11 calls 0.05€
+ooGIANToo raises 0.17€ to 0.23€
+paul bzh folds
+KiCkErSdu11 calls 0.17€
+*** FLOP *** [8d Qd 7h]
+KiCkErSdu11 checks
+ooGIANToo checks
+*** TURN *** [8d Qd 7h][7s]
+KiCkErSdu11 checks
+ooGIANToo checks
+*** RIVER *** [8d Qd 7h 7s][Th]
+KiCkErSdu11 bets 0.32€
+ooGIANToo folds
+KiCkErSdu11 collected 0.81€ from pot
+*** SUMMARY ***
+Total pot 0.81€ | Rake 0.03€
+Board: [8d Qd 7h 7s Th]
+Seat 1: KiCkErSdu11 (small blind) won 0.81€
+
+
+Winamax Poker - CashGame - HandId: #11783039-722-1538082141 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:02:21 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #1 is the button
+Seat 1: KiCkErSdu11 (3.03€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (5.88€)
+Seat 4: Asashoryu (4.04€)
+Seat 5: paul bzh (1.74€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [2c 9c]
+*** PRE-FLOP *** 
+Asashoryu folds
+paul bzh raises 0.02€ to 0.04€
+KiCkErSdu11 calls 0.04€
+ooGIANToo folds
+KoalaDormeur calls 0.02€
+*** FLOP *** [8h Jc 5c]
+KoalaDormeur checks
+paul bzh bets 0.06€
+KiCkErSdu11 calls 0.06€
+KoalaDormeur folds
+*** TURN *** [8h Jc 5c][7s]
+paul bzh checks
+KiCkErSdu11 checks
+*** RIVER *** [8h Jc 5c 7s][Js]
+paul bzh checks
+KiCkErSdu11 checks
+*** SHOW DOWN ***
+paul bzh shows [2c 9c] (One pair : Jacks)
+KiCkErSdu11 shows [8d 9h] (Two pairs : Jacks and 8)
+KiCkErSdu11 collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [8h Jc 5c 7s Js]
+Seat 1: KiCkErSdu11 (button) showed [8d 9h] and won 0.24€ with Two pairs : Jacks and 8
+Seat 5: paul bzh showed [2c 9c] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #11783039-723-1538082202 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:03:22 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.17€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (5.84€)
+Seat 5: paul bzh (1.64€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3h 9d]
+*** PRE-FLOP *** 
+KiCkErSdu11 calls 0.02€
+ooGIANToo folds
+KoalaDormeur raises 0.06€ to 0.08€
+paul bzh folds
+KiCkErSdu11 calls 0.06€
+*** FLOP *** [2h Qh Td]
+KoalaDormeur checks
+KiCkErSdu11 checks
+*** TURN *** [2h Qh Td][Kc]
+KoalaDormeur checks
+KiCkErSdu11 checks
+*** RIVER *** [2h Qh Td Kc][6c]
+KoalaDormeur checks
+KiCkErSdu11 bets 0.18€
+KoalaDormeur folds
+KiCkErSdu11 collected 0.35€ from pot
+*** SUMMARY ***
+Total pot 0.35€ | Rake 0.01€
+Board: [2h Qh Td Kc 6c]
+Seat 1: KiCkErSdu11 won 0.35€
+
+
+Winamax Poker - CashGame - HandId: #11783039-724-1538082274 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:04:34 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.26€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (5.76€)
+Seat 5: paul bzh (1.62€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+KiCkErSdu11 posts big blind 0.02€
+Dealt to paul bzh [Qh Js]
+*** PRE-FLOP *** 
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur raises 0.19€ to 0.24€
+paul bzh folds
+KiCkErSdu11 folds
+ooGIANToo raises 0.38€ to 0.62€
+KoalaDormeur raises 5.14€ to 5.76€ and is all-in
+ooGIANToo folds
+KoalaDormeur collected 6.41€ from pot
+*** SUMMARY ***
+Total pot 6.41€ | No rake
+Seat 3: KoalaDormeur (button) won 6.41€
+
+
+Winamax Poker - CashGame - HandId: #11783039-725-1538082349 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:05:49 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.24€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.41€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.61€)
+*** ANTE/BLINDS ***
+KiCkErSdu11 posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [6h Td]
+*** PRE-FLOP *** 
+KoalaDormeur folds
+paul bzh raises 0.04€ to 0.06€
+KiCkErSdu11 folds
+ooGIANToo folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-726-1538082409 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:06:49 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #1 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.41€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.64€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Kh Ah]
+*** PRE-FLOP *** 
+paul bzh raises 0.04€ to 0.06€
+KiCkErSdu11 folds
+ooGIANToo folds
+KoalaDormeur folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-727-1538082461 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:07:41 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.39€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.67€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [Qc 8h]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur folds
+Hesen folds
+ooGIANToo collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: ooGIANToo (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-728-1538082487 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:08:07 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.03€)
+Seat 3: KoalaDormeur (6.38€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.67€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2d 5d]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh calls 0.04€
+*** FLOP *** [8h Jh 6s]
+paul bzh checks
+KoalaDormeur bets 0.10€
+paul bzh folds
+KoalaDormeur collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [8h Jh 6s]
+Seat 3: KoalaDormeur (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11783039-729-1538082516 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:08:36 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.03€)
+Seat 3: KoalaDormeur (6.44€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.61€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [Kh 3h]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen calls 0.06€
+paul bzh folds
+ooGIANToo folds
+*** FLOP *** [Jh Qh Qd]
+KoalaDormeur bets 0.15€
+Hesen calls 0.15€
+*** TURN *** [Jh Qh Qd][7d]
+KoalaDormeur bets 0.38€
+Hesen calls 0.38€
+*** RIVER *** [Jh Qh Qd 7d][4c]
+KoalaDormeur checks
+Hesen checks
+*** SHOW DOWN ***
+Hesen shows [9c Jc] (Two pairs : Queens and Jacks)
+KoalaDormeur shows [6c Qc] (Trips of Queens)
+KoalaDormeur collected 1.14€ from pot
+*** SUMMARY ***
+Total pot 1.14€ | Rake 0.07€
+Board: [Jh Qh Qd 7d 4c]
+Seat 3: KoalaDormeur showed [6c Qc] and won 1.14€ with Trips of Queens
+Seat 4: Hesen (button) showed [9c Jc] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - CashGame - HandId: #11783039-730-1538082563 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:09:23 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.01€)
+Seat 3: KoalaDormeur (6.99€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.60€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Qc 6s]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-731-1538082586 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:09:46 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (6.97€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.63€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [Qd 6c]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur raises 0.18€ to 0.23€
+Hesen folds
+ooGIANToo folds
+KoalaDormeur collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | No rake
+Seat 3: KoalaDormeur (small blind) won 0.30€
+
+
+Winamax Poker - CashGame - HandId: #11783039-732-1538082603 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:10:03 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (7.04€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.63€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2d 3s]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur folds
+Hesen raises 0.02€ to 0.04€
+paul bzh calls 0.02€
+*** FLOP *** [Js Kc Jc]
+Hesen checks
+paul bzh checks
+*** TURN *** [Js Kc Jc][Ah]
+Hesen checks
+paul bzh bets 0.06€
+Hesen folds
+paul bzh collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | No rake
+Board: [Js Kc Jc Ah]
+Seat 5: paul bzh (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #11783039-733-1538082641 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:10:41 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (7.04€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.67€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [Ac Qs]
+*** PRE-FLOP *** 
+KoalaDormeur folds
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo folds
+paul bzh collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: paul bzh (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-734-1538082657 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:10:57 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (7.04€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.69€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [7h 8s]
+*** PRE-FLOP *** 
+Hesen raises 0.04€ to 0.06€
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur folds
+Hesen collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: Hesen won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-735-1538082673 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:11:13 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (7.02€)
+Seat 4: Hesen (2.03€)
+Seat 5: paul bzh (1.69€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [2h Qc]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo calls 0.02€
+KoalaDormeur raises 0.06€ to 0.08€
+Hesen folds
+ooGIANToo calls 0.06€
+*** FLOP *** [2c Ac 9d]
+KoalaDormeur checks
+ooGIANToo checks
+*** TURN *** [2c Ac 9d][9h]
+KoalaDormeur checks
+ooGIANToo bets 0.05€
+KoalaDormeur folds
+ooGIANToo collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [2c Ac 9d 9h]
+Seat 2: ooGIANToo (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11783039-736-1538082721 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:01 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.09€)
+Seat 3: KoalaDormeur (6.94€)
+Seat 4: Hesen (2.01€)
+Seat 5: paul bzh (1.69€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Qs Qh]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783039-737-1538082733 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:13 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.09€)
+Seat 3: KoalaDormeur (6.94€)
+Seat 4: Hesen (2€)
+Seat 5: paul bzh (1.70€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [6s 5d]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen raises 0.14€ to 0.20€
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur folds
+Hesen collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | No rake
+Seat 4: Hesen (button) won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #11783039-738-1538082768 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:48 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.07€)
+Seat 3: KoalaDormeur (6.88€)
+Seat 4: Hesen (2.09€)
+Seat 5: paul bzh (1.69€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Jc 4h]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-739-1538082787 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:13:07 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.06€)
+Seat 3: KoalaDormeur (6.86€)
+Seat 4: Hesen (2.09€)
+Seat 5: paul bzh (1.72€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [Th 8c]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur folds
+Hesen collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: Hesen (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783039-740-1538082796 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:13:16 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.06€)
+Seat 3: KoalaDormeur (6.85€)
+Seat 4: Hesen (2.10€)
+Seat 5: paul bzh (1.72€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Jd 3h]
+*** PRE-FLOP *** 
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur raises 0.18€ to 0.23€
+Hesen folds
+paul bzh folds
+ooGIANToo calls 0.18€
+*** FLOP *** [5d Js 7s]
+ooGIANToo checks
+KoalaDormeur checks
+*** TURN *** [5d Js 7s][Ah]
+ooGIANToo checks
+KoalaDormeur bets 0.29€
+ooGIANToo calls 0.29€
+*** RIVER *** [5d Js 7s Ah][3s]
+ooGIANToo bets 0.59€
+KoalaDormeur calls 0.59€
+*** SHOW DOWN ***
+ooGIANToo shows [Jh Qh] (One pair : Jacks)
+KoalaDormeur shows [Kh Ad] (One pair : Aces)
+KoalaDormeur collected 2.12€ from pot
+*** SUMMARY ***
+Total pot 2.12€ | Rake 0.13€
+Board: [5d Js 7s Ah 3s]
+Seat 2: ooGIANToo showed [Jh Qh] and lost with One pair : Jacks
+Seat 3: KoalaDormeur (button) showed [Kh Ad] and won 2.12€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #11783039-741-1538082885 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:14:45 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (7.86€)
+Seat 4: Hesen (2.09€)
+Seat 5: paul bzh (1.70€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [9h Jh]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh calls 0.05€
+ooGIANToo folds
+*** FLOP *** [7d Ah 6h]
+paul bzh checks
+KoalaDormeur bets 0.11€
+paul bzh calls 0.11€
+*** TURN *** [7d Ah 6h][Ac]
+paul bzh checks
+KoalaDormeur bets 0.18€
+paul bzh calls 0.18€
+*** RIVER *** [7d Ah 6h Ac][Jd]
+paul bzh bets 0.36€
+KoalaDormeur raises 7.15€ to 7.51€ and is all-in
+paul bzh folds
+KoalaDormeur collected 8.51€ from pot
+*** SUMMARY ***
+Total pot 8.51€ | Rake 0.08€
+Board: [7d Ah 6h Ac Jd]
+Seat 3: KoalaDormeur won 8.51€
+
+
+Winamax Poker - CashGame - HandId: #11783039-742-1538082956 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:15:56 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.51€)
+Seat 4: Hesen (2.09€)
+Seat 5: paul bzh (0.99€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Ah Ad]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-743-1538082968 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:08 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.49€)
+Seat 4: Hesen (2.09€)
+Seat 5: paul bzh (1.02€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [6h Tc]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur folds
+Hesen folds
+ooGIANToo collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: ooGIANToo (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-744-1538082981 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:21 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.03€)
+Seat 3: KoalaDormeur (8.48€)
+Seat 4: Hesen (2.07€)
+Seat 5: paul bzh (1.02€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3d 4s]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783039-745-1538082991 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:31 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.03€)
+Seat 3: KoalaDormeur (8.48€)
+Seat 4: Hesen (2.06€)
+Seat 5: paul bzh (1.03€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [9c 6c]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen calls 0.06€
+paul bzh folds
+ooGIANToo folds
+*** FLOP *** [5c 9s Kh]
+KoalaDormeur checks
+Hesen bets 0.08€
+KoalaDormeur folds
+Hesen collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [5c 9s Kh]
+Seat 4: Hesen (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11783039-746-1538083025 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:17:05 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: KiCkErSdu11 (3.23€)
+Seat 2: ooGIANToo (2.01€)
+Seat 3: KoalaDormeur (8.42€)
+Seat 4: Hesen (2.14€)
+Seat 5: paul bzh (1.02€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [7s Kh]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo calls 0.05€
+KoalaDormeur folds
+*** FLOP *** [9h Jd Jc]
+ooGIANToo checks
+paul bzh bets 0.05€
+ooGIANToo calls 0.05€
+*** TURN *** [9h Jd Jc][5d]
+ooGIANToo checks
+paul bzh checks
+*** RIVER *** [9h Jd Jc 5d][3s]
+ooGIANToo bets 0.08€
+paul bzh folds
+ooGIANToo collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.01€
+Board: [9h Jd Jc 5d 3s]
+Seat 2: ooGIANToo (small blind) won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #11783039-747-1538083103 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:18:23 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 2: ooGIANToo (2.13€)
+Seat 3: KoalaDormeur (8.40€)
+Seat 4: Hesen (2.14€)
+Seat 5: paul bzh (0.91€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [4c 3c]
+*** PRE-FLOP *** 
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur folds
+Hesen collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: Hesen (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783039-748-1538083113 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:18:33 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: ABD38120 (0€)
+Seat 2: ooGIANToo (2.13€)
+Seat 3: KoalaDormeur (8.39€)
+Seat 4: Hesen (2.15€)
+Seat 5: paul bzh (0.91€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2h 6s]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur folds
+Hesen raises 0.04€ to 0.06€
+paul bzh folds
+Hesen collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: Hesen (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-749-1538083127 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:18:47 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 2: ooGIANToo (2.13€)
+Seat 3: KoalaDormeur (8.39€)
+Seat 4: Hesen (2.17€)
+Seat 5: paul bzh (0.89€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [Kc Th]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh calls 0.05€
+ooGIANToo folds
+*** FLOP *** [4h 2s 9h]
+paul bzh bets 0.04€
+KoalaDormeur raises 0.16€ to 0.20€
+paul bzh calls 0.16€
+*** TURN *** [4h 2s 9h][Jc]
+paul bzh bets 0.63€ and is all-in
+KoalaDormeur folds
+paul bzh collected 1.14€ from pot
+*** SUMMARY ***
+Total pot 1.14€ | Rake 0.03€
+Board: [4h 2s 9h Jc]
+Seat 5: paul bzh (small blind) won 1.14€
+
+
+Winamax Poker - CashGame - HandId: #11783039-750-1538083176 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:19:36 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 2: ooGIANToo (2.11€)
+Seat 3: KoalaDormeur (8.13€)
+Seat 4: Hesen (2.17€)
+Seat 5: paul bzh (1.14€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [3d As]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.02€ to 0.04€
+ooGIANToo calls 0.03€
+KoalaDormeur folds
+*** FLOP *** [8s Tc 2d]
+ooGIANToo checks
+paul bzh checks
+*** TURN *** [8s Tc 2d][9h]
+ooGIANToo checks
+paul bzh checks
+*** RIVER *** [8s Tc 2d 9h][Jd]
+ooGIANToo checks
+paul bzh checks
+*** SHOW DOWN ***
+paul bzh shows [3d As] (High card : Ace)
+ooGIANToo shows [Kc 2c] (One pair : 2)
+ooGIANToo collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | Rake 0.01€
+Board: [8s Tc 2d 9h Jd]
+Seat 2: ooGIANToo (small blind) showed [Kc 2c] and won 0.09€ with One pair : 2
+Seat 5: paul bzh (button) showed [3d As] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11783039-751-1538083263 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:21:03 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 2: ooGIANToo (2.16€)
+Seat 3: KoalaDormeur (8.11€)
+Seat 4: Hesen (2.17€)
+Seat 5: paul bzh (1.10€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [Jc Ac]
+*** PRE-FLOP *** 
+paul bzh raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-752-1538083297 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:21:37 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 2: ooGIANToo (2.16€)
+Seat 3: KoalaDormeur (8.10€)
+Seat 4: Hesen (2.15€)
+Seat 5: paul bzh (1.13€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [8h 9c]
+*** PRE-FLOP *** 
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur raises 0.17€ to 0.22€
+Hesen folds
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | No rake
+Seat 3: KoalaDormeur (button) won 0.30€
+
+
+Winamax Poker - CashGame - HandId: #11783039-753-1538083315 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:21:55 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: LouisSarkozy (2€)
+Seat 2: ooGIANToo (2.11€)
+Seat 3: KoalaDormeur (8.18€)
+Seat 4: Hesen (2.14€)
+Seat 5: paul bzh (1.11€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+LouisSarkozy posts big blind 0.02€
+Dealt to paul bzh [Qc 4c]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur folds
+Hesen raises 0.04€ to 0.06€
+paul bzh folds
+LouisSarkozy raises 0.14€ to 0.20€
+Hesen folds
+LouisSarkozy collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 1: LouisSarkozy (big blind) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #11783039-754-1538083363 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:22:43 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: LouisSarkozy (2.07€)
+Seat 2: ooGIANToo (2.11€)
+Seat 3: KoalaDormeur (8.18€)
+Seat 4: Hesen (2.08€)
+Seat 5: paul bzh (1.10€)
+*** ANTE/BLINDS ***
+LouisSarkozy posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [8d Ts]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.03€ to 0.05€
+Hesen folds
+paul bzh folds
+LouisSarkozy folds
+ooGIANToo calls 0.03€
+*** FLOP *** [Ac 8s 4h]
+ooGIANToo checks
+KoalaDormeur bets 0.08€
+ooGIANToo calls 0.08€
+*** TURN *** [Ac 8s 4h][3s]
+ooGIANToo checks
+KoalaDormeur bets 0.20€
+ooGIANToo raises 0.20€ to 0.40€
+KoalaDormeur calls 0.20€
+*** RIVER *** [Ac 8s 4h 3s][Kh]
+ooGIANToo checks
+KoalaDormeur checks
+*** SHOW DOWN ***
+KoalaDormeur shows [5s As] (One pair : Aces)
+ooGIANToo shows [Ad 7s] (One pair : Aces)
+ooGIANToo collected 1.01€ from pot
+*** SUMMARY ***
+Total pot 1.01€ | Rake 0.06€
+Board: [Ac 8s 4h 3s Kh]
+Seat 2: ooGIANToo (big blind) showed [Ad 7s] and won 1.01€ with One pair : Aces
+Seat 3: KoalaDormeur showed [5s As] and lost with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #11783039-755-1538083436 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:23:56 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #1 is the button
+Seat 1: LouisSarkozy (2.06€)
+Seat 2: ooGIANToo (2.59€)
+Seat 3: KoalaDormeur (7.65€)
+Seat 4: Hesen (2.08€)
+Seat 5: paul bzh (1.10€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Kh Qc]
+*** PRE-FLOP *** 
+Hesen folds
+paul bzh raises 0.04€ to 0.06€
+LouisSarkozy calls 0.06€
+ooGIANToo raises 0.16€ to 0.22€
+KoalaDormeur folds
+paul bzh calls 0.16€
+LouisSarkozy calls 0.16€
+*** FLOP *** [9h 8s 8d]
+ooGIANToo checks
+paul bzh checks
+LouisSarkozy checks
+*** TURN *** [9h 8s 8d][6h]
+ooGIANToo checks
+paul bzh bets 0.18€
+LouisSarkozy calls 0.18€
+ooGIANToo folds
+*** RIVER *** [9h 8s 8d 6h][Jd]
+paul bzh checks
+LouisSarkozy bets 0.71€
+paul bzh folds
+LouisSarkozy collected 1.69€ from pot
+*** SUMMARY ***
+Total pot 1.69€ | Rake 0.06€
+Board: [9h 8s 8d 6h Jd]
+Seat 1: LouisSarkozy (button) won 1.69€
+
+
+Winamax Poker - CashGame - HandId: #11783039-756-1538083561 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:26:01 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: LouisSarkozy (2.64€)
+Seat 2: ooGIANToo (2.37€)
+Seat 3: KoalaDormeur (7.63€)
+Seat 4: Hesen (2.08€)
+Seat 5: paul bzh (0.70€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [4c Jc]
+*** PRE-FLOP *** 
+paul bzh folds
+LouisSarkozy folds
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur calls 0.04€
+Hesen folds
+*** FLOP *** [4s 9c Qc]
+KoalaDormeur bets 0.12€
+ooGIANToo raises 0.15€ to 0.27€
+KoalaDormeur calls 0.15€
+*** TURN *** [4s 9c Qc][Js]
+KoalaDormeur checks
+ooGIANToo bets 0.44€
+KoalaDormeur calls 0.44€
+*** RIVER *** [4s 9c Qc Js][5h]
+KoalaDormeur checks
+ooGIANToo checks
+*** SHOW DOWN ***
+ooGIANToo shows [6h 7h] (High card : Queen)
+KoalaDormeur shows [6c Ac] (High card : Ace)
+KoalaDormeur collected 1.45€ from pot
+*** SUMMARY ***
+Total pot 1.45€ | Rake 0.09€
+Board: [4s 9c Qc Js 5h]
+Seat 2: ooGIANToo (button) showed [6h 7h] and lost with High card : Queen
+Seat 3: KoalaDormeur (small blind) showed [6c Ac] and won 1.45€ with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11783039-757-1538083708 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:28:28 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: LouisSarkozy (2.64€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.32€)
+Seat 4: Hesen (2.06€)
+Seat 5: paul bzh (0.70€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Js 5s]
+*** PRE-FLOP *** 
+LouisSarkozy raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur calls 0.06€
+Hesen folds
+paul bzh folds
+*** FLOP *** [7h 4c 6c]
+LouisSarkozy checks
+KoalaDormeur checks
+*** TURN *** [7h 4c 6c][Kc]
+LouisSarkozy bets 0.10€
+KoalaDormeur folds
+LouisSarkozy collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [7h 4c 6c Kc]
+Seat 1: LouisSarkozy won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #11783039-758-1538083777 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:29:37 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: LouisSarkozy (2.72€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.26€)
+Seat 4: Hesen (2.05€)
+Seat 5: paul bzh (0.68€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+LouisSarkozy posts big blind 0.02€
+Dealt to paul bzh [4c Qh]
+*** PRE-FLOP *** 
+ooGIANToo raises 0.03€ to 0.05€
+KoalaDormeur folds
+Hesen folds
+paul bzh folds
+LouisSarkozy folds
+ooGIANToo collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: ooGIANToo won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-759-1538083805 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:30:05 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: LouisSarkozy (2.70€)
+Seat 2: ooGIANToo (2.03€)
+Seat 3: KoalaDormeur (8.26€)
+Seat 4: Hesen (2.05€)
+Seat 5: paul bzh (0.67€)
+*** ANTE/BLINDS ***
+LouisSarkozy posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [7h 3h]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh folds
+LouisSarkozy folds
+ooGIANToo folds
+KoalaDormeur collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: KoalaDormeur won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-760-1538083873 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:31:13 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #1 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2.01€)
+Seat 3: KoalaDormeur (8.29€)
+Seat 4: Hesen (2.05€)
+Seat 5: paul bzh (0.67€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [Ks 2c]
+*** PRE-FLOP *** 
+Hesen raises 0.04€ to 0.06€
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur calls 0.04€
+*** FLOP *** [Jd 9c 7d]
+KoalaDormeur bets 0.07€
+Hesen raises 0.07€ to 0.14€
+KoalaDormeur folds
+Hesen collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.02€
+Board: [Jd 9c 7d]
+Seat 4: Hesen won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #11783039-761-1538083907 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:31:47 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.16€)
+Seat 4: Hesen (2.17€)
+Seat 5: paul bzh (0.67€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+Dealt to paul bzh [9h Qh]
+*** PRE-FLOP *** 
+paul bzh raises 0.03€ to 0.05€
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+paul bzh collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: paul bzh won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783039-762-1538083922 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:32:02 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.15€)
+Seat 4: Hesen (2.15€)
+Seat 5: paul bzh (0.70€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Td 5d]
+*** PRE-FLOP *** 
+ooGIANToo folds
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh calls 0.04€
+*** FLOP *** [6s Ac 8d]
+paul bzh checks
+KoalaDormeur bets 0.10€
+paul bzh folds
+KoalaDormeur collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [6s Ac 8d]
+Seat 3: KoalaDormeur (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11783039-763-1538083948 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:32:28 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #4 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.21€)
+Seat 4: Hesen (2.14€)
+Seat 5: paul bzh (0.64€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+ooGIANToo posts big blind 0.02€
+Dealt to paul bzh [Jh 4s]
+*** PRE-FLOP *** 
+KoalaDormeur raises 0.04€ to 0.06€
+Hesen folds
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: KoalaDormeur won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783039-764-1538083963 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:32:43 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #5 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.24€)
+Seat 4: Hesen (2.14€)
+Seat 5: paul bzh (0.63€)
+*** ANTE/BLINDS ***
+ooGIANToo posts small blind 0.01€
+KoalaDormeur posts big blind 0.02€
+Dealt to paul bzh [3s Kd]
+*** PRE-FLOP *** 
+Hesen raises 0.04€ to 0.06€
+paul bzh folds
+ooGIANToo folds
+KoalaDormeur calls 0.04€
+*** FLOP *** [2d 4d 7c]
+KoalaDormeur checks
+Hesen checks
+*** TURN *** [2d 4d 7c][2h]
+KoalaDormeur bets 0.10€
+Hesen folds
+KoalaDormeur collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [2d 4d 7c 2h]
+Seat 3: KoalaDormeur (big blind) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11783039-765-1538083996 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:33:16 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #2 is the button
+Seat 1: LouisSarkozy (2.69€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.30€)
+Seat 4: Hesen (2.08€)
+Seat 5: paul bzh (0.63€)
+*** ANTE/BLINDS ***
+KoalaDormeur posts small blind 0.01€
+Hesen posts big blind 0.02€
+LouisSarkozy posts small blind 0.01€ out of position
+LouisSarkozy posts big blind 0.02€ out of position
+Dealt to paul bzh [4h Kd]
+*** PRE-FLOP *** 
+paul bzh folds
+LouisSarkozy raises 0.04€ to 0.07€
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+LouisSarkozy collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 1: LouisSarkozy won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #11783039-766-1538084013 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:33:33 UTC
+Table: 'Aalen 09' 5-max (real money) Seat #3 is the button
+Seat 1: LouisSarkozy (2.72€)
+Seat 2: ooGIANToo (2€)
+Seat 3: KoalaDormeur (8.29€)
+Seat 4: Hesen (2.06€)
+Seat 5: paul bzh (0.63€)
+*** ANTE/BLINDS ***
+Hesen posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [As 9c]
+*** PRE-FLOP *** 
+LouisSarkozy raises 0.04€ to 0.06€
+ooGIANToo folds
+KoalaDormeur folds
+Hesen folds
+paul bzh calls 0.04€
+*** FLOP *** [Ah 3h Js]
+paul bzh bets 0.04€
+LouisSarkozy raises 0.09€ to 0.13€
+paul bzh calls 0.09€
+*** TURN *** [Ah 3h Js][8h]
+paul bzh bets 0.03€
+LouisSarkozy raises 0.29€ to 0.32€
+paul bzh raises 0.12€ to 0.44€ and is all-in
+LouisSarkozy calls 0.12€
+*** RIVER *** [Ah 3h Js 8h][Kh]
+*** SHOW DOWN ***
+paul bzh shows [As 9c] (One pair : Aces)
+LouisSarkozy shows [Ad Ac] (Trips of Aces)
+LouisSarkozy collected 1.20€ from pot
+*** SUMMARY ***
+Total pot 1.20€ | Rake 0.07€
+Board: [Ah 3h Js 8h Kh]
+Seat 1: LouisSarkozy showed [Ad Ac] and won 1.20€ with Trips of Aces
+Seat 5: paul bzh (big blind) showed [As 9c] and lost with One pair : Aces
+
+

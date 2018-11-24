@@ -1,0 +1,428 @@
+Winamax Poker - CashGame - HandId: #11778753-1102-1538040928 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:35:28 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (2.40€)
+Seat 2: Incognito 2 (2.35€)
+Seat 3: paul bzh (2€)
+Seat 4: Incognito 4 (2.11€)
+Seat 5: Incognito 5 (1.32€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3c Jc]
+*** PRE-FLOP *** 
+Incognito 4 calls 0.02€
+Incognito 5 folds
+Incognito 1 calls 0.02€
+Incognito 2 folds
+paul bzh raises 0.04€ to 0.06€
+Incognito 4 folds
+Incognito 1 calls 0.04€
+*** FLOP *** [5h 6d Kc]
+paul bzh bets 0.06€
+Incognito 1 folds
+paul bzh collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [5h 6d Kc]
+Seat 3: paul bzh (big blind) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1103-1538040997 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:36:37 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (2.34€)
+Seat 2: Incognito 2 (2.34€)
+Seat 3: paul bzh (2.08€)
+Seat 4: Incognito 4 (2.09€)
+Seat 5: Incognito 5 (1.32€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Incognito 4 posts big blind 0.02€
+Dealt to paul bzh [7d 5d]
+*** PRE-FLOP *** 
+Incognito 5 calls 0.02€
+Incognito 1 calls 0.02€
+Incognito 2 folds
+paul bzh calls 0.01€
+Incognito 4 checks
+*** FLOP *** [7h 5s 7s]
+paul bzh bets 0.04€
+Incognito 4 raises 0.07€ to 0.11€
+Incognito 5 calls 0.11€
+Incognito 1 folds
+paul bzh calls 0.07€
+*** TURN *** [7h 5s 7s][5h]
+paul bzh checks
+Incognito 4 bets 0.21€
+Incognito 5 folds
+paul bzh raises 0.25€ to 0.46€
+Incognito 4 raises 1.50€ to 1.96€ and is all-in
+paul bzh calls 1.49€ and is all-in
+*** RIVER *** [7h 5s 7s 5h][8c]
+*** SHOW DOWN ***
+paul bzh shows [7d 5d] (Full of 7 and 5)
+Incognito 4 shows [7c Kh] (Full of 7 and 5)
+Incognito 4 collected 2.04€ from side pot 1
+paul bzh collected 2.03€ from main pot
+*** SUMMARY ***
+Total pot 4.07€ | Rake 0.25€
+Board: [7h 5s 7s 5h 8c]
+Seat 3: paul bzh (small blind) showed [7d 5d] and won 2.03€ with Full of 7 and 5
+Seat 4: Incognito 4 (big blind) showed [7c Kh] and won 2.04€ with Full of 7 and 5
+
+
+Winamax Poker - CashGame - HandId: #11778753-1104-1538041133 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:38:53 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (2.32€)
+Seat 2: Incognito 2 (2.34€)
+Seat 3: paul bzh (2.03€)
+Seat 4: Incognito 4 (2.04€)
+Seat 5: Incognito 5 (1.19€)
+*** ANTE/BLINDS ***
+Incognito 4 posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to paul bzh [Th 5s]
+*** PRE-FLOP *** 
+Incognito 1 raises 0.02€ to 0.04€
+Incognito 2 folds
+paul bzh folds
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 1: Incognito 1 won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1105-1538041161 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:39:21 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (2.35€)
+Seat 2: Incognito 2 (2.34€)
+Seat 3: paul bzh (2.03€)
+Seat 4: Incognito 4 (2.03€)
+Seat 5: Incognito 5 (1.17€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 1 posts big blind 0.02€
+Dealt to paul bzh [2s 3d]
+*** PRE-FLOP *** 
+Incognito 2 raises 0.04€ to 0.06€
+paul bzh folds
+Incognito 4 calls 0.06€
+Incognito 5 folds
+Incognito 1 calls 0.04€
+*** FLOP *** [3h 5d 4s]
+Incognito 1 checks
+Incognito 2 checks
+Incognito 4 bets 0.10€
+Incognito 1 folds
+Incognito 2 calls 0.10€
+*** TURN *** [3h 5d 4s][Ac]
+Incognito 2 checks
+Incognito 4 bets 0.20€
+Incognito 2 calls 0.20€
+*** RIVER *** [3h 5d 4s Ac][7c]
+Incognito 2 checks
+Incognito 4 checks
+*** SHOW DOWN ***
+Incognito 4 shows [9h 9c] (One pair : 9)
+Incognito 2 shows [Qc Ad] (One pair : Aces)
+Incognito 2 collected 0.74€ from pot
+*** SUMMARY ***
+Total pot 0.74€ | Rake 0.05€
+Board: [3h 5d 4s Ac 7c]
+Seat 2: Incognito 2 showed [Qc Ad] and won 0.74€ with One pair : Aces
+Seat 4: Incognito 4 (button) showed [9h 9c] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #11778753-1106-1538041234 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:40:34 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (2.29€)
+Seat 2: Incognito 2 (2.72€)
+Seat 3: paul bzh (2.03€)
+Seat 4: Incognito 4 (1.67€)
+Seat 5: Incognito 5 (1.16€)
+*** ANTE/BLINDS ***
+Incognito 1 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to paul bzh [6c 9d]
+*** PRE-FLOP *** 
+paul bzh raises 0.02€ to 0.04€
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 folds
+paul bzh collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 3: paul bzh won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1107-1538041269 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:41:09 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (2.28€)
+Seat 2: Incognito 2 (2.70€)
+Seat 3: paul bzh (2.06€)
+Seat 4: Incognito 4 (1.67€)
+Seat 5: Incognito 5 (1.16€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [7h 3d]
+*** PRE-FLOP *** 
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 raises 0.02€ to 0.04€
+Incognito 2 folds
+paul bzh calls 0.02€
+*** FLOP *** [Kh Jd 6s]
+paul bzh checks
+Incognito 1 checks
+*** TURN *** [Kh Jd 6s][Tc]
+paul bzh bets 0.04€
+Incognito 1 folds
+paul bzh collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [Kh Jd 6s Tc]
+Seat 3: paul bzh (big blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1108-1538041325 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:42:05 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (2.24€)
+Seat 2: Incognito 2 (2.69€)
+Seat 3: paul bzh (2.10€)
+Seat 4: Incognito 4 (1.67€)
+Seat 5: Incognito 5 (1.16€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Incognito 4 posts big blind 0.02€
+Dealt to paul bzh [8d 6s]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 folds
+paul bzh calls 0.01€
+Incognito 4 checks
+*** FLOP *** [Th Tc Kh]
+paul bzh checks
+Incognito 4 bets 0.04€
+paul bzh folds
+Incognito 4 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [Th Tc Kh]
+Seat 4: Incognito 4 (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1109-1538041355 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:42:35 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (2.24€)
+Seat 2: Incognito 2 (2.69€)
+Seat 3: paul bzh (2.08€)
+Seat 4: Incognito 4 (1.69€)
+Seat 5: Incognito 5 (1.16€)
+*** ANTE/BLINDS ***
+Incognito 4 posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to paul bzh [9s 6s]
+*** PRE-FLOP *** 
+Incognito 1 raises 0.02€ to 0.04€
+Incognito 2 folds
+paul bzh raises 0.04€ to 0.08€
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 calls 0.04€
+*** FLOP *** [3h 4c Qs]
+Incognito 1 checks
+paul bzh bets 0.08€
+Incognito 1 calls 0.08€
+*** TURN *** [3h 4c Qs][4h]
+Incognito 1 checks
+paul bzh checks
+*** RIVER *** [3h 4c Qs 4h][9c]
+Incognito 1 bets 0.18€
+paul bzh calls 0.18€
+*** SHOW DOWN ***
+paul bzh shows [9s 6s] (Two pairs : 9 and 4)
+Incognito 1 shows [Qc Tc] (Two pairs : Queens and 4)
+Incognito 1 collected 0.67€ from pot
+*** SUMMARY ***
+Total pot 0.67€ | Rake 0.04€
+Board: [3h 4c Qs 4h 9c]
+Seat 1: Incognito 1 showed [Qc Tc] and won 0.67€ with Two pairs : Queens and 4
+Seat 3: paul bzh (button) showed [9s 6s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - CashGame - HandId: #11778753-1110-1538041404 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:43:24 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (2.57€)
+Seat 2: Incognito 2 (2.69€)
+Seat 3: paul bzh (1.74€)
+Seat 4: Incognito 4 (1.68€)
+Seat 5: Incognito 5 (1.14€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 1 posts big blind 0.02€
+Dealt to paul bzh [Td Kc]
+*** PRE-FLOP *** 
+Incognito 2 folds
+paul bzh raises 0.04€ to 0.06€
+Incognito 4 folds
+Incognito 5 calls 0.05€
+Incognito 1 folds
+*** FLOP *** [4s 5s Th]
+Incognito 5 checks
+paul bzh bets 0.07€
+Incognito 5 calls 0.07€
+*** TURN *** [4s 5s Th][6d]
+Incognito 5 checks
+paul bzh bets 0.14€
+Incognito 5 calls 0.14€
+*** RIVER *** [4s 5s Th 6d][4h]
+Incognito 5 checks
+paul bzh checks
+*** SHOW DOWN ***
+Incognito 5 shows [Ah 5d] (Two pairs : 5 and 4)
+paul bzh shows [Td Kc] (Two pairs : Tens and 4)
+paul bzh collected 0.53€ from pot
+*** SUMMARY ***
+Total pot 0.53€ | Rake 0.03€
+Board: [4s 5s Th 6d 4h]
+Seat 3: paul bzh showed [Td Kc] and won 0.53€ with Two pairs : Tens and 4
+Seat 5: Incognito 5 (small blind) showed [Ah 5d] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - CashGame - HandId: #11778753-1111-1538041471 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:44:31 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (2.55€)
+Seat 2: Incognito 2 (2.69€)
+Seat 3: paul bzh (2€)
+Seat 4: Incognito 4 (1.68€)
+Seat 5: Incognito 5 (0.87€)
+*** ANTE/BLINDS ***
+Incognito 1 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to paul bzh [Td Js]
+*** PRE-FLOP *** 
+paul bzh folds
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Incognito 2 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1112-1538041533 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:45:33 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (2.54€)
+Seat 2: Incognito 2 (2.70€)
+Seat 3: paul bzh (2€)
+Seat 4: Incognito 4 (1.68€)
+Seat 5: Incognito 5 (0.87€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Js 7c]
+*** PRE-FLOP *** 
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 raises 0.02€ to 0.04€
+Incognito 2 raises 0.12€ to 0.16€
+paul bzh folds
+Incognito 1 calls 0.12€
+*** FLOP *** [7s 6c 4h]
+Incognito 2 bets 0.26€
+Incognito 1 raises 0.26€ to 0.52€
+Incognito 2 folds
+Incognito 1 collected 1.07€ from pot
+*** SUMMARY ***
+Total pot 1.07€ | Rake 0.05€
+Board: [7s 6c 4h]
+Seat 1: Incognito 1 (button) won 1.07€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1113-1538041582 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:46:22 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (2.93€)
+Seat 2: Incognito 2 (2.28€)
+Seat 3: paul bzh (1.98€)
+Seat 4: Incognito 4 (1.68€)
+Seat 5: Incognito 5 (1.69€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Incognito 4 posts big blind 0.02€
+Dealt to paul bzh [As 2h]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 raises 0.02€ to 0.04€
+paul bzh calls 0.03€
+Incognito 4 folds
+*** FLOP *** [7d Ts 5h]
+paul bzh checks
+Incognito 2 bets 0.08€
+paul bzh calls 0.08€
+*** TURN *** [7d Ts 5h][Ah]
+paul bzh bets 0.13€
+Incognito 2 folds
+paul bzh collected 0.38€ from pot
+*** SUMMARY ***
+Total pot 0.38€ | Rake 0.01€
+Board: [7d Ts 5h Ah]
+Seat 3: paul bzh (small blind) won 0.38€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1114-1538041622 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:47:02 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (2.93€)
+Seat 2: Incognito 2 (2.16€)
+Seat 3: paul bzh (2.11€)
+Seat 4: Incognito 4 (1.66€)
+Seat 5: Incognito 5 (1.69€)
+*** ANTE/BLINDS ***
+Incognito 4 posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to paul bzh [Kh Kc]
+*** PRE-FLOP *** 
+Incognito 1 folds
+Incognito 2 raises 0.04€ to 0.06€
+paul bzh raises 0.07€ to 0.13€
+Incognito 4 folds
+Incognito 5 folds
+Incognito 2 calls 0.07€
+*** FLOP *** [Kd 4d 2h]
+Incognito 2 checks
+paul bzh bets 0.10€
+Incognito 2 folds
+paul bzh collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.02€
+Board: [Kd 4d 2h]
+Seat 3: paul bzh (button) won 0.37€
+
+
+Winamax Poker - CashGame - HandId: #11778753-1115-1538041679 - Holdem no limit (0.01€/0.02€) - 2018/09/27 09:47:59 UTC
+Table: 'Aberdeen 08' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (2.93€)
+Seat 2: Incognito 2 (2.03€)
+Seat 3: paul bzh (2.25€)
+Seat 4: Incognito 4 (1.65€)
+Seat 5: Incognito 5 (1.67€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 1 posts big blind 0.02€
+Dealt to paul bzh [9c 4h]
+*** PRE-FLOP *** 
+Incognito 2 folds
+paul bzh folds
+Incognito 4 folds
+Incognito 5 folds
+Incognito 1 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: Incognito 1 (big blind) won 0.03€
+
+

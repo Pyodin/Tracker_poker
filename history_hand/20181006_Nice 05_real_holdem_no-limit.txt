@@ -1,0 +1,543 @@
+﻿Winamax Poker - CashGame - 
+
+HandId: #11822354-983-1538826498 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:48:18 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #5 is the button
+Seat 1: reminol (0.51€)
+Seat 2: ejarque7 (3.25€)
+Seat 3: P1r4te (3.10€) Seat 4: paul bzh (2€)
+Seat 5: BALLOCHES (7.46€)
+
+
+*** ANTE/BLINDS ***
+reminol posts small blind 0.01€
+ejarque7 posts big blind 0.02€
+paul bzh posts big blind 0.02€ out of position
+Dealt to paul bzh [Td Ad]
+
+*** PRE-FLOP *** 
+P1r4te folds
+paul bzh raises 0.04€ to 0.06€
+BALLOCHES folds
+reminol folds
+ejarque7 folds
+paul bzh collected 0.09€ from pot
+
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - 
+
+
+HandId: #11822354-984-1538826527 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:48:47 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #1 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (3.23€)
+Seat 3: P1r4te (3.10€)
+Seat 4: paul bzh (2.03€)
+Seat 5: BALLOCHES (7.46€)
+
+
+*** ANTE/BLINDS ***
+ejarque7 posts small blind 0.01€
+P1r4te posts big blind 0.02€
+Dealt to paul bzh [2s 9c]
+
+*** PRE-FLOP *** 
+paul bzh folds
+BALLOCHES raises 0.04€ to 0.06€
+reminol folds
+ejarque7 folds
+P1r4te folds
+BALLOCHES collected 0.09€ from pot
+
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: BALLOCHES won 0.09€
+
+
+Winamax Poker - CashGame - 
+
+
+
+HandId: #11822354-985-1538826556 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:49:16 UTC
+Table: 'Nice 05' 5-max (real money)
+ Seat #2 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (3.22€)
+Seat 3: P1r4te (3.08€)
+Seat 4: paul bzh (2.03€)
+Seat 5: BALLOCHES (7.49€)
+
+*** ANTE/BLINDS ***
+P1r4te posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3h 5s]
+
+*** PRE-FLOP *** 
+BALLOCHES folds
+reminol raises 0.03€ to 0.05€
+ejarque7 calls 0.05€
+P1r4te raises 0.17€ to 0.22€
+paul bzh folds
+reminol folds
+ejarque7 calls 0.17€
+
+*** FLOP *** [6d 7s 3c]
+P1r4te bets 0.28€
+ejarque7 calls 0.28€
+*** TURN *** [6d 7s 3c][Qs]
+P1r4te bets 0.36€
+ejarque7 folds
+P1r4te collected 1.37€ from pot
+
+*** SUMMARY ***
+Total pot 1.37€ | Rake 0.06€
+Board: [6d 7s 3c Qs]
+Seat 3: P1r4te (small blind) won 1.37€
+
+
+Winamax Poker - CashGame - 
+
+HandId: #11822354-986-1538826641 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:50:41 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #3 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.72€)
+Seat 3: P1r4te (3.59€)
+Seat 4: paul bzh (2.01€)
+Seat 5: BALLOCHES (7.49€)
+
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BALLOCHES posts big blind 0.02€
+Dealt to paul bzh [As Td]
+
+*** PRE-FLOP *** 
+reminol folds
+ejarque7 folds
+P1r4te folds
+paul bzh raises 0.04€ to 0.06€
+BALLOCHES folds
+paul bzh collected 0.08€ from pot
+
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: paul bzh (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - 
+
+HandId: #11822354-987-1538826679 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:51:19 UTC
+Table: 'Nice 05' 5-max (real money)
+Seat #4 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.72€)
+Seat 3: P1r4te (3.59€)
+Seat 4: paul bzh (2.03€)
+Seat 5: BALLOCHES (7.47€)
+
+*** ANTE/BLINDS ***
+BALLOCHES posts small blind 0.01€
+reminol posts big blind 0.02€
+Dealt to paul bzh [9s Ac]
+
+*** PRE-FLOP *** 
+ejarque7 folds
+P1r4te folds
+paul bzh raises 0.04€ to 0.06€
+BALLOCHES folds
+reminol folds
+paul bzh collected 0.09€ from pot
+
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - 
+
+HandId: #11822354-988-1538826701 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:51:41 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #5 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.72€)
+Seat 3: P1r4te (3.59€)
+Seat 4: paul bzh (2.06€)
+Seat 5: BALLOCHES (7.46€)
+
+*** ANTE/BLINDS ***
+reminol posts small blind 0.01€
+ejarque7 posts big blind 0.02€
+Dealt to paul bzh [8c Jc]
+
+*** PRE-FLOP *** 
+P1r4te folds
+paul bzh raises 0.02€ to 0.04€
+BALLOCHES folds
+reminol folds
+ejarque7 folds
+paul bzh collected 0.07€ from pot
+
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 4: paul bzh won 0.07€
+
+
+Winamax Poker - CashGame - 
+
+HandId: #11822354-989-1538826721 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:52:01 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #1 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.70€)
+Seat 3: P1r4te (3.59€)
+Seat 4: paul bzh (2.09€)
+Seat 5: BALLOCHES (7.46€)
+
+*** ANTE/BLINDS ***
+ejarque7 posts small blind 0.01€
+P1r4te posts big blind 0.02€
+Dealt to paul bzh [6s 3c]
+
+*** PRE-FLOP *** 
+paul bzh folds
+BALLOCHES raises 0.04€ to 0.06€
+reminol folds
+ejarque7 folds
+P1r4te folds
+BALLOCHES collected 0.09€ from pot
+
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: BALLOCHES won 0.09€
+
+
+
+
+
+Winamax Poker - CashGame - HandId: #11822354-990-1538826733 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:52:13 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #2 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.69€)
+Seat 3: P1r4te (3.57€)
+Seat 4: paul bzh (2.09€)
+Seat 5: BALLOCHES (7.49€)
+
+*** ANTE/BLINDS ***
+P1r4te posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [7c Th]
+
+*** PRE-FLOP *** 
+BALLOCHES folds
+reminol folds
+ejarque7 raises 0.03€ to 0.05€
+P1r4te folds
+paul bzh calls 0.03€
+
+*** FLOP *** [6s Qc 2h]
+paul bzh checks
+ejarque7 checks
+ 
+*** TURN *** [6s Qc 2h][3c]
+paul bzh bets 0.08€
+ejarque7 calls 0.08€
+
+*** RIVER *** [6s Qc 2h 3c][8d]
+paul bzh bets 0.20€
+ejarque7 folds
+paul bzh collected 0.45€ from pot
+
+*** SUMMARY ***
+Total pot 0.45€ | Rake 0.02€
+Board: [6s Qc 2h 3c 8d]
+Seat 4: paul bzh (big blind) won 0.45€
+
+
+
+
+Winamax Poker - CashGame - HandId: #11822354-991-1538826789 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:53:09 UTC
+Table: 'Nice 05' 5-max (real money)
+
+ Seat #3 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2.56€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (2.21€)
+Seat 5: BALLOCHES (7.49€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BALLOCHES posts big blind 0.02€
+Dealt to paul bzh [8h 7s]
+*** PRE-FLOP *** 
+reminol raises 0.04€ to 0.06€
+ejarque7 folds
+P1r4te folds
+paul bzh folds
+BALLOCHES calls 0.04€
+*** FLOP *** [7c Qd 8s]
+BALLOCHES checks
+reminol bets 0.07€
+BALLOCHES folds
+reminol collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [7c Qd 8s]
+Seat 1: reminol won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #11822354-992-1538826821 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:53:41 UTC
+Table: 'Nice 05' 5-max (real money) Seat #4 is the button
+Seat 1: reminol (0.56€)
+Seat 2: ejarque7 (2.56€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (2.20€)
+Seat 5: BALLOCHES (7.43€)
+*** ANTE/BLINDS ***
+BALLOCHES posts small blind 0.01€
+reminol posts big blind 0.02€
+Dealt to paul bzh [Qs 6s]
+*** PRE-FLOP *** 
+ejarque7 raises 0.05€ to 0.07€
+P1r4te folds
+paul bzh calls 0.07€
+BALLOCHES calls 0.06€
+reminol folds
+*** FLOP *** [7d Qh Th]
+BALLOCHES checks
+ejarque7 bets 0.12€
+paul bzh calls 0.12€
+BALLOCHES calls 0.12€
+*** TURN *** [7d Qh Th][4d]
+BALLOCHES checks
+ejarque7 bets 0.20€
+paul bzh calls 0.20€
+BALLOCHES folds
+*** RIVER *** [7d Qh Th 4d][Tc]
+ejarque7 checks
+paul bzh checks
+*** SHOW DOWN ***
+ejarque7 shows [Js Ah] (One pair : Tens)
+paul bzh shows [Qs 6s] (Two pairs : Queens and Tens)
+paul bzh collected 0.93€ from pot
+*** SUMMARY ***
+Total pot 0.93€ | Rake 0.06€
+Board: [7d Qh Th 4d Tc]
+Seat 2: ejarque7 showed [Js Ah] and lost with One pair : Tens
+Seat 4: paul bzh (button) showed [Qs 6s] and won 0.93€ with Two pairs : Queens and Tens
+
+
+Winamax Poker - CashGame - HandId: #11822354-993-1538826907 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:55:07 UTC
+Table: 'Nice 05' 5-max (real money) Seat #5 is the button
+Seat 1: reminol (0.54€)
+Seat 2: ejarque7 (2.17€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (2.74€)
+Seat 5: BALLOCHES (7.24€)
+*** ANTE/BLINDS ***
+reminol posts small blind 0.01€
+ejarque7 posts big blind 0.02€
+Dealt to paul bzh [3d Jh]
+*** PRE-FLOP *** 
+P1r4te raises 0.03€ to 0.05€
+paul bzh folds
+BALLOCHES folds
+reminol folds
+ejarque7 folds
+P1r4te collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 3: P1r4te won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11822354-994-1538826928 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:55:28 UTC
+Table: 'Nice 05' 5-max (real money) Seat #1 is the button
+Seat 1: reminol (0.53€)
+Seat 2: ejarque7 (2.15€)
+Seat 3: P1r4te (3.59€)
+Seat 4: paul bzh (2.74€)
+Seat 5: BALLOCHES (7.24€)
+*** ANTE/BLINDS ***
+ejarque7 posts small blind 0.01€
+P1r4te posts big blind 0.02€
+Dealt to paul bzh [Ac Th]
+*** PRE-FLOP *** 
+paul bzh raises 0.04€ to 0.06€
+BALLOCHES folds
+reminol folds
+ejarque7 calls 0.05€
+P1r4te raises 0.18€ to 0.24€
+paul bzh calls 0.18€
+ejarque7 calls 0.18€
+*** FLOP *** [7c 7h Jc]
+ejarque7 checks
+P1r4te bets 0.38€
+paul bzh folds
+ejarque7 folds
+P1r4te collected 1.06€ from pot
+*** SUMMARY ***
+Total pot 1.06€ | Rake 0.04€
+Board: [7c 7h Jc]
+Seat 3: P1r4te (big blind) won 1.06€
+
+
+
+
+
+
+Winamax Poker - CashGame - HandId: #11822354-995-1538827006 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:56:46 UTC
+Table: 'Nice 05' 5-max (real money) 
+Seat #2 is the button
+Seat 1: reminol (0.53€)
+Seat 2: ejarque7 (2€)
+Seat 3: P1r4te (4.03€)
+Seat 4: paul bzh (2.50€)
+Seat 5: BALLOCHES (7.24€)
+
+*** ANTE/BLINDS ***
+P1r4te posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Js 2s]
+
+*** PRE-FLOP *** 
+BALLOCHES raises 0.04€ to 0.06€
+reminol folds
+ejarque7 folds
+P1r4te folds
+paul bzh folds
+BALLOCHES collected 0.09€ from pot
+
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: BALLOCHES won 0.09€
+
+
+
+
+
+Winamax Poker - CashGame - HandId: #11822354-996-1538827037 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:57:17 UTC
+Table: 'Nice 05' 5-max (real money) Seat #3 is the button
+Seat 1: reminol (0.53€)
+Seat 2: ejarque7 (2€)
+Seat 3: P1r4te (4.02€)
+Seat 4: paul bzh (2.48€)
+Seat 5: BALLOCHES (7.27€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BALLOCHES posts big blind 0.02€
+Dealt to paul bzh [Jc Kd]
+*** PRE-FLOP *** 
+reminol folds
+ejarque7 folds
+P1r4te raises 0.03€ to 0.05€
+paul bzh raises 0.05€ to 0.10€
+BALLOCHES calls 0.08€
+P1r4te calls 0.05€
+*** FLOP *** [4h 4d 3d]
+paul bzh bets 0.10€
+BALLOCHES calls 0.10€
+P1r4te raises 0.26€ to 0.36€
+paul bzh calls 0.26€
+BALLOCHES folds
+*** TURN *** [4h 4d 3d][7h]
+paul bzh checks
+P1r4te checks
+*** RIVER *** [4h 4d 3d 7h][Qh]
+paul bzh bets 0.30€
+P1r4te folds
+paul bzh collected 1.36€ from pot
+*** SUMMARY ***
+Total pot 1.36€ | Rake 0.06€
+Board: [4h 4d 3d 7h Qh]
+Seat 4: paul bzh (small blind) won 1.36€
+
+
+Winamax Poker - CashGame - HandId: #11822354-997-1538827137 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:58:57 UTC
+Table: 'Nice 05' 5-max (real money) Seat #4 is the button
+Seat 1: reminol (0.53€)
+Seat 2: ejarque7 (2€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (3.08€)
+Seat 5: BALLOCHES (7.07€)
+*** ANTE/BLINDS ***
+BALLOCHES posts small blind 0.01€
+reminol posts big blind 0.02€
+Dealt to paul bzh [8s 8d]
+*** PRE-FLOP *** 
+ejarque7 folds
+P1r4te folds
+paul bzh raises 0.04€ to 0.06€
+BALLOCHES folds
+reminol folds
+paul bzh shows [8s 8d] (One pair : 8)
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: paul bzh (button) showed [8s 8d] and won 0.09€ with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #11822354-998-1538827155 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:59:15 UTC
+Table: 'Nice 05' 5-max (real money) Seat #5 is the button
+Seat 1: reminol (0.51€)
+Seat 2: ejarque7 (2€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (3.11€)
+Seat 5: BALLOCHES (7.06€)
+*** ANTE/BLINDS ***
+reminol posts small blind 0.01€
+ejarque7 posts big blind 0.02€
+Dealt to paul bzh [Qd 7h]
+*** PRE-FLOP *** 
+P1r4te folds
+paul bzh folds
+BALLOCHES raises 0.03€ to 0.05€
+reminol folds
+ejarque7 folds
+BALLOCHES collected 0.08€ from pot
+
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: BALLOCHES (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11822354-999-1538827173 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:59:33 UTC
+Table: 'Nice 05' 5-max (real money) Seat #1 is the button
+Seat 1: reminol (0.50€)
+Seat 2: ejarque7 (2€)
+Seat 3: P1r4te (3.56€)
+Seat 4: paul bzh (3.11€)
+Seat 5: BALLOCHES (7.09€)
+*** ANTE/BLINDS ***
+ejarque7 posts small blind 0.01€
+P1r4te posts big blind 0.02€
+Dealt to paul bzh [4d 9s]
+*** PRE-FLOP *** 
+paul bzh folds
+BALLOCHES raises 0.03€ to 0.05€
+reminol folds
+ejarque7 raises 0.13€ to 0.18€
+P1r4te folds
+BALLOCHES raises 0.28€ to 0.46€
+ejarque7 calls 0.28€
+*** FLOP *** [Js 6h 6d]
+ejarque7 checks
+BALLOCHES bets 0.26€
+ejarque7 calls 0.26€
+*** TURN *** [Js 6h 6d][4h]
+ejarque7 checks
+BALLOCHES checks
+*** RIVER *** [Js 6h 6d 4h][5c]
+ejarque7 bets 0.40€
+BALLOCHES folds
+ejarque7 collected 1.78€ from pot
+*** SUMMARY ***
+Total pot 1.78€ | Rake 0.08€
+Board: [Js 6h 6d 4h 5c]
+Seat 2: ejarque7 (small blind) won 1.78€
+
+

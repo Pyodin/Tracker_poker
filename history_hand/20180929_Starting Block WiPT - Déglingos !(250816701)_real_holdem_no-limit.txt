@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #1077249528085610497-1-1538249327 - Holdem no limit (3/10/20) - 2018/09/29 19:28:47 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816701)#0' 10-max (real money) Seat #4 is the button
+Seat 1: pareto17 (500)
+Seat 2: Bella 02 (500)
+Seat 3: AK2690QJ (500)
+Seat 4: lemarv233 (500)
+Seat 5: indigene11 (500)
+Seat 6: Amigosa (500)
+Seat 7: soulfly67 (500)
+Seat 8: paul bzh (500)
+Seat 9: Eclipse7777 (500)
+Seat 10: Enzo57 57 (500)
+*** ANTE/BLINDS ***
+indigene11 posts ante 3
+Amigosa posts ante 3
+pareto17 posts ante 3
+Bella 02 posts ante 3
+AK2690QJ posts ante 3
+lemarv233 posts ante 3
+soulfly67 posts ante 3
+paul bzh posts ante 3
+Eclipse7777 posts ante 3
+Enzo57 57 posts ante 3
+indigene11 posts small blind 10
+Amigosa posts big blind 20
+Dealt to paul bzh [Th Ts]
+*** PRE-FLOP *** 
+soulfly67 folds
+paul bzh raises 40 to 60
+Eclipse7777 folds
+Enzo57 57 folds
+pareto17 calls 60
+Bella 02 folds
+AK2690QJ raises 437 to 497 and is all-in
+lemarv233 folds
+indigene11 calls 487 and is all-in
+Amigosa folds
+paul bzh calls 437 and is all-in
+pareto17 calls 437 and is all-in
+*** FLOP *** [Js Jd Qd]
+*** TURN *** [Js Jd Qd][3s]
+*** RIVER *** [Js Jd Qd 3s][Ad]
+*** SHOW DOWN ***
+pareto17 shows [Ac 4c] (Two pairs : Aces and Jacks)
+indigene11 shows [Ks Qh] (Two pairs : Queens and Jacks)
+paul bzh shows [Th Ts] (Two pairs : Jacks and Tens)
+AK2690QJ shows [Kh Ah] (Two pairs : Aces and Jacks)
+AK2690QJ collected 2038 from pot
+*** SUMMARY ***
+Total pot 2038 | No rake
+Board: [Js Jd Qd 3s Ad]
+Seat 1: pareto17 showed [Ac 4c] and lost with Two pairs : Aces and Jacks
+Seat 3: AK2690QJ showed [Kh Ah] and won 2038 with Two pairs : Aces and Jacks
+Seat 5: indigene11 (small blind) showed [Ks Qh] and lost with Two pairs : Queens and Jacks
+Seat 8: paul bzh showed [Th Ts] and lost with Two pairs : Jacks and Tens
+
+

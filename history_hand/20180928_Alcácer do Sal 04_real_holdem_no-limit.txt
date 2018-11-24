@@ -1,0 +1,323 @@
+Winamax Poker - CashGame - HandId: #11787164-252-1538137020 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:17:00 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #3 is the button
+Seat 1: Icehok (3.45€)
+Seat 2: Zeowzit (4.14€)
+Seat 3: PATMER2O (7.30€)
+Seat 4: paul bzh (5€)
+Seat 5: VilainHitch (6.74€)
+*** ANTE/BLINDS ***
+VilainHitch posts small blind 0.02€
+Icehok posts big blind 0.05€
+*** PRE-FLOP *** 
+Zeowzit folds
+PATMER2O raises 0.13€ to 0.18€
+VilainHitch folds
+Icehok folds
+PATMER2O collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | No rake
+Seat 3: PATMER2O (button) won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #11787164-253-1538137038 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:17:18 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #5 is the button
+Seat 1: Icehok (3.40€)
+Seat 2: Zeowzit (4.14€)
+Seat 3: PATMER2O (7.37€)
+Seat 4: paul bzh (5€)
+Seat 5: VilainHitch (6.72€)
+*** ANTE/BLINDS ***
+Icehok posts small blind 0.02€
+Zeowzit posts big blind 0.05€
+paul bzh posts big blind 0.05€ out of position
+Dealt to paul bzh [4c 4h]
+*** PRE-FLOP *** 
+PATMER2O raises 0.05€ to 0.10€
+paul bzh calls 0.05€
+VilainHitch folds
+Icehok calls 0.08€
+Zeowzit folds
+*** FLOP *** [9c 8d Th]
+Icehok bets 0.05€
+PATMER2O raises 0.15€ to 0.20€
+paul bzh folds
+Icehok calls 0.15€
+*** TURN *** [9c 8d Th][2s]
+Icehok bets 0.05€
+PATMER2O calls 0.05€
+*** RIVER *** [9c 8d Th 2s][Jd]
+Icehok bets 0.05€
+PATMER2O raises 0.25€ to 0.30€
+Icehok calls 0.25€
+*** SHOW DOWN ***
+Icehok shows [Ks Kc] (One pair : Kings)
+PATMER2O shows [7d 8s] (Straight Jack high)
+PATMER2O collected 1.37€ from pot
+*** SUMMARY ***
+Total pot 1.37€ | Rake 0.08€
+Board: [9c 8d Th 2s Jd]
+Seat 1: Icehok (small blind) showed [Ks Kc] and lost with One pair : Kings
+Seat 3: PATMER2O showed [7d 8s] and won 1.37€ with Straight Jack high
+
+
+Winamax Poker - CashGame - HandId: #11787164-254-1538137140 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:19:00 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #1 is the button
+Seat 1: Icehok (2.75€)
+Seat 2: Zeowzit (4.09€)
+Seat 3: PATMER2O (8.09€)
+Seat 4: paul bzh (4.90€)
+Seat 5: VilainHitch (6.72€)
+*** ANTE/BLINDS ***
+Zeowzit posts small blind 0.02€
+PATMER2O posts big blind 0.05€
+Dealt to paul bzh [7h Ad]
+*** PRE-FLOP *** 
+paul bzh raises 0.05€ to 0.10€
+VilainHitch calls 0.10€
+Icehok calls 0.10€
+Zeowzit folds
+PATMER2O folds
+*** FLOP *** [Tc Jd 3c]
+paul bzh checks
+VilainHitch checks
+Icehok checks
+*** TURN *** [Tc Jd 3c][8s]
+paul bzh bets 0.05€
+VilainHitch calls 0.05€
+Icehok calls 0.05€
+*** RIVER *** [Tc Jd 3c 8s][Kh]
+paul bzh checks
+VilainHitch checks
+Icehok checks
+*** SHOW DOWN ***
+Icehok shows [6c 4c] (High card : King)
+paul bzh shows [7h Ad] (High card : Ace)
+VilainHitch shows [4s 4d] (One pair : 4)
+VilainHitch collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.03€
+Board: [Tc Jd 3c 8s Kh]
+Seat 1: Icehok (button) showed [6c 4c] and lost with High card : King
+Seat 4: paul bzh showed [7h Ad] and lost with High card : Ace
+Seat 5: VilainHitch showed [4s 4d] and won 0.49€ with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #11787164-255-1538137218 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:20:18 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #2 is the button
+Seat 1: Icehok (2.60€)
+Seat 2: Zeowzit (4.07€)
+Seat 3: PATMER2O (8.04€)
+Seat 4: paul bzh (4.75€)
+Seat 5: VilainHitch (7.06€)
+*** ANTE/BLINDS ***
+PATMER2O posts small blind 0.02€
+paul bzh posts big blind 0.05€
+Dealt to paul bzh [Ah Jh]
+*** PRE-FLOP *** 
+VilainHitch raises 0.10€ to 0.15€
+Icehok folds
+Zeowzit calls 0.15€
+PATMER2O calls 0.13€
+paul bzh raises 0.30€ to 0.45€
+VilainHitch folds
+Zeowzit folds
+PATMER2O folds
+paul bzh collected 0.90€ from pot
+*** SUMMARY ***
+Total pot 0.90€ | No rake
+Seat 4: paul bzh (big blind) won 0.90€
+
+
+Winamax Poker - CashGame - HandId: #11787164-256-1538137279 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:21:19 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #3 is the button
+Seat 1: Icehok (2.60€)
+Seat 2: Zeowzit (3.92€)
+Seat 3: PATMER2O (7.89€)
+Seat 4: paul bzh (5.20€)
+Seat 5: VilainHitch (6.91€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.02€
+VilainHitch posts big blind 0.05€
+Dealt to paul bzh [4h 7d]
+*** PRE-FLOP *** 
+Icehok folds
+Zeowzit folds
+PATMER2O raises 0.13€ to 0.18€
+paul bzh folds
+VilainHitch calls 0.13€
+*** FLOP *** [Th Ah 2d]
+VilainHitch checks
+PATMER2O bets 0.20€
+VilainHitch calls 0.20€
+*** TURN *** [Th Ah 2d][9h]
+VilainHitch checks
+PATMER2O checks
+*** RIVER *** [Th Ah 2d 9h][Qh]
+VilainHitch checks
+PATMER2O checks
+*** SHOW DOWN ***
+VilainHitch shows [Qd Jd] (One pair : Queens)
+PATMER2O shows [6c As] (One pair : Aces)
+PATMER2O collected 0.74€ from pot
+*** SUMMARY ***
+Total pot 0.74€ | Rake 0.04€
+Board: [Th Ah 2d 9h Qh]
+Seat 3: PATMER2O (button) showed [6c As] and won 0.74€ with One pair : Aces
+Seat 5: VilainHitch (big blind) showed [Qd Jd] and lost with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #11787164-257-1538137362 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:22:42 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #4 is the button
+Seat 1: Icehok (2.60€)
+Seat 2: Zeowzit (3.92€)
+Seat 3: PATMER2O (8.25€)
+Seat 4: paul bzh (5.18€)
+Seat 5: VilainHitch (6.53€)
+*** ANTE/BLINDS ***
+VilainHitch posts small blind 0.02€
+Icehok posts big blind 0.05€
+Dealt to paul bzh [Ad Ks]
+*** PRE-FLOP *** 
+Zeowzit folds
+PATMER2O folds
+paul bzh raises 0.11€ to 0.16€
+VilainHitch folds
+Icehok folds
+paul bzh shows [Ad Ks] (High card : Ace)
+paul bzh collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | No rake
+Seat 4: paul bzh (button) showed [Ad Ks] and won 0.23€ with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11787164-258-1538137395 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:23:15 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #5 is the button
+Seat 1: Icehok (2.55€)
+Seat 2: Zeowzit (3.92€)
+Seat 3: PATMER2O (8.25€)
+Seat 4: paul bzh (5.25€)
+Seat 5: VilainHitch (6.51€)
+*** ANTE/BLINDS ***
+Icehok posts small blind 0.02€
+Zeowzit posts big blind 0.05€
+Dealt to paul bzh [7d 8d]
+*** PRE-FLOP *** 
+PATMER2O folds
+paul bzh raises 0.10€ to 0.15€
+VilainHitch folds
+Icehok calls 0.13€
+Zeowzit calls 0.10€
+*** FLOP *** [Qd 3c Ad]
+Icehok checks
+Zeowzit checks
+paul bzh bets 0.24€
+Icehok calls 0.24€
+Zeowzit calls 0.24€
+*** TURN *** [Qd 3c Ad][2s]
+Icehok bets 0.05€
+Zeowzit calls 0.05€
+paul bzh calls 0.05€
+*** RIVER *** [Qd 3c Ad 2s][Qs]
+Icehok bets 0.20€
+Zeowzit folds
+paul bzh folds
+Icehok collected 1.44€ from pot
+*** SUMMARY ***
+Total pot 1.44€ | Rake 0.08€
+Board: [Qd 3c Ad 2s Qs]
+Seat 1: Icehok (small blind) won 1.44€
+
+
+Winamax Poker - CashGame - HandId: #11787164-259-1538137464 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:24:24 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #1 is the button
+Seat 1: Icehok (3.35€)
+Seat 2: Zeowzit (3.48€)
+Seat 3: PATMER2O (8.25€)
+Seat 4: paul bzh (4.81€)
+Seat 5: VilainHitch (6.51€)
+*** ANTE/BLINDS ***
+Zeowzit posts small blind 0.02€
+PATMER2O posts big blind 0.05€
+Dealt to paul bzh [6h 2s]
+*** PRE-FLOP *** 
+paul bzh folds
+VilainHitch folds
+Icehok calls 0.05€
+Zeowzit calls 0.03€
+PATMER2O checks
+*** FLOP *** [Qh 8s 9h]
+Zeowzit checks
+PATMER2O checks
+Icehok checks
+*** TURN *** [Qh 8s 9h][Ks]
+Zeowzit checks
+PATMER2O checks
+Icehok checks
+*** RIVER *** [Qh 8s 9h Ks][Kd]
+Zeowzit checks
+PATMER2O checks
+Icehok bets 0.05€
+Zeowzit calls 0.05€
+PATMER2O folds
+*** SHOW DOWN ***
+Icehok shows [7c 7d] (Two pairs : Kings and 7)
+Zeowzit shows [Qs Ad] (Two pairs : Kings and Queens)
+Zeowzit collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [Qh 8s 9h Ks Kd]
+Seat 1: Icehok (button) showed [7c 7d] and lost with Two pairs : Kings and 7
+Seat 2: Zeowzit (small blind) showed [Qs Ad] and won 0.24€ with Two pairs : Kings and Queens
+
+
+Winamax Poker - CashGame - HandId: #11787164-260-1538137528 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:25:28 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #2 is the button
+Seat 1: Icehok (3.25€)
+Seat 2: Zeowzit (3.62€)
+Seat 3: PATMER2O (8.20€)
+Seat 4: paul bzh (4.81€)
+Seat 5: VilainHitch (6.51€)
+*** ANTE/BLINDS ***
+PATMER2O posts small blind 0.02€
+paul bzh posts big blind 0.05€
+Dealt to paul bzh [Ks 3h]
+*** PRE-FLOP *** 
+VilainHitch raises 0.10€ to 0.15€
+Icehok folds
+Zeowzit folds
+PATMER2O folds
+paul bzh folds
+VilainHitch collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 5: VilainHitch won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #11787164-261-1538137554 - Holdem no limit (0.02€/0.05€) - 2018/09/28 12:25:54 UTC
+Table: 'Alcácer do Sal 04' 5-max (real money) Seat #3 is the button
+Seat 1: Icehok (3.25€)
+Seat 2: Zeowzit (3.62€)
+Seat 3: PATMER2O (8.18€)
+Seat 4: paul bzh (4.76€)
+Seat 5: VilainHitch (6.58€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.02€
+VilainHitch posts big blind 0.05€
+Dealt to paul bzh [6d 7d]
+*** PRE-FLOP *** 
+Icehok calls 0.05€
+Zeowzit folds
+PATMER2O folds
+paul bzh calls 0.03€
+VilainHitch checks
+*** FLOP *** [7s 2c Ah]
+paul bzh bets 0.05€
+VilainHitch folds
+Icehok folds
+paul bzh collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [7s 2c Ah]
+Seat 4: paul bzh (small blind) won 0.19€
+
+

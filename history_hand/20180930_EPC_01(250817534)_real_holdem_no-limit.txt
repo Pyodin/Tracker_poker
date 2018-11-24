@@ -1,0 +1,3113 @@
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-1-1538330404 - Holdem no limit (3/10/20) - 2018/09/30 18:00:04 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3000)
+Seat 2: paul bzh (3000)
+Seat 8: MRIK0 (3000)
+*** ANTE/BLINDS ***
+paul bzh posts ante 3
+MRIK0 posts ante 3
+Zozo sangria posts ante 3
+paul bzh posts small blind 10
+MRIK0 posts big blind 20
+Dealt to paul bzh [6c 7h]
+*** PRE-FLOP *** 
+Zozo sangria raises 20 to 40
+paul bzh calls 30
+MRIK0 raises 120 to 160
+Zozo sangria calls 120
+paul bzh folds
+*** FLOP *** [Jh 3d Ad]
+MRIK0 bets 185
+Zozo sangria folds
+MRIK0 collected 554 from pot
+*** SUMMARY ***
+Total pot 554 | No rake
+Board: [Jh 3d Ad]
+Seat 8: MRIK0 (big blind) won 554
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-2-1538330526 - Holdem no limit (3/10/20) - 2018/09/30 18:02:06 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2837)
+Seat 2: paul bzh (2957)
+Seat 8: MRIK0 (3206)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 3
+Zozo sangria posts ante 3
+paul bzh posts ante 3
+MRIK0 posts small blind 10
+Zozo sangria posts big blind 20
+Dealt to paul bzh [Qh 9s]
+*** PRE-FLOP *** 
+paul bzh raises 40 to 60
+MRIK0 folds
+Zozo sangria calls 40
+*** FLOP *** [8s Kh 6c]
+Zozo sangria bets 60
+paul bzh raises 100 to 160
+Zozo sangria calls 100
+*** TURN *** [8s Kh 6c][3s]
+Zozo sangria checks
+paul bzh bets 200
+Zozo sangria folds
+paul bzh collected 659 from pot
+*** SUMMARY ***
+Total pot 659 | No rake
+Board: [8s Kh 6c 3s]
+Seat 2: paul bzh (button) won 659
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-3-1538330611 - Holdem no limit (3/10/20) - 2018/09/30 18:03:31 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2614)
+Seat 2: paul bzh (3193)
+Seat 8: MRIK0 (3193)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 3
+paul bzh posts ante 3
+MRIK0 posts ante 3
+Zozo sangria posts small blind 10
+paul bzh posts big blind 20
+Dealt to paul bzh [Ac Tc]
+*** PRE-FLOP *** 
+MRIK0 raises 24 to 44
+Zozo sangria folds
+paul bzh calls 24
+*** FLOP *** [Ad 6h 5d]
+paul bzh checks
+MRIK0 bets 40
+paul bzh raises 80 to 120
+MRIK0 folds
+paul bzh collected 267 from pot
+*** SUMMARY ***
+Total pot 267 | No rake
+Board: [Ad 6h 5d]
+Seat 2: paul bzh (big blind) won 267
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-4-1538330671 - Holdem no limit (3/10/20) - 2018/09/30 18:04:31 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2601)
+Seat 2: paul bzh (3293)
+Seat 8: MRIK0 (3106)
+*** ANTE/BLINDS ***
+paul bzh posts ante 3
+MRIK0 posts ante 3
+Zozo sangria posts ante 3
+paul bzh posts small blind 10
+MRIK0 posts big blind 20
+Dealt to paul bzh [7h Ad]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 10
+MRIK0 raises 40 to 60
+paul bzh calls 40
+*** FLOP *** [2s 5h 9s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [2s 5h 9s][2h]
+paul bzh bets 70
+MRIK0 calls 70
+*** RIVER *** [2s 5h 9s 2h][2c]
+paul bzh bets 135
+MRIK0 calls 135
+*** SHOW DOWN ***
+paul bzh shows [7h Ad] (Trips of 2)
+MRIK0 shows [Ah 6h] (Trips of 2)
+MRIK0 collected 270 from pot
+paul bzh collected 269 from pot
+*** SUMMARY ***
+Total pot 539 | No rake
+Board: [2s 5h 9s 2h 2c]
+Seat 2: paul bzh (small blind) showed [7h Ad] and won 269 with Trips of 2
+Seat 8: MRIK0 (big blind) showed [Ah 6h] and won 270 with Trips of 2
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-5-1538330742 - Holdem no limit (3/10/20) - 2018/09/30 18:05:42 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2598)
+Seat 2: paul bzh (3294)
+Seat 8: MRIK0 (3108)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 3
+Zozo sangria posts ante 3
+paul bzh posts ante 3
+MRIK0 posts small blind 10
+Zozo sangria posts big blind 20
+Dealt to paul bzh [Ks 7c]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 30 to 50
+Zozo sangria folds
+MRIK0 collected 79 from pot
+*** SUMMARY ***
+Total pot 79 | No rake
+Seat 8: MRIK0 (small blind) won 79
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #1077253105793368065-6-1538330759 - Holdem no limit (3/10/20) - 2018/09/30 18:05:59 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2575)
+Seat 2: paul bzh (3291)
+Seat 8: MRIK0 (3134)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 3
+paul bzh posts ante 3
+MRIK0 posts ante 3
+Zozo sangria posts small blind 10
+paul bzh posts big blind 20
+Dealt to paul bzh [6c 2s]
+*** PRE-FLOP *** 
+MRIK0 raises 30 to 50
+Zozo sangria calls 40
+paul bzh folds
+*** FLOP *** [8c 4d Ah]
+Zozo sangria checks
+MRIK0 bets 60
+Zozo sangria calls 60
+*** TURN *** [8c 4d Ah][5s]
+Zozo sangria checks
+MRIK0 checks
+*** RIVER *** [8c 4d Ah 5s][Ad]
+Zozo sangria checks
+MRIK0 checks
+*** SHOW DOWN ***
+MRIK0 shows [Qs Jh] (One pair : Aces)
+Zozo sangria shows [Ts Ac] (Trips of Aces)
+Zozo sangria collected 249 from pot
+*** SUMMARY ***
+Total pot 249 | No rake
+Board: [8c 4d Ah 5s Ad]
+Seat 1: Zozo sangria (small blind) showed [Ts Ac] and won 249 with Trips of Aces
+Seat 8: MRIK0 (button) showed [Qs Jh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-7-1538330820 - Holdem no limit (4/15/30) - 2018/09/30 18:07:00 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2711)
+Seat 2: paul bzh (3268)
+Seat 8: MRIK0 (3021)
+*** ANTE/BLINDS ***
+paul bzh posts ante 4
+MRIK0 posts ante 4
+Zozo sangria posts ante 4
+paul bzh posts small blind 15
+MRIK0 posts big blind 30
+Dealt to paul bzh [7c 6s]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 15
+MRIK0 checks
+*** FLOP *** [4d 7d 9h]
+paul bzh bets 75
+MRIK0 folds
+paul bzh collected 147 from pot
+*** SUMMARY ***
+Total pot 147 | No rake
+Board: [4d 7d 9h]
+Seat 2: paul bzh (small blind) won 147
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-8-1538330850 - Holdem no limit (4/15/30) - 2018/09/30 18:07:30 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2707)
+Seat 2: paul bzh (3306)
+Seat 8: MRIK0 (2987)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 4
+Zozo sangria posts ante 4
+paul bzh posts ante 4
+MRIK0 posts small blind 15
+Zozo sangria posts big blind 30
+Dealt to paul bzh [8h 4s]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 calls 15
+Zozo sangria raises 30 to 60
+MRIK0 calls 30
+*** FLOP *** [2s Jh Kh]
+MRIK0 checks
+Zozo sangria checks
+*** TURN *** [2s Jh Kh][Qs]
+MRIK0 checks
+Zozo sangria bets 60
+MRIK0 folds
+Zozo sangria collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | No rake
+Board: [2s Jh Kh Qs]
+Seat 1: Zozo sangria (big blind) won 192
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-9-1538330960 - Holdem no limit (4/15/30) - 2018/09/30 18:09:20 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2775)
+Seat 2: paul bzh (3302)
+Seat 8: MRIK0 (2923)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 4
+paul bzh posts ante 4
+MRIK0 posts ante 4
+Zozo sangria posts small blind 15
+paul bzh posts big blind 30
+Dealt to paul bzh [9s 2d]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 57 from pot
+*** SUMMARY ***
+Total pot 57 | No rake
+Seat 2: paul bzh (big blind) won 57
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-10-1538330969 - Holdem no limit (4/15/30) - 2018/09/30 18:09:29 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2756)
+Seat 2: paul bzh (3325)
+Seat 8: MRIK0 (2919)
+*** ANTE/BLINDS ***
+paul bzh posts ante 4
+MRIK0 posts ante 4
+Zozo sangria posts ante 4
+paul bzh posts small blind 15
+MRIK0 posts big blind 30
+Dealt to paul bzh [Th Qs]
+*** PRE-FLOP *** 
+Zozo sangria raises 30 to 60
+paul bzh raises 120 to 180
+MRIK0 folds
+Zozo sangria calls 120
+*** FLOP *** [Kh Td 5d]
+paul bzh bets 180
+Zozo sangria raises 180 to 360
+paul bzh calls 180
+*** TURN *** [Kh Td 5d][Tc]
+paul bzh checks
+Zozo sangria bets 561
+paul bzh calls 561
+*** RIVER *** [Kh Td 5d Tc][Ks]
+paul bzh checks
+Zozo sangria checks
+*** SHOW DOWN ***
+Zozo sangria shows [3h 3c] (Two pairs : Kings and Tens)
+paul bzh shows [Th Qs] (Full of Tens and Kings)
+paul bzh collected 2244 from pot
+*** SUMMARY ***
+Total pot 2244 | No rake
+Board: [Kh Td 5d Tc Ks]
+Seat 1: Zozo sangria (button) showed [3h 3c] and lost with Two pairs : Kings and Tens
+Seat 2: paul bzh (small blind) showed [Th Qs] and won 2244 with Full of Tens and Kings
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-11-1538331031 - Holdem no limit (4/15/30) - 2018/09/30 18:10:31 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (1651)
+Seat 2: paul bzh (4464)
+Seat 8: MRIK0 (2885)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 4
+Zozo sangria posts ante 4
+paul bzh posts ante 4
+MRIK0 posts small blind 15
+Zozo sangria posts big blind 30
+Dealt to paul bzh [Jd 9h]
+*** PRE-FLOP *** 
+paul bzh raises 60 to 90
+MRIK0 folds
+Zozo sangria calls 60
+*** FLOP *** [4d Ks 5c]
+Zozo sangria checks
+paul bzh checks
+*** TURN *** [4d Ks 5c][5h]
+Zozo sangria bets 30
+paul bzh calls 30
+*** RIVER *** [4d Ks 5c 5h][3c]
+Zozo sangria bets 60
+paul bzh folds
+Zozo sangria collected 327 from pot
+*** SUMMARY ***
+Total pot 327 | No rake
+Board: [4d Ks 5c 5h 3c]
+Seat 1: Zozo sangria (big blind) won 327
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-12-1538331067 - Holdem no limit (4/15/30) - 2018/09/30 18:11:07 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (1794)
+Seat 2: paul bzh (4340)
+Seat 8: MRIK0 (2866)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 4
+paul bzh posts ante 4
+MRIK0 posts ante 4
+Zozo sangria posts small blind 15
+paul bzh posts big blind 30
+Dealt to paul bzh [Ks Qc]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria raises 60 to 90
+paul bzh calls 60
+*** FLOP *** [7s Qd 2c]
+Zozo sangria checks
+paul bzh bets 105
+Zozo sangria calls 105
+*** TURN *** [7s Qd 2c][Ac]
+Zozo sangria checks
+paul bzh checks
+*** RIVER *** [7s Qd 2c Ac][8d]
+Zozo sangria checks
+paul bzh bets 302
+Zozo sangria raises 388 to 690
+paul bzh calls 388
+*** SHOW DOWN ***
+paul bzh shows [Ks Qc] (One pair : Queens)
+Zozo sangria shows [Kd As] (One pair : Aces)
+Zozo sangria collected 1782 from pot
+*** SUMMARY ***
+Total pot 1782 | No rake
+Board: [7s Qd 2c Ac 8d]
+Seat 1: Zozo sangria (small blind) showed [Kd As] and won 1782 with One pair : Aces
+Seat 2: paul bzh (big blind) showed [Ks Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1077253105793368065-13-1538331114 - Holdem no limit (4/15/30) - 2018/09/30 18:11:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2687)
+Seat 2: paul bzh (3451)
+Seat 8: MRIK0 (2862)
+*** ANTE/BLINDS ***
+paul bzh posts ante 4
+MRIK0 posts ante 4
+Zozo sangria posts ante 4
+paul bzh posts small blind 15
+MRIK0 posts big blind 30
+Dealt to paul bzh [Jh Ah]
+*** PRE-FLOP *** 
+Zozo sangria calls 30
+paul bzh raises 90 to 120
+MRIK0 folds
+Zozo sangria calls 90
+*** FLOP *** [6d 2h Ts]
+paul bzh checks
+Zozo sangria bets 90
+paul bzh calls 90
+*** TURN *** [6d 2h Ts][Qs]
+paul bzh checks
+Zozo sangria bets 105
+paul bzh calls 105
+*** RIVER *** [6d 2h Ts Qs][7c]
+paul bzh checks
+Zozo sangria checks
+*** SHOW DOWN ***
+paul bzh shows [Jh Ah] (High card : Ace)
+Zozo sangria shows [Td 8d] (One pair : Tens)
+Zozo sangria collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | No rake
+Board: [6d 2h Ts Qs 7c]
+Seat 1: Zozo sangria (button) showed [Td 8d] and won 672 with One pair : Tens
+Seat 2: paul bzh (small blind) showed [Jh Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-14-1538331145 - Holdem no limit (5/20/40) - 2018/09/30 18:12:25 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (3040)
+Seat 2: paul bzh (3132)
+Seat 8: MRIK0 (2828)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts small blind 20
+Zozo sangria posts big blind 40
+Dealt to paul bzh [4d 5d]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 60 to 100
+Zozo sangria folds
+MRIK0 collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | No rake
+Seat 8: MRIK0 (small blind) won 155
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-15-1538331156 - Holdem no limit (5/20/40) - 2018/09/30 18:12:36 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2995)
+Seat 2: paul bzh (3127)
+Seat 8: MRIK0 (2878)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [3s Kc]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria calls 20
+paul bzh checks
+*** FLOP *** [8h 2d Tc]
+Zozo sangria checks
+paul bzh checks
+*** TURN *** [8h 2d Tc][5d]
+Zozo sangria bets 60
+paul bzh folds
+Zozo sangria collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | No rake
+Board: [8h 2d Tc 5d]
+Seat 1: Zozo sangria (small blind) won 155
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-16-1538331174 - Holdem no limit (5/20/40) - 2018/09/30 18:12:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3045)
+Seat 2: paul bzh (3082)
+Seat 8: MRIK0 (2873)
+*** ANTE/BLINDS ***
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts small blind 20
+MRIK0 posts big blind 40
+Dealt to paul bzh [2d Js]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 20
+MRIK0 raises 88 to 128
+paul bzh folds
+MRIK0 collected 183 from pot
+*** SUMMARY ***
+Total pot 183 | No rake
+Seat 8: MRIK0 (big blind) won 183
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-17-1538331189 - Holdem no limit (5/20/40) - 2018/09/30 18:13:09 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (3040)
+Seat 2: paul bzh (3037)
+Seat 8: MRIK0 (2923)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts small blind 20
+Zozo sangria posts big blind 40
+Dealt to paul bzh [Td 9c]
+*** PRE-FLOP *** 
+paul bzh raises 80 to 120
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Seat 2: paul bzh (button) won 195
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-18-1538331205 - Holdem no limit (5/20/40) - 2018/09/30 18:13:25 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2995)
+Seat 2: paul bzh (3107)
+Seat 8: MRIK0 (2898)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [8c 6h]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria raises 40 to 80
+paul bzh calls 40
+*** FLOP *** [8s 7h 3c]
+Zozo sangria bets 80
+paul bzh raises 231 to 311
+Zozo sangria raises 249 to 560
+paul bzh folds
+Zozo sangria collected 1046 from pot
+*** SUMMARY ***
+Total pot 1046 | No rake
+Board: [8s 7h 3c]
+Seat 1: Zozo sangria (small blind) won 1046
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-19-1538331252 - Holdem no limit (5/20/40) - 2018/09/30 18:14:12 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3396)
+Seat 2: paul bzh (2711)
+Seat 8: MRIK0 (2893)
+*** ANTE/BLINDS ***
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts small blind 20
+MRIK0 posts big blind 40
+Dealt to paul bzh [Td 7s]
+*** PRE-FLOP *** 
+Zozo sangria calls 40
+paul bzh folds
+MRIK0 checks
+*** FLOP *** [9c 4s 6d]
+MRIK0 checks
+Zozo sangria bets 60
+MRIK0 calls 60
+*** TURN *** [9c 4s 6d][2h]
+MRIK0 checks
+Zozo sangria bets 100
+MRIK0 raises 168 to 268
+Zozo sangria folds
+MRIK0 collected 603 from pot
+*** SUMMARY ***
+Total pot 603 | No rake
+Board: [9c 4s 6d 2h]
+Seat 8: MRIK0 (big blind) won 603
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-20-1538331304 - Holdem no limit (5/20/40) - 2018/09/30 18:15:04 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (3191)
+Seat 2: paul bzh (2686)
+Seat 8: MRIK0 (3123)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts small blind 20
+Zozo sangria posts big blind 40
+Dealt to paul bzh [Jd 6h]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 1: Zozo sangria (big blind) won 75
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-21-1538331311 - Holdem no limit (5/20/40) - 2018/09/30 18:15:11 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (3221)
+Seat 2: paul bzh (2681)
+Seat 8: MRIK0 (3098)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [Kh Js]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria calls 20
+paul bzh raises 80 to 120
+Zozo sangria calls 80
+*** FLOP *** [Qd Kd 3h]
+Zozo sangria checks
+paul bzh bets 140
+Zozo sangria raises 140 to 280
+paul bzh raises 541 to 821
+Zozo sangria folds
+paul bzh collected 1356 from pot
+*** SUMMARY ***
+Total pot 1356 | No rake
+Board: [Qd Kd 3h]
+Seat 2: paul bzh (big blind) won 1356
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-22-1538331375 - Holdem no limit (5/20/40) - 2018/09/30 18:16:15 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2816)
+Seat 2: paul bzh (3091)
+Seat 8: MRIK0 (3093)
+*** ANTE/BLINDS ***
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts small blind 20
+MRIK0 posts big blind 40
+Dealt to paul bzh [Qd 4d]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 8: MRIK0 (big blind) won 75
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-23-1538331387 - Holdem no limit (5/20/40) - 2018/09/30 18:16:27 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2811)
+Seat 2: paul bzh (3066)
+Seat 8: MRIK0 (3123)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts small blind 20
+Zozo sangria posts big blind 40
+Dealt to paul bzh [5s Kd]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 60 to 100
+Zozo sangria folds
+MRIK0 collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | No rake
+Seat 8: MRIK0 (small blind) won 155
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-24-1538331400 - Holdem no limit (5/20/40) - 2018/09/30 18:16:40 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2766)
+Seat 2: paul bzh (3061)
+Seat 8: MRIK0 (3173)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [Ts Qh]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 2: paul bzh (big blind) won 75
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-25-1538331407 - Holdem no limit (5/20/40) - 2018/09/30 18:16:47 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2741)
+Seat 2: paul bzh (3091)
+Seat 8: MRIK0 (3168)
+*** ANTE/BLINDS ***
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts small blind 20
+MRIK0 posts big blind 40
+Dealt to paul bzh [Th 7h]
+*** PRE-FLOP *** 
+Zozo sangria calls 40
+paul bzh calls 20
+MRIK0 raises 128 to 168
+Zozo sangria calls 128
+paul bzh folds
+*** FLOP *** [6s 2d 3s]
+MRIK0 bets 180
+Zozo sangria folds
+MRIK0 collected 571 from pot
+*** SUMMARY ***
+Total pot 571 | No rake
+Board: [6s 2d 3s]
+Seat 8: MRIK0 (big blind) won 571
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-26-1538331446 - Holdem no limit (5/20/40) - 2018/09/30 18:17:26 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2568)
+Seat 2: paul bzh (3046)
+Seat 8: MRIK0 (3386)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts small blind 20
+Zozo sangria posts big blind 40
+Dealt to paul bzh [6h Tc]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 1: Zozo sangria (big blind) won 75
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-27-1538331455 - Holdem no limit (5/20/40) - 2018/09/30 18:17:35 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2598)
+Seat 2: paul bzh (3041)
+Seat 8: MRIK0 (3361)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 5
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [Js 6s]
+*** PRE-FLOP *** 
+MRIK0 raises 60 to 100
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Seat 8: MRIK0 (button) won 175
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1077253105793368065-28-1538331473 - Holdem no limit (5/20/40) - 2018/09/30 18:17:53 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2573)
+Seat 2: paul bzh (2996)
+Seat 8: MRIK0 (3431)
+*** ANTE/BLINDS ***
+paul bzh posts ante 5
+MRIK0 posts ante 5
+Zozo sangria posts ante 5
+paul bzh posts small blind 20
+MRIK0 posts big blind 40
+Dealt to paul bzh [3s Kc]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 20
+MRIK0 checks
+*** FLOP *** [Ks 7s As]
+paul bzh bets 48
+MRIK0 folds
+paul bzh collected 143 from pot
+*** SUMMARY ***
+Total pot 143 | No rake
+Board: [Ks 7s As]
+Seat 2: paul bzh (small blind) won 143
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-29-1538331490 - Holdem no limit (8/30/60) - 2018/09/30 18:18:10 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2568)
+Seat 2: paul bzh (3046)
+Seat 8: MRIK0 (3386)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts small blind 30
+Zozo sangria posts big blind 60
+Dealt to paul bzh [4h 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 1: Zozo sangria (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-30-1538331496 - Holdem no limit (8/30/60) - 2018/09/30 18:18:16 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2614)
+Seat 2: paul bzh (3038)
+Seat 8: MRIK0 (3348)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [5c 4s]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 2: paul bzh (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-31-1538331506 - Holdem no limit (8/30/60) - 2018/09/30 18:18:26 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2576)
+Seat 2: paul bzh (3084)
+Seat 8: MRIK0 (3340)
+*** ANTE/BLINDS ***
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts small blind 30
+MRIK0 posts big blind 60
+Dealt to paul bzh [Th 5s]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh raises 120 to 180
+MRIK0 folds
+paul bzh collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Seat 2: paul bzh (small blind) won 264
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-32-1538331534 - Holdem no limit (8/30/60) - 2018/09/30 18:18:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2568)
+Seat 2: paul bzh (3160)
+Seat 8: MRIK0 (3272)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts small blind 30
+Zozo sangria posts big blind 60
+Dealt to paul bzh [8d Kh]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 1: Zozo sangria (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-33-1538331541 - Holdem no limit (8/30/60) - 2018/09/30 18:19:01 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2614)
+Seat 2: paul bzh (3152)
+Seat 8: MRIK0 (3234)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [6d 9c]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 2: paul bzh (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-34-1538331548 - Holdem no limit (8/30/60) - 2018/09/30 18:19:08 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2576)
+Seat 2: paul bzh (3198)
+Seat 8: MRIK0 (3226)
+*** ANTE/BLINDS ***
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts small blind 30
+MRIK0 posts big blind 60
+Dealt to paul bzh [Qs 2h]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 30
+MRIK0 raises 150 to 210
+paul bzh folds
+MRIK0 collected 294 from pot
+*** SUMMARY ***
+Total pot 294 | No rake
+Seat 8: MRIK0 (big blind) won 294
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-35-1538331570 - Holdem no limit (8/30/60) - 2018/09/30 18:19:30 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2568)
+Seat 2: paul bzh (3130)
+Seat 8: MRIK0 (3302)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts small blind 30
+Zozo sangria posts big blind 60
+Dealt to paul bzh [Td 2d]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 1: Zozo sangria (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-36-1538331578 - Holdem no limit (8/30/60) - 2018/09/30 18:19:38 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2614)
+Seat 2: paul bzh (3122)
+Seat 8: MRIK0 (3264)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [Td 6d]
+*** PRE-FLOP *** 
+MRIK0 raises 90 to 150
+Zozo sangria folds
+paul bzh calls 90
+*** FLOP *** [Kd As 5s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Kd As 5s][6s]
+paul bzh bets 150
+MRIK0 calls 150
+*** RIVER *** [Kd As 5s 6s][2h]
+paul bzh checks
+MRIK0 bets 210
+paul bzh folds
+MRIK0 collected 864 from pot
+*** SUMMARY ***
+Total pot 864 | No rake
+Board: [Kd As 5s 6s 2h]
+Seat 8: MRIK0 (button) won 864
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-37-1538331645 - Holdem no limit (8/30/60) - 2018/09/30 18:20:45 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2576)
+Seat 2: paul bzh (2814)
+Seat 8: MRIK0 (3610)
+*** ANTE/BLINDS ***
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts small blind 30
+MRIK0 posts big blind 60
+Dealt to paul bzh [8h 6s]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Seat 8: MRIK0 (big blind) won 114
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-38-1538331652 - Holdem no limit (8/30/60) - 2018/09/30 18:20:52 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2568)
+Seat 2: paul bzh (2776)
+Seat 8: MRIK0 (3656)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts small blind 30
+Zozo sangria posts big blind 60
+Dealt to paul bzh [As 9c]
+*** PRE-FLOP *** 
+paul bzh raises 120 to 180
+MRIK0 raises 360 to 540
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | No rake
+Seat 8: MRIK0 (small blind) won 804
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-39-1538331678 - Holdem no limit (8/30/60) - 2018/09/30 18:21:18 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2500)
+Seat 2: paul bzh (2588)
+Seat 8: MRIK0 (3912)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 8
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [Ad 3d]
+*** PRE-FLOP *** 
+MRIK0 raises 90 to 150
+Zozo sangria folds
+paul bzh calls 90
+*** FLOP *** [5d 6d 4h]
+paul bzh bets 354
+MRIK0 calls 354
+*** TURN *** [5d 6d 4h][9h]
+paul bzh bets 780
+MRIK0 calls 780
+*** RIVER *** [5d 6d 4h 9h][3s]
+paul bzh checks
+MRIK0 checks
+*** SHOW DOWN ***
+paul bzh shows [Ad 3d] (One pair : 3)
+MRIK0 shows [6h Jh] (One pair : 6)
+MRIK0 collected 2622 from pot
+*** SUMMARY ***
+Total pot 2622 | No rake
+Board: [5d 6d 4h 9h 3s]
+Seat 2: paul bzh (big blind) showed [Ad 3d] and lost with One pair : 3
+Seat 8: MRIK0 (button) showed [6h Jh] and won 2622 with One pair : 6
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1077253105793368065-40-1538331789 - Holdem no limit (8/30/60) - 2018/09/30 18:23:09 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (2462)
+Seat 2: paul bzh (1296)
+Seat 8: MRIK0 (5242)
+*** ANTE/BLINDS ***
+paul bzh posts ante 8
+MRIK0 posts ante 8
+Zozo sangria posts ante 8
+paul bzh posts small blind 30
+MRIK0 posts big blind 60
+Dealt to paul bzh [Th 6h]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 30
+MRIK0 checks
+*** FLOP *** [Qh Ac 4h]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Qh Ac 4h][9s]
+paul bzh checks
+MRIK0 checks
+*** RIVER *** [Qh Ac 4h 9s][3h]
+paul bzh bets 144
+MRIK0 raises 156 to 300
+paul bzh calls 156
+*** SHOW DOWN ***
+MRIK0 shows [5d 2d] (Straight 5 high)
+paul bzh shows [Th 6h] (Flush Queen high)
+paul bzh collected 744 from pot
+*** SUMMARY ***
+Total pot 744 | No rake
+Board: [Qh Ac 4h 9s 3h]
+Seat 2: paul bzh (small blind) showed [Th 6h] and won 744 with Flush Queen high
+Seat 8: MRIK0 (big blind) showed [5d 2d] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-41-1538331850 - Holdem no limit (10/40/80) - 2018/09/30 18:24:10 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2454)
+Seat 2: paul bzh (1672)
+Seat 8: MRIK0 (4874)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts small blind 40
+Zozo sangria posts big blind 80
+Dealt to paul bzh [4c 6d]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Zozo sangria (big blind) won 150
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-42-1538331865 - Holdem no limit (10/40/80) - 2018/09/30 18:24:25 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2514)
+Seat 2: paul bzh (1662)
+Seat 8: MRIK0 (4824)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [Qh 4h]
+*** PRE-FLOP *** 
+MRIK0 raises 120 to 200
+Zozo sangria calls 160
+paul bzh folds
+*** FLOP *** [Jh 9c 3s]
+Zozo sangria checks
+MRIK0 checks
+*** TURN *** [Jh 9c 3s][Ts]
+Zozo sangria bets 120
+MRIK0 raises 240 to 360
+Zozo sangria raises 240 to 600
+MRIK0 calls 240
+*** RIVER *** [Jh 9c 3s Ts][3c]
+Zozo sangria bets 560
+MRIK0 calls 560
+*** SHOW DOWN ***
+Zozo sangria shows [Kh 5h] (One pair : 3)
+MRIK0 shows [7d Td] (Two pairs : Tens and 3)
+MRIK0 collected 2830 from pot
+*** SUMMARY ***
+Total pot 2830 | No rake
+Board: [Jh 9c 3s Ts 3c]
+Seat 1: Zozo sangria (small blind) showed [Kh 5h] and lost with One pair : 3
+Seat 8: MRIK0 (button) showed [7d Td] and won 2830 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-43-1538331996 - Holdem no limit (10/40/80) - 2018/09/30 18:26:36 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (1144)
+Seat 2: paul bzh (1572)
+Seat 8: MRIK0 (6284)
+*** ANTE/BLINDS ***
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts small blind 40
+MRIK0 posts big blind 80
+Dealt to paul bzh [As 8c]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh raises 160 to 240
+MRIK0 calls 160
+*** FLOP *** [3c Qc 7s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [3c Qc 7s][8d]
+paul bzh bets 255
+MRIK0 calls 255
+*** RIVER *** [3c Qc 7s 8d][Jd]
+paul bzh checks
+MRIK0 checks
+*** SHOW DOWN ***
+MRIK0 shows [6h 8h] (One pair : 8)
+paul bzh shows [As 8c] (One pair : 8)
+paul bzh collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [3c Qc 7s 8d Jd]
+Seat 2: paul bzh (small blind) showed [As 8c] and won 1020 with One pair : 8
+Seat 8: MRIK0 (big blind) showed [6h 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-44-1538332054 - Holdem no limit (10/40/80) - 2018/09/30 18:27:34 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (1134)
+Seat 2: paul bzh (2087)
+Seat 8: MRIK0 (5779)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts small blind 40
+Zozo sangria posts big blind 80
+Dealt to paul bzh [Kh 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Zozo sangria (big blind) won 150
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-45-1538332071 - Holdem no limit (10/40/80) - 2018/09/30 18:27:51 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (1194)
+Seat 2: paul bzh (2077)
+Seat 8: MRIK0 (5729)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [As Th]
+*** PRE-FLOP *** 
+MRIK0 folds
+Zozo sangria calls 40
+paul bzh raises 160 to 240
+Zozo sangria folds
+paul bzh collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: paul bzh (big blind) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-46-1538332087 - Holdem no limit (10/40/80) - 2018/09/30 18:28:07 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (1104)
+Seat 2: paul bzh (2177)
+Seat 8: MRIK0 (5719)
+*** ANTE/BLINDS ***
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts small blind 40
+MRIK0 posts big blind 80
+Dealt to paul bzh [6s Kc]
+*** PRE-FLOP *** 
+Zozo sangria raises 80 to 160
+paul bzh folds
+MRIK0 calls 80
+*** FLOP *** [Jc Qd Ad]
+MRIK0 checks
+Zozo sangria bets 80
+MRIK0 folds
+Zozo sangria collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Jc Qd Ad]
+Seat 1: Zozo sangria (button) won 470
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-47-1538332131 - Holdem no limit (10/40/80) - 2018/09/30 18:28:51 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (1324)
+Seat 2: paul bzh (2127)
+Seat 8: MRIK0 (5549)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts small blind 40
+Zozo sangria posts big blind 80
+Dealt to paul bzh [3s Jh]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Zozo sangria (big blind) won 150
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-48-1538332140 - Holdem no limit (10/40/80) - 2018/09/30 18:29:00 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (1384)
+Seat 2: paul bzh (2117)
+Seat 8: MRIK0 (5499)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [Kh 9h]
+*** PRE-FLOP *** 
+MRIK0 raises 120 to 200
+Zozo sangria folds
+paul bzh calls 120
+*** FLOP *** [3d Ad 5s]
+paul bzh checks
+MRIK0 bets 200
+paul bzh folds
+MRIK0 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [3d Ad 5s]
+Seat 8: MRIK0 (button) won 670
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-49-1538332167 - Holdem no limit (10/40/80) - 2018/09/30 18:29:27 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (1334)
+Seat 2: paul bzh (1907)
+Seat 8: MRIK0 (5759)
+*** ANTE/BLINDS ***
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts small blind 40
+MRIK0 posts big blind 80
+Dealt to paul bzh [5d Jc]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 8: MRIK0 (big blind) won 150
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-50-1538332175 - Holdem no limit (10/40/80) - 2018/09/30 18:29:35 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (1324)
+Seat 2: paul bzh (1857)
+Seat 8: MRIK0 (5819)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts small blind 40
+Zozo sangria posts big blind 80
+Dealt to paul bzh [3c 6h]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 120 to 200
+Zozo sangria folds
+MRIK0 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 8: MRIK0 (small blind) won 310
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-51-1538332186 - Holdem no limit (10/40/80) - 2018/09/30 18:29:46 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (1234)
+Seat 2: paul bzh (1847)
+Seat 8: MRIK0 (5919)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 10
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [7d 3h]
+*** PRE-FLOP *** 
+MRIK0 raises 120 to 200
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 8: MRIK0 (button) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1077253105793368065-52-1538332196 - Holdem no limit (10/40/80) - 2018/09/30 18:29:56 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (1184)
+Seat 2: paul bzh (1757)
+Seat 8: MRIK0 (6059)
+*** ANTE/BLINDS ***
+paul bzh posts ante 10
+MRIK0 posts ante 10
+Zozo sangria posts ante 10
+paul bzh posts small blind 40
+MRIK0 posts big blind 80
+Dealt to paul bzh [4h Ts]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh raises 80 to 160
+MRIK0 calls 80
+*** FLOP *** [5c 4d Qh]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [5c 4d Qh][Kh]
+paul bzh checks
+MRIK0 bets 160
+paul bzh folds
+MRIK0 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [5c 4d Qh Kh]
+Seat 8: MRIK0 (big blind) won 510
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-53-1538332233 - Holdem no limit (12/50/100) - 2018/09/30 18:30:33 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (1174)
+Seat 2: paul bzh (1587)
+Seat 8: MRIK0 (6239)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts small blind 50
+Zozo sangria posts big blind 100
+Dealt to paul bzh [4d Qd]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 150 to 250
+Zozo sangria raises 150 to 400
+MRIK0 folds
+Zozo sangria collected 686 from pot
+*** SUMMARY ***
+Total pot 686 | No rake
+Seat 1: Zozo sangria (big blind) won 686
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-54-1538332259 - Holdem no limit (12/50/100) - 2018/09/30 18:30:59 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (1448)
+Seat 2: paul bzh (1575)
+Seat 8: MRIK0 (5977)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts small blind 50
+paul bzh posts big blind 100
+Dealt to paul bzh [5h 2d]
+*** PRE-FLOP *** 
+MRIK0 raises 150 to 250
+Zozo sangria raises 150 to 400
+paul bzh folds
+MRIK0 raises 5565 to 5965 and is all-in
+Zozo sangria calls 1036 and is all-in
+*** FLOP *** [7s 5s Js]
+*** TURN *** [7s 5s Js][Tc]
+*** RIVER *** [7s 5s Js Tc][Kc]
+*** SHOW DOWN ***
+Zozo sangria shows [6s 6h] (One pair : 6)
+MRIK0 shows [2s 2h] (One pair : 2)
+MRIK0 collected 4529 from side pot 1
+Zozo sangria collected 3008 from main pot
+*** SUMMARY ***
+Total pot 7537 | No rake
+Board: [7s 5s Js Tc Kc]
+Seat 1: Zozo sangria (small blind) showed [6s 6h] and won 3008 with One pair : 6
+Seat 8: MRIK0 (button) showed [2s 2h] and won 4529 with One pair : 2
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-55-1538332288 - Holdem no limit (12/50/100) - 2018/09/30 18:31:28 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3008)
+Seat 2: paul bzh (1463)
+Seat 8: MRIK0 (4529)
+*** ANTE/BLINDS ***
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts small blind 50
+MRIK0 posts big blind 100
+Dealt to paul bzh [Ts 7c]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 50
+MRIK0 checks
+*** FLOP *** [Kc 9d 6c]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Kc 9d 6c][2s]
+paul bzh checks
+MRIK0 checks
+*** RIVER *** [Kc 9d 6c 2s][Ks]
+paul bzh checks
+MRIK0 checks
+*** SHOW DOWN ***
+paul bzh shows [Ts 7c] (One pair : Kings)
+MRIK0 shows [Th 7s] (One pair : Kings)
+MRIK0 collected 118 from pot
+paul bzh collected 118 from pot
+*** SUMMARY ***
+Total pot 236 | No rake
+Board: [Kc 9d 6c 2s Ks]
+Seat 2: paul bzh (small blind) showed [Ts 7c] and won 118 with One pair : Kings
+Seat 8: MRIK0 (big blind) showed [Th 7s] and won 118 with One pair : Kings
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-56-1538332325 - Holdem no limit (12/50/100) - 2018/09/30 18:32:05 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (2996)
+Seat 2: paul bzh (1469)
+Seat 8: MRIK0 (4535)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts small blind 50
+Zozo sangria posts big blind 100
+Dealt to paul bzh [5d 8c]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 150 to 250
+Zozo sangria folds
+MRIK0 collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Seat 8: MRIK0 (small blind) won 386
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-57-1538332346 - Holdem no limit (12/50/100) - 2018/09/30 18:32:26 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (2884)
+Seat 2: paul bzh (1457)
+Seat 8: MRIK0 (4659)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts small blind 50
+paul bzh posts big blind 100
+Dealt to paul bzh [6s Kd]
+*** PRE-FLOP *** 
+MRIK0 raises 150 to 250
+Zozo sangria raises 150 to 400
+paul bzh folds
+MRIK0 calls 150
+*** FLOP *** [7s 8c Td]
+Zozo sangria checks
+MRIK0 checks
+*** TURN *** [7s 8c Td][Qh]
+Zozo sangria bets 400
+MRIK0 folds
+Zozo sangria shows [Kh As] (High card : Ace)
+Zozo sangria collected 1336 from pot
+*** SUMMARY ***
+Total pot 1336 | No rake
+Board: [7s 8c Td Qh]
+Seat 1: Zozo sangria (small blind) showed [Kh As] and won 1336 with High card : Ace
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-58-1538332420 - Holdem no limit (12/50/100) - 2018/09/30 18:33:40 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3408)
+Seat 2: paul bzh (1345)
+Seat 8: MRIK0 (4247)
+*** ANTE/BLINDS ***
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts small blind 50
+MRIK0 posts big blind 100
+Dealt to paul bzh [Kh 5c]
+*** PRE-FLOP *** 
+Zozo sangria raises 100 to 200
+paul bzh folds
+MRIK0 folds
+Zozo sangria collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Seat 1: Zozo sangria (button) won 386
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-59-1538332437 - Holdem no limit (12/50/100) - 2018/09/30 18:33:57 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (3582)
+Seat 2: paul bzh (1283)
+Seat 8: MRIK0 (4135)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts small blind 50
+Zozo sangria posts big blind 100
+Dealt to paul bzh [9h Kc]
+*** PRE-FLOP *** 
+paul bzh raises 200 to 300
+MRIK0 folds
+Zozo sangria folds
+paul bzh collected 486 from pot
+*** SUMMARY ***
+Total pot 486 | No rake
+Seat 2: paul bzh (button) won 486
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-60-1538332454 - Holdem no limit (12/50/100) - 2018/09/30 18:34:14 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 1: Zozo sangria (3470)
+Seat 2: paul bzh (1457)
+Seat 8: MRIK0 (4073)
+*** ANTE/BLINDS ***
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts small blind 50
+paul bzh posts big blind 100
+Dealt to paul bzh [5h Jh]
+*** PRE-FLOP *** 
+MRIK0 raises 150 to 250
+Zozo sangria folds
+paul bzh folds
+MRIK0 collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Seat 8: MRIK0 (button) won 436
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-61-1538332467 - Holdem no limit (12/50/100) - 2018/09/30 18:34:27 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #1 is the button
+Seat 1: Zozo sangria (3408)
+Seat 2: paul bzh (1345)
+Seat 8: MRIK0 (4247)
+*** ANTE/BLINDS ***
+paul bzh posts ante 12
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts small blind 50
+MRIK0 posts big blind 100
+Dealt to paul bzh [5c 3c]
+*** PRE-FLOP *** 
+Zozo sangria folds
+paul bzh calls 50
+MRIK0 checks
+*** FLOP *** [Ad 5d 7d]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Ad 5d 7d][4d]
+paul bzh checks
+MRIK0 checks
+*** RIVER *** [Ad 5d 7d 4d][8d]
+paul bzh bets 100
+MRIK0 calls 100
+*** SHOW DOWN ***
+paul bzh shows [5c 3c] (Flush Ace high)
+MRIK0 shows [4c 8h] (Flush Ace high)
+MRIK0 collected 218 from pot
+paul bzh collected 218 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [Ad 5d 7d 4d 8d]
+Seat 2: paul bzh (small blind) showed [5c 3c] and won 218 with Flush Ace high
+Seat 8: MRIK0 (big blind) showed [4c 8h] and won 218 with Flush Ace high
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1077253105793368065-62-1538332497 - Holdem no limit (12/50/100) - 2018/09/30 18:34:57 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 1: Zozo sangria (3396)
+Seat 2: paul bzh (1351)
+Seat 8: MRIK0 (4253)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 12
+Zozo sangria posts ante 12
+paul bzh posts ante 12
+MRIK0 posts small blind 50
+Zozo sangria posts big blind 100
+Dealt to paul bzh [9d Jh]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 raises 150 to 250
+Zozo sangria calls 150
+*** FLOP *** [7h Kc Th]
+MRIK0 bets 300
+Zozo sangria calls 300
+*** TURN *** [7h Kc Th][9h]
+MRIK0 bets 600
+Zozo sangria calls 600
+*** RIVER *** [7h Kc Th 9h][8s]
+MRIK0 bets 1200
+Zozo sangria raises 1034 to 2234 and is all-in
+MRIK0 calls 1034
+*** SHOW DOWN ***
+Zozo sangria shows [8d 5h] (One pair : 8)
+MRIK0 shows [6h 4h] (Flush Ten high)
+MRIK0 collected 6804 from pot
+*** SUMMARY ***
+Total pot 6804 | No rake
+Board: [7h Kc Th 9h 8s]
+Seat 1: Zozo sangria (big blind) showed [8d 5h] and lost with One pair : 8
+Seat 8: MRIK0 (small blind) showed [6h 4h] and won 6804 with Flush Ten high
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-63-1538332587 - Holdem no limit (15/60/120) - 2018/09/30 18:36:27 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (1339)
+Seat 8: MRIK0 (7661)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [4d 5h]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 8: MRIK0 (big blind) won 210
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-64-1538332599 - Holdem no limit (15/60/120) - 2018/09/30 18:36:39 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (1264)
+Seat 8: MRIK0 (7736)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [6c Qd]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh calls 180
+*** FLOP *** [2s 3h 6d]
+paul bzh bets 949 and is all-in
+MRIK0 folds
+paul bzh collected 1579 from pot
+*** SUMMARY ***
+Total pot 1579 | No rake
+Board: [2s 3h 6d]
+Seat 2: paul bzh (big blind) won 1579
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-65-1538332629 - Holdem no limit (15/60/120) - 2018/09/30 18:37:09 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (1579)
+Seat 8: MRIK0 (7421)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [7h Td]
+*** PRE-FLOP *** 
+paul bzh calls 60
+MRIK0 checks
+*** FLOP *** [Qc 9c 6s]
+MRIK0 checks
+paul bzh checks
+*** TURN *** [Qc 9c 6s][Kc]
+MRIK0 bets 180
+paul bzh calls 180
+*** RIVER *** [Qc 9c 6s Kc][Jc]
+MRIK0 bets 540
+paul bzh folds
+MRIK0 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [Qc 9c 6s Kc Jc]
+Seat 8: MRIK0 (big blind) won 1170
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-66-1538332674 - Holdem no limit (15/60/120) - 2018/09/30 18:37:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (1264)
+Seat 8: MRIK0 (7736)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [Kd Kh]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh raises 360 to 660
+MRIK0 calls 360
+*** FLOP *** [Th 7h 9s]
+paul bzh bets 589 and is all-in
+MRIK0 calls 589
+*** TURN *** [Th 7h 9s][Jc]
+*** RIVER *** [Th 7h 9s Jc][Jd]
+*** SHOW DOWN ***
+MRIK0 shows [As 9d] (Two pairs : Jacks and 9)
+paul bzh shows [Kd Kh] (Two pairs : Kings and Jacks)
+paul bzh collected 2528 from pot
+*** SUMMARY ***
+Total pot 2528 | No rake
+Board: [Th 7h 9s Jc Jd]
+Seat 2: paul bzh (big blind) showed [Kd Kh] and won 2528 with Two pairs : Kings and Jacks
+Seat 8: MRIK0 (small blind) (button) showed [As 9d] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-67-1538332716 - Holdem no limit (15/60/120) - 2018/09/30 18:38:36 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2528)
+Seat 8: MRIK0 (6472)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [Kc Tc]
+*** PRE-FLOP *** 
+paul bzh raises 240 to 360
+MRIK0 folds
+paul bzh collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: paul bzh (small blind) (button) won 510
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-68-1538332728 - Holdem no limit (15/60/120) - 2018/09/30 18:38:48 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2663)
+Seat 8: MRIK0 (6337)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [7h 2s]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh folds
+MRIK0 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 8: MRIK0 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-69-1538332736 - Holdem no limit (15/60/120) - 2018/09/30 18:38:56 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2528)
+Seat 8: MRIK0 (6472)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [3d Js]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 8: MRIK0 (big blind) won 210
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-70-1538332740 - Holdem no limit (15/60/120) - 2018/09/30 18:39:00 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2453)
+Seat 8: MRIK0 (6547)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [8h Th]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh calls 180
+*** FLOP *** [7d 6c 7s]
+paul bzh checks
+MRIK0 bets 315
+paul bzh calls 315
+*** TURN *** [7d 6c 7s][Qd]
+paul bzh bets 630
+MRIK0 folds
+paul bzh collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | No rake
+Board: [7d 6c 7s Qd]
+Seat 2: paul bzh (big blind) won 1890
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-71-1538332788 - Holdem no limit (15/60/120) - 2018/09/30 18:39:48 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3083)
+Seat 8: MRIK0 (5917)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [Ad Kd]
+*** PRE-FLOP *** 
+paul bzh raises 240 to 360
+MRIK0 folds
+paul bzh shows [Ad Kd] (High card : Ace)
+paul bzh collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: paul bzh (small blind) (button) showed [Ad Kd] and won 510 with High card : Ace
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-72-1538332798 - Holdem no limit (15/60/120) - 2018/09/30 18:39:58 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3218)
+Seat 8: MRIK0 (5782)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [7s 4h]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh folds
+MRIK0 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 8: MRIK0 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-73-1538332808 - Holdem no limit (15/60/120) - 2018/09/30 18:40:08 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3083)
+Seat 8: MRIK0 (5917)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [8c Jd]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 8: MRIK0 (big blind) won 210
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-74-1538332814 - Holdem no limit (15/60/120) - 2018/09/30 18:40:14 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3008)
+Seat 8: MRIK0 (5992)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [Qh 8s]
+*** PRE-FLOP *** 
+MRIK0 raises 180 to 300
+paul bzh calls 180
+*** FLOP *** [Qd 9d 3h]
+paul bzh bets 315
+MRIK0 calls 315
+*** TURN *** [Qd 9d 3h][2s]
+paul bzh bets 945
+MRIK0 folds
+paul bzh collected 2205 from pot
+*** SUMMARY ***
+Total pot 2205 | No rake
+Board: [Qd 9d 3h 2s]
+Seat 2: paul bzh (big blind) won 2205
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-75-1538332852 - Holdem no limit (15/60/120) - 2018/09/30 18:40:52 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3638)
+Seat 8: MRIK0 (5362)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+MRIK0 posts ante 15
+paul bzh posts small blind 60
+MRIK0 posts big blind 120
+Dealt to paul bzh [Ac Ts]
+*** PRE-FLOP *** 
+paul bzh raises 240 to 360
+MRIK0 folds
+paul bzh collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: paul bzh (small blind) (button) won 510
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1077253105793368065-76-1538332862 - Holdem no limit (15/60/120) - 2018/09/30 18:41:02 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3773)
+Seat 8: MRIK0 (5227)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 15
+paul bzh posts ante 15
+MRIK0 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [8c Ah]
+*** PRE-FLOP *** 
+MRIK0 calls 60
+paul bzh raises 240 to 360
+MRIK0 calls 240
+*** FLOP *** [Ts Td 5d]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Ts Td 5d][6c]
+paul bzh bets 240
+MRIK0 calls 240
+*** RIVER *** [Ts Td 5d 6c][7s]
+paul bzh bets 780
+MRIK0 calls 780
+*** SHOW DOWN ***
+paul bzh shows [8c Ah] (One pair : Tens)
+MRIK0 shows [9d 7h] (Two pairs : Tens and 7)
+MRIK0 collected 2790 from pot
+*** SUMMARY ***
+Total pot 2790 | No rake
+Board: [Ts Td 5d 6c 7s]
+Seat 2: paul bzh (big blind) showed [8c Ah] and lost with One pair : Tens
+Seat 8: MRIK0 (small blind) (button) showed [9d 7h] and won 2790 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-77-1538332924 - Holdem no limit (20/80/160) - 2018/09/30 18:42:04 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2378)
+Seat 8: MRIK0 (6622)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [9d Kc]
+*** PRE-FLOP *** 
+paul bzh calls 80
+MRIK0 checks
+*** FLOP *** [4s Qh 5c]
+MRIK0 checks
+paul bzh checks
+*** TURN *** [4s Qh 5c][7c]
+MRIK0 bets 240
+paul bzh folds
+MRIK0 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4s Qh 5c 7c]
+Seat 8: MRIK0 (big blind) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-78-1538332958 - Holdem no limit (20/80/160) - 2018/09/30 18:42:38 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2198)
+Seat 8: MRIK0 (6802)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [2d Kh]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh folds
+MRIK0 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 8: MRIK0 (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-79-1538332971 - Holdem no limit (20/80/160) - 2018/09/30 18:42:51 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2018)
+Seat 8: MRIK0 (6982)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [2h 2s]
+*** PRE-FLOP *** 
+paul bzh raises 320 to 480
+MRIK0 folds
+paul bzh collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 2: paul bzh (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-80-1538332983 - Holdem no limit (20/80/160) - 2018/09/30 18:43:03 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2198)
+Seat 8: MRIK0 (6802)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [Js Qc]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: paul bzh (big blind) won 280
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-81-1538332987 - Holdem no limit (20/80/160) - 2018/09/30 18:43:07 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2298)
+Seat 8: MRIK0 (6702)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [6s 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: MRIK0 (big blind) won 280
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-82-1538332991 - Holdem no limit (20/80/160) - 2018/09/30 18:43:11 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2198)
+Seat 8: MRIK0 (6802)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [Jh 7c]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh calls 240
+*** FLOP *** [7d 5c As]
+paul bzh checks
+MRIK0 bets 480
+paul bzh folds
+MRIK0 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [7d 5c As]
+Seat 8: MRIK0 (small blind) (button) won 1320
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-83-1538333019 - Holdem no limit (20/80/160) - 2018/09/30 18:43:39 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (1778)
+Seat 8: MRIK0 (7222)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [7h 8c]
+*** PRE-FLOP *** 
+paul bzh raises 160 to 320
+MRIK0 folds
+paul bzh collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: paul bzh (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-84-1538333030 - Holdem no limit (20/80/160) - 2018/09/30 18:43:50 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (1958)
+Seat 8: MRIK0 (7042)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [6h 5h]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh calls 240
+*** FLOP *** [5c Jh 5s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [5c Jh 5s][Qc]
+paul bzh checks
+MRIK0 checks
+*** RIVER *** [5c Jh 5s Qc][Kd]
+paul bzh bets 560
+MRIK0 folds
+paul bzh collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [5c Jh 5s Qc Kd]
+Seat 2: paul bzh (big blind) won 1400
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-85-1538333102 - Holdem no limit (20/80/160) - 2018/09/30 18:45:02 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2378)
+Seat 8: MRIK0 (6622)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [8s 6s]
+*** PRE-FLOP *** 
+paul bzh raises 240 to 400
+MRIK0 folds
+paul bzh collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 2: paul bzh (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-86-1538333119 - Holdem no limit (20/80/160) - 2018/09/30 18:45:19 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (2558)
+Seat 8: MRIK0 (6442)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [7c 2d]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: paul bzh (big blind) won 280
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-87-1538333123 - Holdem no limit (20/80/160) - 2018/09/30 18:45:23 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2658)
+Seat 8: MRIK0 (6342)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [Kd As]
+*** PRE-FLOP *** 
+paul bzh raises 320 to 480
+MRIK0 calls 320
+*** FLOP *** [5s 2d 6c]
+MRIK0 checks
+paul bzh bets 750
+MRIK0 folds
+paul bzh collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [5s 2d 6c]
+Seat 2: paul bzh (small blind) (button) won 1750
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-88-1538333165 - Holdem no limit (20/80/160) - 2018/09/30 18:46:05 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3158)
+Seat 8: MRIK0 (5842)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [9h 3s]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh folds
+MRIK0 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 8: MRIK0 (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-89-1538333175 - Holdem no limit (20/80/160) - 2018/09/30 18:46:15 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2978)
+Seat 8: MRIK0 (6022)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [8d Td]
+*** PRE-FLOP *** 
+paul bzh calls 80
+MRIK0 checks
+*** FLOP *** [3d 9d 2d]
+MRIK0 checks
+paul bzh bets 400
+MRIK0 folds
+paul bzh collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [3d 9d 2d]
+Seat 2: paul bzh (small blind) (button) won 760
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-90-1538333202 - Holdem no limit (20/80/160) - 2018/09/30 18:46:42 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3158)
+Seat 8: MRIK0 (5842)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [9s Jc]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh folds
+MRIK0 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 8: MRIK0 (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-91-1538333215 - Holdem no limit (20/80/160) - 2018/09/30 18:46:55 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (2978)
+Seat 8: MRIK0 (6022)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [Td Ah]
+*** PRE-FLOP *** 
+paul bzh raises 320 to 480
+MRIK0 calls 320
+*** FLOP *** [Ad 7s 3d]
+MRIK0 checks
+paul bzh checks
+*** TURN *** [Ad 7s 3d][9d]
+MRIK0 checks
+paul bzh bets 750
+MRIK0 folds
+paul bzh collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [Ad 7s 3d 9d]
+Seat 2: paul bzh (small blind) (button) won 1750
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-92-1538333261 - Holdem no limit (20/80/160) - 2018/09/30 18:47:41 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3478)
+Seat 8: MRIK0 (5522)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [2h Ks]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: paul bzh (big blind) won 280
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-93-1538333266 - Holdem no limit (20/80/160) - 2018/09/30 18:47:46 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3578)
+Seat 8: MRIK0 (5422)
+*** ANTE/BLINDS ***
+paul bzh posts ante 20
+MRIK0 posts ante 20
+paul bzh posts small blind 80
+MRIK0 posts big blind 160
+Dealt to paul bzh [Js Qc]
+*** PRE-FLOP *** 
+paul bzh raises 320 to 480
+MRIK0 folds
+paul bzh collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 2: paul bzh (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1077253105793368065-94-1538333277 - Holdem no limit (20/80/160) - 2018/09/30 18:47:57 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3758)
+Seat 8: MRIK0 (5242)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 20
+paul bzh posts ante 20
+MRIK0 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [3d 7d]
+*** PRE-FLOP *** 
+MRIK0 raises 240 to 400
+paul bzh folds
+MRIK0 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 8: MRIK0 (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-95-1538333289 - Holdem no limit (25/100/200) - 2018/09/30 18:48:09 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3578)
+Seat 8: MRIK0 (5422)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [2h Ad]
+*** PRE-FLOP *** 
+paul bzh raises 200 to 400
+MRIK0 folds
+paul bzh collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: paul bzh (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-96-1538333297 - Holdem no limit (25/100/200) - 2018/09/30 18:48:17 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3803)
+Seat 8: MRIK0 (5197)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [3s 9h]
+*** PRE-FLOP *** 
+MRIK0 raises 300 to 500
+paul bzh folds
+MRIK0 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 8: MRIK0 (small blind) (button) won 750
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-97-1538333312 - Holdem no limit (25/100/200) - 2018/09/30 18:48:32 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (3578)
+Seat 8: MRIK0 (5422)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [3h 7d]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 8: MRIK0 (big blind) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-98-1538333322 - Holdem no limit (25/100/200) - 2018/09/30 18:48:42 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (3453)
+Seat 8: MRIK0 (5547)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [Ad Tc]
+*** PRE-FLOP *** 
+MRIK0 raises 300 to 500
+paul bzh raises 1000 to 1500
+MRIK0 calls 1000
+*** FLOP *** [Kc 7c 3s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Kc 7c 3s][4h]
+paul bzh bets 1928 and is all-in
+MRIK0 calls 1928
+*** RIVER *** [Kc 7c 3s 4h][6h]
+*** SHOW DOWN ***
+MRIK0 shows [Qc 8c] (High card : King)
+paul bzh shows [Ad Tc] (High card : Ace)
+paul bzh collected 6906 from pot
+*** SUMMARY ***
+Total pot 6906 | No rake
+Board: [Kc 7c 3s 4h 6h]
+Seat 2: paul bzh (big blind) showed [Ad Tc] and won 6906 with High card : Ace
+Seat 8: MRIK0 (small blind) (button) showed [Qc 8c] and lost with High card : King
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-99-1538333389 - Holdem no limit (25/100/200) - 2018/09/30 18:49:49 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6906)
+Seat 8: MRIK0 (2094)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [Kh 6d]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 8: MRIK0 (big blind) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-100-1538333394 - Holdem no limit (25/100/200) - 2018/09/30 18:49:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6781)
+Seat 8: MRIK0 (2219)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [4d Js]
+*** PRE-FLOP *** 
+MRIK0 raises 1994 to 2194 and is all-in
+paul bzh folds
+MRIK0 collected 2444 from pot
+*** SUMMARY ***
+Total pot 2444 | No rake
+Seat 8: MRIK0 (small blind) (button) won 2444
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-101-1538333403 - Holdem no limit (25/100/200) - 2018/09/30 18:50:03 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6556)
+Seat 8: MRIK0 (2444)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [5d 3s]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 8: MRIK0 (big blind) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-102-1538333407 - Holdem no limit (25/100/200) - 2018/09/30 18:50:07 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6431)
+Seat 8: MRIK0 (2569)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [4c Qd]
+*** PRE-FLOP *** 
+MRIK0 calls 100
+paul bzh checks
+*** FLOP *** [Ks 5c 3c]
+paul bzh checks
+MRIK0 bets 300
+paul bzh folds
+MRIK0 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Ks 5c 3c]
+Seat 8: MRIK0 (small blind) (button) won 750
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-103-1538333434 - Holdem no limit (25/100/200) - 2018/09/30 18:50:34 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6206)
+Seat 8: MRIK0 (2794)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [Jc 9d]
+*** PRE-FLOP *** 
+paul bzh raises 300 to 500
+MRIK0 raises 2269 to 2769 and is all-in
+paul bzh folds
+MRIK0 collected 3319 from pot
+*** SUMMARY ***
+Total pot 3319 | No rake
+Seat 8: MRIK0 (big blind) won 3319
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-104-1538333446 - Holdem no limit (25/100/200) - 2018/09/30 18:50:46 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (5681)
+Seat 8: MRIK0 (3319)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [Kh 7c]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: paul bzh (big blind) won 350
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-105-1538333454 - Holdem no limit (25/100/200) - 2018/09/30 18:50:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (5806)
+Seat 8: MRIK0 (3194)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [Jc Ts]
+*** PRE-FLOP *** 
+paul bzh raises 400 to 600
+MRIK0 folds
+paul bzh collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: paul bzh (small blind) (button) won 850
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-106-1538333466 - Holdem no limit (25/100/200) - 2018/09/30 18:51:06 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6031)
+Seat 8: MRIK0 (2969)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [9s 6h]
+*** PRE-FLOP *** 
+MRIK0 raises 300 to 500
+paul bzh calls 300
+*** FLOP *** [7c Kd Qs]
+paul bzh checks
+MRIK0 bets 525
+paul bzh folds
+MRIK0 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [7c Kd Qs]
+Seat 8: MRIK0 (small blind) (button) won 1575
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-107-1538333489 - Holdem no limit (25/100/200) - 2018/09/30 18:51:29 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (5506)
+Seat 8: MRIK0 (3494)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [Jc 2c]
+*** PRE-FLOP *** 
+paul bzh raises 400 to 600
+MRIK0 calls 400
+*** FLOP *** [9d Ts Jh]
+MRIK0 checks
+paul bzh bets 625
+MRIK0 calls 625
+*** TURN *** [9d Ts Jh][Qh]
+MRIK0 checks
+paul bzh checks
+*** RIVER *** [9d Ts Jh Qh][7c]
+MRIK0 checks
+paul bzh checks
+*** SHOW DOWN ***
+paul bzh shows [Jc 2c] (One pair : Jacks)
+MRIK0 shows [3d Jd] (One pair : Jacks)
+MRIK0 collected 1250 from pot
+paul bzh collected 1250 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [9d Ts Jh Qh 7c]
+Seat 2: paul bzh (small blind) (button) showed [Jc 2c] and won 1250 with One pair : Jacks
+Seat 8: MRIK0 (big blind) showed [3d Jd] and won 1250 with One pair : Jacks
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-108-1538333536 - Holdem no limit (25/100/200) - 2018/09/30 18:52:16 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (5506)
+Seat 8: MRIK0 (3494)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [7d 7h]
+*** PRE-FLOP *** 
+MRIK0 raises 300 to 500
+paul bzh raises 1000 to 1500
+MRIK0 folds
+paul bzh collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 2: paul bzh (big blind) won 2050
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-109-1538333554 - Holdem no limit (25/100/200) - 2018/09/30 18:52:34 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6031)
+Seat 8: MRIK0 (2969)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [9d Jc]
+*** PRE-FLOP *** 
+paul bzh calls 100
+MRIK0 checks
+*** FLOP *** [8c 4h Ac]
+MRIK0 checks
+paul bzh checks
+*** TURN *** [8c 4h Ac][3h]
+MRIK0 checks
+paul bzh checks
+*** RIVER *** [8c 4h Ac 3h][9s]
+MRIK0 checks
+paul bzh bets 300
+MRIK0 folds
+paul bzh collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [8c 4h Ac 3h 9s]
+Seat 2: paul bzh (small blind) (button) won 750
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-110-1538333582 - Holdem no limit (25/100/200) - 2018/09/30 18:53:02 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6256)
+Seat 8: MRIK0 (2744)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 25
+paul bzh posts ante 25
+MRIK0 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [7c Jc]
+*** PRE-FLOP *** 
+MRIK0 raises 300 to 500
+paul bzh calls 300
+*** FLOP *** [Ts 7h Tc]
+paul bzh bets 525
+MRIK0 calls 525
+*** TURN *** [Ts 7h Tc][2h]
+paul bzh bets 1050
+MRIK0 folds
+paul bzh collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [Ts 7h Tc 2h]
+Seat 2: paul bzh (big blind) won 3150
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1077253105793368065-111-1538333635 - Holdem no limit (25/100/200) - 2018/09/30 18:53:55 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (7306)
+Seat 8: MRIK0 (1694)
+*** ANTE/BLINDS ***
+paul bzh posts ante 25
+MRIK0 posts ante 25
+paul bzh posts small blind 100
+MRIK0 posts big blind 200
+Dealt to paul bzh [Jc Qd]
+*** PRE-FLOP *** 
+paul bzh raises 400 to 600
+MRIK0 raises 1069 to 1669 and is all-in
+paul bzh calls 1069
+*** FLOP *** [7c 8s 5d]
+*** TURN *** [7c 8s 5d][7s]
+*** RIVER *** [7c 8s 5d 7s][5c]
+*** SHOW DOWN ***
+paul bzh shows [Jc Qd] (Two pairs : 7 and 5)
+MRIK0 shows [Qc Qs] (Two pairs : Queens and 7)
+MRIK0 collected 3388 from pot
+*** SUMMARY ***
+Total pot 3388 | No rake
+Board: [7c 8s 5d 7s 5c]
+Seat 2: paul bzh (small blind) (button) showed [Jc Qd] and lost with Two pairs : 7 and 5
+Seat 8: MRIK0 (big blind) showed [Qc Qs] and won 3388 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-112-1538333661 - Holdem no limit (30/125/250) - 2018/09/30 18:54:21 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (5612)
+Seat 8: MRIK0 (3388)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [9d Ts]
+*** PRE-FLOP *** 
+MRIK0 raises 500 to 750
+paul bzh calls 500
+*** FLOP *** [7d 3c 9s]
+paul bzh bets 1170
+MRIK0 folds
+paul bzh collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [7d 3c 9s]
+Seat 2: paul bzh (big blind) won 2730
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-113-1538333694 - Holdem no limit (30/125/250) - 2018/09/30 18:54:54 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6392)
+Seat 8: MRIK0 (2608)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [4c Qd]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 8: MRIK0 (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-114-1538333698 - Holdem no limit (30/125/250) - 2018/09/30 18:54:58 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6237)
+Seat 8: MRIK0 (2763)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [2c Ks]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: paul bzh (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-115-1538334062 - Holdem no limit (30/125/250) - 2018/09/30 19:01:02 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6392)
+Seat 8: MRIK0 (2608)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [Js 9s]
+*** PRE-FLOP *** 
+paul bzh calls 125
+MRIK0 checks
+*** FLOP *** [9d 8d 6s]
+MRIK0 checks
+paul bzh bets 375
+MRIK0 folds
+paul bzh collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | No rake
+Board: [9d 8d 6s]
+Seat 2: paul bzh (small blind) (button) won 935
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-116-1538334086 - Holdem no limit (30/125/250) - 2018/09/30 19:01:26 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6672)
+Seat 8: MRIK0 (2328)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [3d Kc]
+*** PRE-FLOP *** 
+MRIK0 raises 375 to 625
+paul bzh folds
+MRIK0 collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | No rake
+Seat 8: MRIK0 (small blind) (button) won 935
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-117-1538334095 - Holdem no limit (30/125/250) - 2018/09/30 19:01:35 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6392)
+Seat 8: MRIK0 (2608)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [Th 2s]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 8: MRIK0 (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-118-1538334098 - Holdem no limit (30/125/250) - 2018/09/30 19:01:38 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6237)
+Seat 8: MRIK0 (2763)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [Ad Ah]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: paul bzh (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-119-1538334103 - Holdem no limit (30/125/250) - 2018/09/30 19:01:43 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6392)
+Seat 8: MRIK0 (2608)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [3s Kc]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 8: MRIK0 (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-120-1538334107 - Holdem no limit (30/125/250) - 2018/09/30 19:01:47 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6237)
+Seat 8: MRIK0 (2763)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [Ts Ad]
+*** PRE-FLOP *** 
+MRIK0 raises 375 to 625
+paul bzh raises 1250 to 1875
+MRIK0 folds
+paul bzh collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Seat 2: paul bzh (big blind) won 2560
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-121-1538334119 - Holdem no limit (30/125/250) - 2018/09/30 19:01:59 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (6892)
+Seat 8: MRIK0 (2108)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [5h 7h]
+*** PRE-FLOP *** 
+paul bzh raises 250 to 500
+MRIK0 raises 1578 to 2078 and is all-in
+paul bzh folds
+MRIK0 collected 2638 from pot
+*** SUMMARY ***
+Total pot 2638 | No rake
+Seat 8: MRIK0 (big blind) won 2638
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-122-1538334129 - Holdem no limit (30/125/250) - 2018/09/30 19:02:09 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6362)
+Seat 8: MRIK0 (2638)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [Ts Kh]
+*** PRE-FLOP *** 
+MRIK0 raises 375 to 625
+paul bzh calls 375
+*** FLOP *** [Qh 6c 5s]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [Qh 6c 5s][As]
+paul bzh checks
+MRIK0 checks
+*** RIVER *** [Qh 6c 5s As][2h]
+paul bzh bets 250
+MRIK0 calls 250
+*** SHOW DOWN ***
+MRIK0 shows [8s Kd] (High card : Ace)
+paul bzh shows [Ts Kh] (High card : Ace)
+paul bzh collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | No rake
+Board: [Qh 6c 5s As 2h]
+Seat 2: paul bzh (big blind) showed [Ts Kh] and won 1810 with High card : Ace
+Seat 8: MRIK0 (small blind) (button) showed [8s Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-123-1538334160 - Holdem no limit (30/125/250) - 2018/09/30 19:02:40 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (7267)
+Seat 8: MRIK0 (1733)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [5d 6h]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 8: MRIK0 (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-124-1538334167 - Holdem no limit (30/125/250) - 2018/09/30 19:02:47 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (7112)
+Seat 8: MRIK0 (1888)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [2d 4d]
+*** PRE-FLOP *** 
+MRIK0 folds
+paul bzh collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: paul bzh (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-125-1538334171 - Holdem no limit (30/125/250) - 2018/09/30 19:02:51 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (7267)
+Seat 8: MRIK0 (1733)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [4h Qc]
+*** PRE-FLOP *** 
+paul bzh calls 125
+MRIK0 raises 1453 to 1703 and is all-in
+paul bzh folds
+MRIK0 collected 2013 from pot
+*** SUMMARY ***
+Total pot 2013 | No rake
+Seat 8: MRIK0 (big blind) won 2013
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-126-1538334188 - Holdem no limit (30/125/250) - 2018/09/30 19:03:08 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (6987)
+Seat 8: MRIK0 (2013)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [Ad 2h]
+*** PRE-FLOP *** 
+MRIK0 calls 125
+paul bzh raises 500 to 750
+MRIK0 folds
+paul bzh collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 2: paul bzh (big blind) won 1060
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-127-1538334202 - Holdem no limit (30/125/250) - 2018/09/30 19:03:22 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #2 is the button
+Seat 2: paul bzh (7267)
+Seat 8: MRIK0 (1733)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+MRIK0 posts ante 30
+paul bzh posts small blind 125
+MRIK0 posts big blind 250
+Dealt to paul bzh [Qd 4h]
+*** PRE-FLOP *** 
+paul bzh folds
+MRIK0 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 8: MRIK0 (big blind) won 435
+
+
+Winamax Poker - Tournament "EPC_01" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1077253105793368065-128-1538334207 - Holdem no limit (30/125/250) - 2018/09/30 19:03:27 UTC
+Table: 'EPC_01(250817534)#00' 8-max (real money) Seat #8 is the button
+Seat 2: paul bzh (7112)
+Seat 8: MRIK0 (1888)
+*** ANTE/BLINDS ***
+MRIK0 posts ante 30
+paul bzh posts ante 30
+MRIK0 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [Ts 6d]
+*** PRE-FLOP *** 
+MRIK0 raises 375 to 625
+paul bzh calls 375
+*** FLOP *** [4s Js Td]
+paul bzh checks
+MRIK0 checks
+*** TURN *** [4s Js Td][7s]
+paul bzh bets 500
+MRIK0 raises 733 to 1233 and is all-in
+paul bzh calls 733
+*** RIVER *** [4s Js Td 7s][6h]
+*** SHOW DOWN ***
+MRIK0 shows [Qc Ad] (High card : Ace)
+paul bzh shows [Ts 6d] (Two pairs : Tens and 6)
+paul bzh collected 3776 from pot
+*** SUMMARY ***
+Total pot 3776 | No rake
+Board: [4s Js Td 7s 6h]
+Seat 2: paul bzh (big blind) showed [Ts 6d] and won 3776 with Two pairs : Tens and 6
+Seat 8: MRIK0 (small blind) (button) showed [Qc Ad] and lost with High card : Ace
+
+

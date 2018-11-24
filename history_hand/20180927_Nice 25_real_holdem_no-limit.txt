@@ -1,0 +1,1523 @@
+Winamax Poker - CashGame - HandId: #11783358-745-1538081936 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:58:56 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (0€)
+Seat 2: Rampitaswina (0.47€)
+Seat 3: Asashoryu (2.12€)
+Seat 4: NuclearWaste (2.30€)
+Seat 5: _Sigma94_ (2.04€)
+*** ANTE/BLINDS ***
+Asashoryu posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+*** PRE-FLOP *** 
+_Sigma94_ folds
+Rampitaswina raises 0.03€ to 0.05€
+Asashoryu folds
+NuclearWaste folds
+Rampitaswina collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: Rampitaswina (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783358-746-1538081951 - Holdem no limit (0.01€/0.02€) - 2018/09/27 20:59:11 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Asashoryu (2.11€)
+Seat 4: NuclearWaste (2.28€)
+Seat 5: _Sigma94_ (2.04€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+paul bzh posts big blind 0.02€ out of position
+Dealt to paul bzh [8d 4d]
+*** PRE-FLOP *** 
+paul bzh checks
+Rampitaswina folds
+Asashoryu raises 0.06€ to 0.08€
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.06€
+*** FLOP *** [2h Jc 8c]
+paul bzh checks
+Asashoryu bets 0.10€
+paul bzh calls 0.10€
+*** TURN *** [2h Jc 8c][Th]
+paul bzh checks
+Asashoryu bets 0.28€
+paul bzh folds
+Asashoryu collected 0.65€ from pot
+*** SUMMARY ***
+Total pot 0.65€ | Rake 0.02€
+Board: [2h Jc 8c Th]
+Seat 3: Asashoryu (button) won 0.65€
+
+
+Winamax Poker - CashGame - HandId: #11783358-747-1538082028 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:00:28 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1.82€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Asashoryu (2.30€)
+Seat 4: NuclearWaste (2.27€)
+Seat 5: _Sigma94_ (2.02€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Kh 2h]
+*** PRE-FLOP *** 
+Rampitaswina folds
+Asashoryu folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-748-1538082042 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:00:42 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1.83€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Asashoryu (2.30€)
+Seat 4: NuclearWaste (2.27€)
+Seat 5: _Sigma94_ (2.01€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Rampitaswina posts big blind 0.02€
+Dealt to paul bzh [Jd Jh]
+*** PRE-FLOP *** 
+Asashoryu folds
+NuclearWaste folds
+_Sigma94_ raises 0.04€ to 0.06€
+paul bzh raises 0.12€ to 0.18€
+Rampitaswina folds
+_Sigma94_ calls 0.12€
+*** FLOP *** [2d 9d 8c]
+paul bzh bets 0.19€
+_Sigma94_ calls 0.19€
+*** TURN *** [2d 9d 8c][Td]
+paul bzh bets 0.57€
+_Sigma94_ calls 0.57€
+*** RIVER *** [2d 9d 8c Td][8s]
+paul bzh checks
+_Sigma94_ checks
+*** SHOW DOWN ***
+_Sigma94_ shows [Th Ah] (Two pairs : Tens and 8)
+paul bzh shows [Jd Jh] (Two pairs : Jacks and 8)
+paul bzh collected 1.79€ from pot
+*** SUMMARY ***
+Total pot 1.79€ | Rake 0.11€
+Board: [2d 9d 8c Td 8s]
+Seat 1: paul bzh (small blind) showed [Jd Jh] and won 1.79€ with Two pairs : Jacks and 8
+Seat 5: _Sigma94_ (button) showed [Th Ah] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - CashGame - HandId: #11783358-749-1538082092 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:01:32 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.68€)
+Seat 2: Rampitaswina (0.48€)
+Seat 3: Asashoryu (2.30€)
+Seat 4: NuclearWaste (2.27€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+Rampitaswina posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [9s 7h]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh folds
+Rampitaswina raises 0.03€ to 0.05€
+NuclearWaste folds
+Rampitaswina collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 2: Rampitaswina (small blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11783358-750-1538082108 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:01:48 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.68€)
+Seat 2: Rampitaswina (0.50€)
+Seat 4: NuclearWaste (2.25€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [9d Ks]
+*** PRE-FLOP *** 
+paul bzh folds
+Rampitaswina folds
+NuclearWaste folds
+_Sigma94_ collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: _Sigma94_ (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-751-1538082130 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:02:10 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.68€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Gregouz23 (2€)
+Seat 4: NuclearWaste (2.24€)
+Seat 5: _Sigma94_ (2.01€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Gregouz23 posts big blind 0.02€ out of position
+Dealt to paul bzh [5h 3s]
+*** PRE-FLOP *** 
+Rampitaswina folds
+Gregouz23 checks
+NuclearWaste calls 0.02€
+_Sigma94_ calls 0.01€
+paul bzh checks
+*** FLOP *** [Kh Kd Js]
+_Sigma94_ checks
+paul bzh checks
+Gregouz23 checks
+NuclearWaste bets 0.04€
+_Sigma94_ calls 0.04€
+paul bzh folds
+Gregouz23 folds
+*** TURN *** [Kh Kd Js][Ks]
+_Sigma94_ checks
+NuclearWaste bets 0.08€
+_Sigma94_ folds
+NuclearWaste collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.01€
+Board: [Kh Kd Js Ks]
+Seat 4: NuclearWaste (button) won 0.23€
+
+
+Winamax Poker - CashGame - HandId: #11783358-752-1538082187 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:03:07 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.66€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Gregouz23 (1.98€)
+Seat 4: NuclearWaste (2.33€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Rampitaswina posts big blind 0.02€
+Dealt to paul bzh [9c 7d]
+*** PRE-FLOP *** 
+Gregouz23 calls 0.02€
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.01€
+Rampitaswina checks
+*** FLOP *** [Tc 8d Kd]
+paul bzh bets 0.04€
+Rampitaswina folds
+Gregouz23 calls 0.04€
+*** TURN *** [Tc 8d Kd][3d]
+paul bzh checks
+Gregouz23 checks
+*** RIVER *** [Tc 8d Kd 3d][Qs]
+paul bzh checks
+Gregouz23 bets 0.14€
+paul bzh folds
+Gregouz23 collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.01€
+Board: [Tc 8d Kd 3d Qs]
+Seat 3: Gregouz23 won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #11783358-753-1538082252 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:04:12 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.48€)
+Seat 3: Gregouz23 (2.05€)
+Seat 4: NuclearWaste (2.33€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+Rampitaswina posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [Ks 8h]
+*** PRE-FLOP *** 
+NuclearWaste folds
+_Sigma94_ raises 0.04€ to 0.06€
+paul bzh folds
+Rampitaswina folds
+Gregouz23 calls 0.04€
+*** FLOP *** [Tc Td 4h]
+Gregouz23 checks
+_Sigma94_ checks
+*** TURN *** [Tc Td 4h][5c]
+Gregouz23 checks
+_Sigma94_ checks
+*** RIVER *** [Tc Td 4h 5c][5s]
+Gregouz23 checks
+_Sigma94_ bets 0.07€
+Gregouz23 folds
+_Sigma94_ collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Tc Td 4h 5c 5s]
+Seat 5: _Sigma94_ won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #11783358-754-1538082304 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:05:04 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.47€)
+Seat 3: Gregouz23 (1.99€)
+Seat 4: NuclearWaste (2.33€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [4c 5s]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh folds
+Rampitaswina folds
+Gregouz23 calls 0.01€
+NuclearWaste checks
+*** FLOP *** [5d Ah 3d]
+Gregouz23 checks
+NuclearWaste bets 0.02€
+Gregouz23 folds
+NuclearWaste collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [5d Ah 3d]
+Seat 4: NuclearWaste (big blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #11783358-755-1538082378 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:06:18 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.47€)
+Seat 3: Gregouz23 (1.97€)
+Seat 4: NuclearWaste (2.35€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [Jd 8h]
+*** PRE-FLOP *** 
+paul bzh folds
+Rampitaswina folds
+NuclearWaste folds
+_Sigma94_ collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: _Sigma94_ (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-756-1538082387 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:06:27 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.47€)
+Seat 3: Gregouz23 (1.97€)
+Seat 4: NuclearWaste (2.34€)
+Seat 5: _Sigma94_ (2.07€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3s 2d]
+*** PRE-FLOP *** 
+Rampitaswina raises 0.03€ to 0.05€
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.03€
+*** FLOP *** [Kh 9h 8d]
+paul bzh checks
+Rampitaswina bets 0.11€
+paul bzh folds
+Rampitaswina collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Kh 9h 8d]
+Seat 2: Rampitaswina won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #11783358-757-1538082412 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:06:52 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.55€)
+Seat 2: Rampitaswina (0.52€)
+Seat 3: Gregouz23 (1.97€)
+Seat 4: NuclearWaste (2.34€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Rampitaswina posts big blind 0.02€
+Dealt to paul bzh [6c 8h]
+*** PRE-FLOP *** 
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.01€
+Rampitaswina checks
+*** FLOP *** [6h 2c 3s]
+paul bzh bets 0.06€
+Rampitaswina folds
+paul bzh collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [6h 2c 3s]
+Seat 1: paul bzh (small blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #11783358-758-1538082439 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:07:19 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.57€)
+Seat 2: Rampitaswina (0.50€)
+Seat 3: Gregouz23 (1.97€)
+Seat 4: NuclearWaste (2.34€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+Rampitaswina posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [Ks Jd]
+*** PRE-FLOP *** 
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh raises 0.04€ to 0.06€
+Rampitaswina folds
+Gregouz23 folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 1: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-759-1538082460 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:07:40 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.49€)
+Seat 3: Gregouz23 (1.95€)
+Seat 4: NuclearWaste (2.34€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [Th 7s]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh folds
+Rampitaswina raises 0.03€ to 0.05€
+Gregouz23 folds
+NuclearWaste folds
+Rampitaswina collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: Rampitaswina (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783358-760-1538082498 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:08:18 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.52€)
+Seat 3: Gregouz23 (1.94€)
+Seat 4: NuclearWaste (2.32€)
+Seat 5: _Sigma94_ (2.06€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [4s 3d]
+*** PRE-FLOP *** 
+paul bzh folds
+Rampitaswina raises 0.03€ to 0.05€
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ calls 0.03€
+*** FLOP *** [5s Kh 8h]
+_Sigma94_ checks
+Rampitaswina bets 0.11€
+_Sigma94_ folds
+Rampitaswina collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [5s Kh 8h]
+Seat 2: Rampitaswina won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #11783358-761-1538082527 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:08:47 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.60€)
+Seat 2: Rampitaswina (0.57€)
+Seat 3: Gregouz23 (1.94€)
+Seat 4: NuclearWaste (2.31€)
+Seat 5: _Sigma94_ (2.01€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [7d 8d]
+*** PRE-FLOP *** 
+Rampitaswina folds
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-762-1538082537 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:08:57 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.61€)
+Seat 2: Rampitaswina (0.57€)
+Seat 3: Gregouz23 (1.94€)
+Seat 4: NuclearWaste (2.31€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Rampitaswina posts big blind 0.02€
+Dealt to paul bzh [2s Ah]
+*** PRE-FLOP *** 
+Gregouz23 calls 0.02€
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.01€
+Rampitaswina checks
+*** FLOP *** [3c Jd 9h]
+paul bzh checks
+Rampitaswina checks
+Gregouz23 checks
+*** TURN *** [3c Jd 9h][5c]
+paul bzh bets 0.04€
+Rampitaswina raises 0.14€ to 0.18€
+Gregouz23 folds
+paul bzh folds
+Rampitaswina collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.01€
+Board: [3c Jd 9h 5c]
+Seat 2: Rampitaswina (big blind) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #11783358-763-1538082596 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:09:56 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.55€)
+Seat 2: Rampitaswina (0.64€)
+Seat 3: Gregouz23 (1.92€)
+Seat 4: NuclearWaste (2.31€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+Rampitaswina posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [2d Th]
+*** PRE-FLOP *** 
+NuclearWaste raises 0.04€ to 0.06€
+_Sigma94_ folds
+paul bzh folds
+Rampitaswina folds
+Gregouz23 calls 0.04€
+*** FLOP *** [9c Td 8h]
+Gregouz23 bets 0.02€
+NuclearWaste calls 0.02€
+*** TURN *** [9c Td 8h][2c]
+Gregouz23 checks
+NuclearWaste checks
+*** RIVER *** [9c Td 8h 2c][3s]
+Gregouz23 checks
+NuclearWaste checks
+*** SHOW DOWN ***
+NuclearWaste shows [Kd Ac] (High card : Ace)
+Gregouz23 shows [As 9h] (One pair : 9)
+Gregouz23 collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [9c Td 8h 2c 3s]
+Seat 3: Gregouz23 (big blind) showed [As 9h] and won 0.16€ with One pair : 9
+Seat 4: NuclearWaste showed [Kd Ac] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11783358-764-1538082632 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:10:32 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.55€)
+Seat 2: Rampitaswina (0.63€)
+Seat 3: Gregouz23 (2€)
+Seat 4: NuclearWaste (2.23€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [Ac 4s]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh raises 0.02€ to 0.04€
+Rampitaswina folds
+Gregouz23 folds
+NuclearWaste folds
+paul bzh collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 1: paul bzh won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11783358-765-1538082662 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:11:02 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.58€)
+Seat 2: Rampitaswina (0.63€)
+Seat 3: Gregouz23 (1.99€)
+Seat 4: NuclearWaste (2.21€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [7s 7c]
+*** PRE-FLOP *** 
+paul bzh raises 0.04€ to 0.06€
+Rampitaswina folds
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 1: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-766-1538082680 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:11:20 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.61€)
+Seat 2: Rampitaswina (0.63€)
+Seat 3: Gregouz23 (1.99€)
+Seat 4: NuclearWaste (2.20€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Kc 4s]
+*** PRE-FLOP *** 
+Rampitaswina folds
+Gregouz23 calls 0.02€
+NuclearWaste calls 0.02€
+_Sigma94_ folds
+paul bzh checks
+*** FLOP *** [5c 5d 2d]
+paul bzh checks
+Gregouz23 bets 0.07€
+NuclearWaste calls 0.07€
+paul bzh folds
+*** TURN *** [5c 5d 2d][Kd]
+Gregouz23 checks
+NuclearWaste checks
+*** RIVER *** [5c 5d 2d Kd][Qs]
+Gregouz23 bets 0.21€
+NuclearWaste folds
+Gregouz23 collected 0.41€ from pot
+*** SUMMARY ***
+Total pot 0.41€ | Rake 0.01€
+Board: [5c 5d 2d Kd Qs]
+Seat 3: Gregouz23 won 0.41€
+
+
+Winamax Poker - CashGame - HandId: #11783358-767-1538082725 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:05 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.59€)
+Seat 2: Rampitaswina (0.63€)
+Seat 3: Gregouz23 (2.10€)
+Seat 4: NuclearWaste (2.11€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [5d 3s]
+*** PRE-FLOP *** 
+NuclearWaste raises 0.04€ to 0.06€
+_Sigma94_ folds
+paul bzh folds
+Gregouz23 folds
+NuclearWaste collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: NuclearWaste won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-768-1538082734 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:14 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.58€)
+Seat 3: Gregouz23 (2.08€)
+Seat 4: NuclearWaste (2.14€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [Kc Ks]
+*** PRE-FLOP *** 
+_Sigma94_ raises 0.04€ to 0.06€
+paul bzh raises 0.08€ to 0.14€
+Gregouz23 calls 0.13€
+NuclearWaste folds
+_Sigma94_ calls 0.08€
+*** FLOP *** [6s 2h Ts]
+Gregouz23 checks
+_Sigma94_ checks
+paul bzh bets 0.44€
+Gregouz23 folds
+_Sigma94_ folds
+paul bzh collected 0.85€ from pot
+*** SUMMARY ***
+Total pot 0.85€ | Rake 0.03€
+Board: [6s 2h Ts]
+Seat 1: paul bzh (button) won 0.85€
+
+
+Winamax Poker - CashGame - HandId: #11783358-769-1538082768 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:12:48 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.85€)
+Seat 2: thehornet (2€)
+Seat 3: Gregouz23 (1.94€)
+Seat 4: NuclearWaste (2.12€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+thehornet posts big blind 0.02€ out of position
+Dealt to paul bzh [2h 4s]
+*** PRE-FLOP *** 
+paul bzh folds
+thehornet checks
+Gregouz23 calls 0.02€
+NuclearWaste folds
+_Sigma94_ checks
+*** FLOP *** [Jh Ks 9c]
+_Sigma94_ checks
+thehornet bets 0.08€
+Gregouz23 calls 0.08€
+_Sigma94_ folds
+*** TURN *** [Jh Ks 9c][As]
+thehornet bets 0.36€
+Gregouz23 folds
+thehornet collected 0.58€ from pot
+*** SUMMARY ***
+Total pot 0.58€ | Rake 0.01€
+Board: [Jh Ks 9c As]
+Seat 2: thehornet won 0.58€
+
+
+Winamax Poker - CashGame - HandId: #11783358-770-1538082815 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:13:35 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.85€)
+Seat 2: thehornet (2.12€)
+Seat 3: Gregouz23 (1.84€)
+Seat 4: NuclearWaste (2.11€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Th 9c]
+*** PRE-FLOP *** 
+thehornet raises 0.02€ to 0.04€
+Gregouz23 calls 0.04€
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh calls 0.02€
+*** FLOP *** [Qh 4h Jh]
+paul bzh checks
+thehornet checks
+Gregouz23 bets 0.07€
+paul bzh calls 0.07€
+thehornet folds
+*** TURN *** [Qh 4h Jh][Kh]
+paul bzh bets 0.14€
+Gregouz23 folds
+paul bzh collected 0.39€ from pot
+*** SUMMARY ***
+Total pot 0.39€ | Rake 0.02€
+Board: [Qh 4h Jh Kh]
+Seat 1: paul bzh (big blind) won 0.39€
+
+
+Winamax Poker - CashGame - HandId: #11783358-771-1538082859 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:14:19 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.99€)
+Seat 2: thehornet (2.08€)
+Seat 3: Gregouz23 (1.73€)
+Seat 4: NuclearWaste (2.11€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+thehornet posts big blind 0.02€
+Dealt to paul bzh [2h 3s]
+*** PRE-FLOP *** 
+Gregouz23 calls 0.02€
+NuclearWaste folds
+_Sigma94_ raises 0.06€ to 0.08€
+paul bzh folds
+thehornet folds
+Gregouz23 calls 0.06€
+*** FLOP *** [9s Jc 2s]
+Gregouz23 checks
+_Sigma94_ checks
+*** TURN *** [9s Jc 2s][9c]
+Gregouz23 checks
+_Sigma94_ bets 0.14€
+Gregouz23 folds
+_Sigma94_ collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.01€
+Board: [9s Jc 2s 9c]
+Seat 5: _Sigma94_ (button) won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #11783358-772-1538082892 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:14:52 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.98€)
+Seat 2: thehornet (2.06€)
+Seat 3: Gregouz23 (1.65€)
+Seat 4: NuclearWaste (2.11€)
+Seat 5: _Sigma94_ (2.10€)
+*** ANTE/BLINDS ***
+thehornet posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [Qc 3d]
+*** PRE-FLOP *** 
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh folds
+thehornet calls 0.01€
+Gregouz23 checks
+*** FLOP *** [5s Ah 6d]
+thehornet bets 0.02€
+Gregouz23 calls 0.02€
+*** TURN *** [5s Ah 6d][9d]
+thehornet bets 0.08€
+Gregouz23 calls 0.08€
+*** RIVER *** [5s Ah 6d 9d][Ac]
+thehornet bets 0.16€
+Gregouz23 folds
+thehornet collected 0.39€ from pot
+*** SUMMARY ***
+Total pot 0.39€ | Rake 0.01€
+Board: [5s Ah 6d 9d Ac]
+Seat 2: thehornet (small blind) won 0.39€
+
+
+Winamax Poker - CashGame - HandId: #11783358-773-1538082939 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:15:39 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.98€)
+Seat 2: thehornet (2.17€)
+Seat 3: Gregouz23 (1.53€)
+Seat 4: NuclearWaste (2.11€)
+Seat 5: _Sigma94_ (2.10€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [9s 2s]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh folds
+thehornet folds
+Gregouz23 raises 0.02€ to 0.04€
+NuclearWaste folds
+Gregouz23 collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Seat 3: Gregouz23 (small blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #11783358-774-1538082960 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:00 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.98€)
+Seat 2: thehornet (2.17€)
+Seat 3: Gregouz23 (1.55€)
+Seat 4: NuclearWaste (2.09€)
+Seat 5: _Sigma94_ (2.10€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [Qs 2s]
+*** PRE-FLOP *** 
+paul bzh folds
+thehornet folds
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: _Sigma94_ (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-775-1538082977 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:17 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.98€)
+Seat 2: thehornet (2.17€)
+Seat 3: Gregouz23 (1.55€)
+Seat 4: NuclearWaste (2.08€)
+Seat 5: _Sigma94_ (2.11€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [8h 4s]
+*** PRE-FLOP *** 
+thehornet raises 0.11€ to 0.13€
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ calls 0.12€
+paul bzh folds
+*** FLOP *** [5h 6s Th]
+_Sigma94_ checks
+thehornet bets 0.39€
+_Sigma94_ folds
+thehornet collected 0.65€ from pot
+*** SUMMARY ***
+Total pot 0.65€ | Rake 0.02€
+Board: [5h 6s Th]
+Seat 2: thehornet won 0.65€
+
+
+Winamax Poker - CashGame - HandId: #11783358-776-1538083017 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:16:57 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.96€)
+Seat 2: thehornet (2.30€)
+Seat 3: Gregouz23 (1.55€)
+Seat 4: NuclearWaste (2.08€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+thehornet posts big blind 0.02€
+Dealt to paul bzh [Qh Tc]
+*** PRE-FLOP *** 
+Gregouz23 folds
+NuclearWaste raises 0.04€ to 0.06€
+_Sigma94_ folds
+paul bzh calls 0.05€
+thehornet calls 0.04€
+*** FLOP *** [Jc 3h 3d]
+paul bzh bets 0.06€
+thehornet raises 0.14€ to 0.20€
+NuclearWaste calls 0.20€
+paul bzh folds
+*** TURN *** [Jc 3h 3d][6c]
+thehornet checks
+NuclearWaste checks
+*** RIVER *** [Jc 3h 3d 6c][9c]
+thehornet bets 2.04€ and is all-in
+NuclearWaste calls 1.82€ and is all-in
+*** SHOW DOWN ***
+thehornet shows [Kc Ts] (One pair : 3)
+NuclearWaste shows [3s 3c] (Quads of 3)
+NuclearWaste collected 4.03€ from main pot
+thehornet collected 0.22€ from side pot 1
+*** SUMMARY ***
+Total pot 4.25€ | Rake 0.25€
+Board: [Jc 3h 3d 6c 9c]
+Seat 2: thehornet (big blind) showed [Kc Ts] and won 0.22€ with One pair : 3
+Seat 4: NuclearWaste showed [3s 3c] and won 4.03€ with Quads of 3
+
+
+Winamax Poker - CashGame - HandId: #11783358-777-1538083120 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:18:40 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.84€)
+Seat 2: thehornet (0.22€)
+Seat 3: Gregouz23 (1.55€)
+Seat 4: NuclearWaste (4.03€)
+Seat 5: _Sigma94_ (2€)
+*** ANTE/BLINDS ***
+thehornet posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [Jh 6d]
+*** PRE-FLOP *** 
+NuclearWaste folds
+_Sigma94_ raises 0.04€ to 0.06€
+paul bzh folds
+thehornet raises 0.16€ to 0.22€ and is all-in
+Gregouz23 folds
+_Sigma94_ calls 0.16€
+*** FLOP *** [Ah 4d Qd]
+*** TURN *** [Ah 4d Qd][Js]
+*** RIVER *** [Ah 4d Qd Js][5s]
+*** SHOW DOWN ***
+thehornet shows [Qs Tc] (One pair : Queens)
+_Sigma94_ shows [Kc Qh] (One pair : Queens)
+_Sigma94_ collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.03€
+Board: [Ah 4d Qd Js 5s]
+Seat 2: thehornet (small blind) showed [Qs Tc] and lost with One pair : Queens
+Seat 5: _Sigma94_ showed [Kc Qh] and won 0.43€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #11783358-778-1538083151 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:19:11 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.84€)
+Seat 2: thehornet (0€)
+Seat 3: Gregouz23 (1.53€)
+Seat 4: NuclearWaste (4.03€)
+Seat 5: _Sigma94_ (2.21€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [2h 3d]
+*** PRE-FLOP *** 
+_Sigma94_ calls 0.02€
+paul bzh folds
+Gregouz23 folds
+NuclearWaste checks
+*** FLOP *** [Ks 2s 2c]
+NuclearWaste checks
+_Sigma94_ bets 0.03€
+NuclearWaste folds
+_Sigma94_ collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [Ks 2s 2c]
+Seat 5: _Sigma94_ won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11783358-779-1538083189 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:19:49 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.84€)
+Seat 3: Gregouz23 (1.52€)
+Seat 4: NuclearWaste (4.01€)
+Seat 5: _Sigma94_ (2.24€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+_Sigma94_ posts big blind 0.02€
+Dealt to paul bzh [Tc Qh]
+*** PRE-FLOP *** 
+paul bzh raises 0.03€ to 0.05€
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ raises 0.10€ to 0.15€
+paul bzh calls 0.10€
+*** FLOP *** [4s 4h 7h]
+_Sigma94_ checks
+paul bzh bets 0.16€
+_Sigma94_ calls 0.16€
+*** TURN *** [4s 4h 7h][Qd]
+_Sigma94_ checks
+paul bzh bets 0.20€
+_Sigma94_ calls 0.20€
+*** RIVER *** [4s 4h 7h Qd][Kd]
+_Sigma94_ bets 0.50€
+paul bzh calls 0.50€
+*** SHOW DOWN ***
+paul bzh shows [Tc Qh] (Two pairs : Queens and 4)
+_Sigma94_ shows [Kh As] (Two pairs : Kings and 4)
+_Sigma94_ collected 1.91€ from pot
+*** SUMMARY ***
+Total pot 1.91€ | Rake 0.12€
+Board: [4s 4h 7h Qd Kd]
+Seat 1: paul bzh showed [Tc Qh] and lost with Two pairs : Queens and 4
+Seat 5: _Sigma94_ (big blind) showed [Kh As] and won 1.91€ with Two pairs : Kings and 4
+
+
+Winamax Poker - CashGame - HandId: #11783358-780-1538083274 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:21:14 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1.83€)
+Seat 2: Trakabarraca (2€)
+Seat 3: Gregouz23 (1.52€)
+Seat 4: NuclearWaste (4€)
+Seat 5: _Sigma94_ (3.14€)
+*** ANTE/BLINDS ***
+_Sigma94_ posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [9h 3d]
+*** PRE-FLOP *** 
+Gregouz23 folds
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-781-1538083282 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:21:22 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1.84€)
+Seat 2: Trakabarraca (2€)
+Seat 3: Gregouz23 (1.52€)
+Seat 4: NuclearWaste (4€)
+Seat 5: _Sigma94_ (3.13€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Trakabarraca posts big blind 0.02€
+Dealt to paul bzh [Qd Ac]
+*** PRE-FLOP *** 
+Gregouz23 calls 0.02€
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh raises 0.04€ to 0.06€
+Trakabarraca calls 0.04€
+Gregouz23 calls 0.04€
+*** FLOP *** [9d 6c 2h]
+paul bzh checks
+Trakabarraca checks
+Gregouz23 checks
+*** TURN *** [9d 6c 2h][Kh]
+paul bzh bets 0.05€
+Trakabarraca calls 0.05€
+Gregouz23 calls 0.05€
+*** RIVER *** [9d 6c 2h Kh][2c]
+paul bzh checks
+Trakabarraca bets 0.17€
+Gregouz23 folds
+paul bzh calls 0.17€
+*** SHOW DOWN ***
+Trakabarraca shows [4h Ah] (One pair : 2)
+paul bzh shows [Qd Ac] (One pair : 2)
+paul bzh collected 0.63€ from pot
+*** SUMMARY ***
+Total pot 0.63€ | Rake 0.04€
+Board: [9d 6c 2h Kh 2c]
+Seat 1: paul bzh (small blind) showed [Qd Ac] and won 0.63€ with One pair : 2
+Seat 2: Trakabarraca (big blind) showed [4h Ah] and lost with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #11783358-782-1538083392 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:23:12 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.19€)
+Seat 2: Trakabarraca (2€)
+Seat 3: Gregouz23 (1.41€)
+Seat 4: NuclearWaste (4€)
+Seat 5: _Sigma94_ (3.13€)
+*** ANTE/BLINDS ***
+Trakabarraca posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+Dealt to paul bzh [Qs Td]
+*** PRE-FLOP *** 
+NuclearWaste folds
+_Sigma94_ folds
+paul bzh raises 0.04€ to 0.06€
+Trakabarraca raises 0.12€ to 0.18€
+Gregouz23 folds
+paul bzh calls 0.12€
+*** FLOP *** [7c Ts Ad]
+Trakabarraca bets 0.19€
+paul bzh folds
+Trakabarraca collected 0.55€ from pot
+*** SUMMARY ***
+Total pot 0.55€ | Rake 0.02€
+Board: [7c Ts Ad]
+Seat 2: Trakabarraca (small blind) won 0.55€
+
+
+Winamax Poker - CashGame - HandId: #11783358-783-1538083433 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:23:53 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.01€)
+Seat 2: Trakabarraca (2.18€)
+Seat 3: Gregouz23 (1.39€)
+Seat 4: NuclearWaste (4€)
+Seat 5: _Sigma94_ (3.13€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [9s Kd]
+*** PRE-FLOP *** 
+_Sigma94_ folds
+paul bzh calls 0.02€
+Trakabarraca folds
+Gregouz23 calls 0.01€
+NuclearWaste checks
+*** FLOP *** [7c Td 5h]
+Gregouz23 checks
+NuclearWaste bets 0.04€
+paul bzh folds
+Gregouz23 folds
+NuclearWaste collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [7c Td 5h]
+Seat 4: NuclearWaste (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #11783358-784-1538083482 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:24:42 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1.99€)
+Seat 2: Trakabarraca (2.18€)
+Seat 3: Gregouz23 (1.37€)
+Seat 4: NuclearWaste (4.04€)
+Seat 5: _Sigma94_ (3.13€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Qh 7h]
+*** PRE-FLOP *** 
+Trakabarraca folds
+Gregouz23 folds
+NuclearWaste folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-785-1538083521 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:25:21 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2€)
+Seat 2: Trakabarraca (2.18€)
+Seat 3: Gregouz23 (1.37€)
+Seat 4: NuclearWaste (4.03€)
+Seat 5: histiano (2€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Trakabarraca posts big blind 0.02€
+Dealt to paul bzh [Qs Qd]
+*** PRE-FLOP *** 
+Gregouz23 calls 0.02€
+NuclearWaste folds
+paul bzh raises 0.08€ to 0.10€
+Trakabarraca folds
+Gregouz23 calls 0.08€
+*** FLOP *** [5c Js 9s]
+paul bzh bets 0.08€
+Gregouz23 calls 0.08€
+*** TURN *** [5c Js 9s][7h]
+paul bzh bets 0.25€
+Gregouz23 calls 0.25€
+*** RIVER *** [5c Js 9s 7h][Jc]
+paul bzh bets 0.44€
+Gregouz23 calls 0.44€
+*** SHOW DOWN ***
+Gregouz23 shows [9h Qh] (Two pairs : Jacks and 9)
+paul bzh shows [Qs Qd] (Two pairs : Queens and Jacks)
+paul bzh collected 1.66€ from pot
+*** SUMMARY ***
+Total pot 1.66€ | Rake 0.10€
+Board: [5c Js 9s 7h Jc]
+Seat 1: paul bzh (small blind) showed [Qs Qd] and won 1.66€ with Two pairs : Queens and Jacks
+Seat 3: Gregouz23 showed [9h Qh] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - CashGame - HandId: #11783358-786-1538083593 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:26:33 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.79€)
+Seat 2: Trakabarraca (2.16€)
+Seat 3: Gregouz23 (0.50€)
+Seat 4: NuclearWaste (4.03€)
+Seat 5: histiano (2€)
+*** ANTE/BLINDS ***
+Trakabarraca posts small blind 0.01€
+Gregouz23 posts big blind 0.02€
+histiano posts big blind 0.02€ out of position
+Dealt to paul bzh [5h As]
+*** PRE-FLOP *** 
+NuclearWaste raises 0.08€ to 0.10€
+histiano folds
+paul bzh calls 0.10€
+Trakabarraca folds
+Gregouz23 calls 0.08€
+*** FLOP *** [Kc 9h 2s]
+Gregouz23 checks
+NuclearWaste bets 0.17€
+paul bzh folds
+Gregouz23 folds
+NuclearWaste collected 0.48€ from pot
+*** SUMMARY ***
+Total pot 0.48€ | Rake 0.02€
+Board: [Kc 9h 2s]
+Seat 4: NuclearWaste won 0.48€
+
+
+Winamax Poker - CashGame - HandId: #11783358-787-1538083640 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:27:20 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.15€)
+Seat 3: Gregouz23 (0.40€)
+Seat 4: NuclearWaste (4.24€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+Gregouz23 posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [2d Qd]
+*** PRE-FLOP *** 
+histiano folds
+paul bzh folds
+Trakabarraca raises 0.04€ to 0.06€
+Gregouz23 calls 0.05€
+NuclearWaste folds
+*** FLOP *** [Kc Kh 3h]
+Gregouz23 checks
+Trakabarraca bets 0.07€
+Gregouz23 folds
+Trakabarraca collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [Kc Kh 3h]
+Seat 2: Trakabarraca (button) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #11783358-788-1538083700 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:28:20 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.22€)
+Seat 3: Gregouz23 (0.34€)
+Seat 4: NuclearWaste (4.22€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+histiano posts big blind 0.02€
+Dealt to paul bzh [6h 5h]
+*** PRE-FLOP *** 
+paul bzh folds
+Trakabarraca folds
+Gregouz23 folds
+NuclearWaste folds
+histiano collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: histiano (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11783358-789-1538083719 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:28:39 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.22€)
+Seat 3: Gregouz23 (0.34€)
+Seat 4: NuclearWaste (4.21€)
+Seat 5: histiano (1.99€)
+*** ANTE/BLINDS ***
+histiano posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Th Qh]
+*** PRE-FLOP *** 
+Trakabarraca folds
+Gregouz23 raises 0.02€ to 0.04€
+NuclearWaste folds
+histiano folds
+paul bzh calls 0.02€
+*** FLOP *** [Tc 4c 5h]
+paul bzh bets 0.06€
+Gregouz23 calls 0.06€
+*** TURN *** [Tc 4c 5h][Ah]
+paul bzh bets 0.11€
+Gregouz23 raises 0.11€ to 0.22€
+paul bzh calls 0.11€
+*** RIVER *** [Tc 4c 5h Ah][Kh]
+paul bzh bets 0.02€
+Gregouz23 calls 0.02€ and is all-in
+*** SHOW DOWN ***
+Gregouz23 shows [Ac Kd] (Two pairs : Aces and Kings)
+paul bzh shows [Th Qh] (Flush Ace high)
+paul bzh collected 0.65€ from pot
+*** SUMMARY ***
+Total pot 0.65€ | Rake 0.04€
+Board: [Tc 4c 5h Ah Kh]
+Seat 1: paul bzh (big blind) showed [Th Qh] and won 0.65€ with Flush Ace high
+Seat 3: Gregouz23 showed [Ac Kd] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - CashGame - HandId: #11783358-790-1538083768 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:29:28 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (3€)
+Seat 2: Trakabarraca (2.22€)
+Seat 3: Gregouz23 (0€)
+Seat 4: NuclearWaste (4.21€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Trakabarraca posts big blind 0.02€
+Dealt to paul bzh [As 7d]
+*** PRE-FLOP *** 
+NuclearWaste raises 0.04€ to 0.06€
+histiano folds
+paul bzh folds
+Trakabarraca raises 0.18€ to 0.24€
+NuclearWaste folds
+Trakabarraca collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | No rake
+Seat 2: Trakabarraca (big blind) won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #11783358-791-1538083790 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:29:50 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.99€)
+Seat 2: Trakabarraca (2.29€)
+Seat 4: NuclearWaste (4.15€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+Trakabarraca posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [9c Tc]
+*** PRE-FLOP *** 
+histiano folds
+paul bzh raises 0.04€ to 0.06€
+Trakabarraca raises 0.18€ to 0.24€
+NuclearWaste folds
+paul bzh folds
+Trakabarraca collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | No rake
+Seat 2: Trakabarraca (small blind) won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #11783358-792-1538083823 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:30:23 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.93€)
+Seat 2: Trakabarraca (2.37€)
+Seat 3: heuta78 (0€)
+Seat 4: NuclearWaste (4.13€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+histiano posts big blind 0.02€
+Dealt to paul bzh [3d 3h]
+*** PRE-FLOP *** 
+paul bzh raises 0.04€ to 0.06€
+Trakabarraca folds
+NuclearWaste folds
+histiano folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 1: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-793-1538083836 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:30:36 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.96€)
+Seat 2: Trakabarraca (2.37€)
+Seat 4: NuclearWaste (4.12€)
+Seat 5: histiano (1.96€)
+*** ANTE/BLINDS ***
+histiano posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2s 7d]
+*** PRE-FLOP *** 
+Trakabarraca raises 0.04€ to 0.06€
+NuclearWaste folds
+histiano folds
+paul bzh folds
+Trakabarraca collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 2: Trakabarraca won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-794-1538083850 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:30:50 UTC
+Table: 'Nice 25' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (2.94€)
+Seat 2: Trakabarraca (2.40€)
+Seat 4: NuclearWaste (4.12€)
+Seat 5: histiano (1.95€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Trakabarraca posts big blind 0.02€
+Dealt to paul bzh [6c 9h]
+*** PRE-FLOP *** 
+NuclearWaste folds
+histiano raises 0.04€ to 0.06€
+paul bzh folds
+Trakabarraca folds
+histiano collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: histiano (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-795-1538083878 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:31:18 UTC
+Table: 'Nice 25' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.93€)
+Seat 2: Trakabarraca (2.38€)
+Seat 3: KT_RaGnaR (2€)
+Seat 4: NuclearWaste (4.12€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+Trakabarraca posts small blind 0.01€
+KT_RaGnaR posts big blind 0.02€
+Dealt to paul bzh [6c Ac]
+*** PRE-FLOP *** 
+NuclearWaste folds
+histiano folds
+paul bzh raises 0.04€ to 0.06€
+Trakabarraca raises 0.18€ to 0.24€
+KT_RaGnaR folds
+paul bzh calls 0.18€
+*** FLOP *** [9d Jc 3s]
+Trakabarraca bets 0.33€
+paul bzh folds
+Trakabarraca collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | Rake 0.03€
+Board: [9d Jc 3s]
+Seat 2: Trakabarraca (small blind) won 0.80€
+
+
+Winamax Poker - CashGame - HandId: #11783358-796-1538083933 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:32:13 UTC
+Table: 'Nice 25' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.61€)
+Seat 3: KT_RaGnaR (2€)
+Seat 4: NuclearWaste (4.12€)
+Seat 5: histiano (1.98€)
+*** ANTE/BLINDS ***
+KT_RaGnaR posts small blind 0.01€
+NuclearWaste posts big blind 0.02€
+Dealt to paul bzh [Jh 5s]
+*** PRE-FLOP *** 
+histiano raises 0.04€ to 0.06€
+paul bzh folds
+Trakabarraca folds
+KT_RaGnaR folds
+NuclearWaste folds
+histiano collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: histiano won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-797-1538083964 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:32:44 UTC
+Table: 'Nice 25' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.61€)
+Seat 3: KT_RaGnaR (2€)
+Seat 4: NuclearWaste (4.10€)
+Seat 5: histiano (2.01€)
+*** ANTE/BLINDS ***
+NuclearWaste posts small blind 0.01€
+histiano posts big blind 0.02€
+Dealt to paul bzh [5d 2c]
+*** PRE-FLOP *** 
+paul bzh folds
+Trakabarraca folds
+KT_RaGnaR raises 0.04€ to 0.06€
+NuclearWaste folds
+histiano folds
+KT_RaGnaR collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: KT_RaGnaR (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11783358-798-1538084002 - Holdem no limit (0.01€/0.02€) - 2018/09/27 21:33:22 UTC
+Table: 'Nice 25' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2.69€)
+Seat 2: Trakabarraca (2.61€)
+Seat 3: KT_RaGnaR (2.03€)
+Seat 4: NuclearWaste (4.09€)
+Seat 5: histiano (1.99€)
+*** ANTE/BLINDS ***
+histiano posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [7h Jc]
+*** PRE-FLOP *** 
+Trakabarraca folds
+KT_RaGnaR raises 0.04€ to 0.06€
+NuclearWaste raises 0.12€ to 0.18€
+histiano folds
+paul bzh folds
+KT_RaGnaR calls 0.12€
+*** FLOP *** [7s 4d Js]
+KT_RaGnaR checks
+NuclearWaste checks
+*** TURN *** [7s 4d Js][Ts]
+KT_RaGnaR checks
+NuclearWaste checks
+*** RIVER *** [7s 4d Js Ts][5c]
+KT_RaGnaR checks
+NuclearWaste checks
+*** SHOW DOWN ***
+NuclearWaste shows [Qd Kc] (High card : King)
+KT_RaGnaR shows [Ad Qh] (High card : Ace)
+KT_RaGnaR collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.02€
+Board: [7s 4d Js Ts 5c]
+Seat 3: KT_RaGnaR showed [Ad Qh] and won 0.37€ with High card : Ace
+Seat 4: NuclearWaste (button) showed [Qd Kc] and lost with High card : King
+
+

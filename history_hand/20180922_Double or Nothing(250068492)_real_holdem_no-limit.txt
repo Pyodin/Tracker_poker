@@ -1,0 +1,1014 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074035994900037633-1-1537628215 - Holdem no limit (10/20) - 2018/09/22 14:56:55 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 1: matp79 (1500)
+Seat 2: skyz46 (1500)
+Seat 3: paul bzh (1500)
+Seat 4: JoeBlack364 (1500)
+Seat 5: muloroli79 (1500)
+Seat 6: ineedMoney58 (1500)
+*** ANTE/BLINDS ***
+muloroli79 posts small blind 10
+ineedMoney58 posts big blind 20
+Dealt to paul bzh [Jh 2h]
+*** PRE-FLOP *** 
+matp79 folds
+skyz46 folds
+paul bzh calls 20
+JoeBlack364 folds
+muloroli79 raises 40 to 60
+ineedMoney58 folds
+paul bzh folds
+muloroli79 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 5: muloroli79 (small blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074035994900037633-2-1537628267 - Holdem no limit (10/20) - 2018/09/22 14:57:47 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #5 is the button
+Seat 1: matp79 (1500)
+Seat 2: skyz46 (1500)
+Seat 3: paul bzh (1480)
+Seat 4: JoeBlack364 (1500)
+Seat 5: muloroli79 (1540)
+Seat 6: ineedMoney58 (1480)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 10
+matp79 posts big blind 20
+Dealt to paul bzh [Qd 6s]
+*** PRE-FLOP *** 
+skyz46 folds
+paul bzh folds
+JoeBlack364 calls 20
+muloroli79 folds
+ineedMoney58 calls 10
+matp79 checks
+*** FLOP *** [Th 3s Js]
+ineedMoney58 checks
+matp79 bets 46
+JoeBlack364 folds
+ineedMoney58 folds
+matp79 collected 106 from pot
+*** SUMMARY ***
+Total pot 106 | No rake
+Board: [Th 3s Js]
+Seat 1: matp79 (big blind) won 106
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074035994900037633-3-1537628343 - Holdem no limit (10/20) - 2018/09/22 14:59:03 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 1: matp79 (1540)
+Seat 2: skyz46 (1500)
+Seat 3: paul bzh (1480)
+Seat 4: JoeBlack364 (1480)
+Seat 5: muloroli79 (1540)
+Seat 6: ineedMoney58 (1460)
+*** ANTE/BLINDS ***
+matp79 posts small blind 10
+skyz46 posts big blind 20
+Dealt to paul bzh [7c 8h]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+muloroli79 raises 40 to 60
+ineedMoney58 folds
+matp79 folds
+skyz46 folds
+muloroli79 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: muloroli79 won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074035994900037633-4-1537628388 - Holdem no limit (10/20) - 2018/09/22 14:59:48 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #1 is the button
+Seat 1: matp79 (1530)
+Seat 2: skyz46 (1480)
+Seat 3: paul bzh (1480)
+Seat 4: JoeBlack364 (1480)
+Seat 5: muloroli79 (1570)
+Seat 6: ineedMoney58 (1460)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 10
+paul bzh posts big blind 20
+Dealt to paul bzh [4d Ah]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 folds
+matp79 folds
+skyz46 raises 20 to 40
+paul bzh calls 20
+*** FLOP *** [3d Td 8h]
+skyz46 bets 50
+paul bzh calls 50
+*** TURN *** [3d Td 8h][9h]
+skyz46 bets 80
+paul bzh raises 80 to 160
+skyz46 calls 80
+*** RIVER *** [3d Td 8h 9h][9d]
+skyz46 checks
+paul bzh bets 180
+skyz46 folds
+paul bzh collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3d Td 8h 9h 9d]
+Seat 3: paul bzh (big blind) won 680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074035994900037633-5-1537628454 - Holdem no limit (15/30) - 2018/09/22 15:00:54 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 1: matp79 (1530)
+Seat 2: skyz46 (1230)
+Seat 3: paul bzh (1730)
+Seat 4: JoeBlack364 (1480)
+Seat 5: muloroli79 (1570)
+Seat 6: ineedMoney58 (1460)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 15
+JoeBlack364 posts big blind 30
+Dealt to paul bzh [4h 3c]
+*** PRE-FLOP *** 
+muloroli79 folds
+ineedMoney58 folds
+matp79 folds
+skyz46 folds
+paul bzh calls 15
+JoeBlack364 checks
+*** FLOP *** [Qh Qc Ah]
+paul bzh bets 30
+JoeBlack364 calls 30
+*** TURN *** [Qh Qc Ah][Kh]
+paul bzh bets 90
+JoeBlack364 calls 90
+*** RIVER *** [Qh Qc Ah Kh][Kd]
+paul bzh bets 135
+JoeBlack364 calls 135
+*** SHOW DOWN ***
+paul bzh shows [4h 3c] (Two pairs : Kings and Queens)
+JoeBlack364 shows [Ac Ts] (Two pairs : Aces and Kings)
+JoeBlack364 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Qh Qc Ah Kh Kd]
+Seat 3: paul bzh (small blind) showed [4h 3c] and lost with Two pairs : Kings and Queens
+Seat 4: JoeBlack364 (big blind) showed [Ac Ts] and won 570 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074035994900037633-6-1537628506 - Holdem no limit (15/30) - 2018/09/22 15:01:46 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 1: matp79 (1530)
+Seat 2: skyz46 (1230)
+Seat 3: paul bzh (1445)
+Seat 4: JoeBlack364 (1765)
+Seat 5: muloroli79 (1570)
+Seat 6: ineedMoney58 (1460)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 15
+muloroli79 posts big blind 30
+Dealt to paul bzh [Jc 2s]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+matp79 folds
+skyz46 folds
+paul bzh raises 30 to 60
+JoeBlack364 folds
+muloroli79 calls 30
+*** FLOP *** [Jd 2d 5h]
+muloroli79 checks
+paul bzh bets 68
+muloroli79 calls 68
+*** TURN *** [Jd 2d 5h][Ad]
+muloroli79 checks
+paul bzh bets 90
+muloroli79 calls 90
+*** RIVER *** [Jd 2d 5h Ad][2c]
+muloroli79 checks
+paul bzh bets 226
+muloroli79 folds
+paul bzh collected 677 from pot
+*** SUMMARY ***
+Total pot 677 | No rake
+Board: [Jd 2d 5h Ad 2c]
+Seat 3: paul bzh (button) won 677
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074035994900037633-7-1537628564 - Holdem no limit (15/30) - 2018/09/22 15:02:44 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 1: matp79 (1530)
+Seat 2: skyz46 (1230)
+Seat 3: paul bzh (1678)
+Seat 4: JoeBlack364 (1750)
+Seat 5: muloroli79 (1352)
+Seat 6: ineedMoney58 (1460)
+*** ANTE/BLINDS ***
+muloroli79 posts small blind 15
+ineedMoney58 posts big blind 30
+Dealt to paul bzh [9d 8c]
+*** PRE-FLOP *** 
+matp79 folds
+skyz46 folds
+paul bzh raises 30 to 60
+JoeBlack364 calls 60
+muloroli79 folds
+ineedMoney58 calls 30
+*** FLOP *** [As 2d 5s]
+ineedMoney58 checks
+paul bzh checks
+JoeBlack364 checks
+*** TURN *** [As 2d 5s][5d]
+ineedMoney58 checks
+paul bzh bets 30
+JoeBlack364 calls 30
+ineedMoney58 folds
+*** RIVER *** [As 2d 5s 5d][2s]
+paul bzh checks
+JoeBlack364 checks
+*** SHOW DOWN ***
+paul bzh shows [9d 8c] (Two pairs : 5 and 2)
+JoeBlack364 shows [Jd Kd] (Two pairs : 5 and 2)
+JoeBlack364 collected 128 from pot
+paul bzh collected 127 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [As 2d 5s 5d 2s]
+Seat 3: paul bzh showed [9d 8c] and won 127 with Two pairs : 5 and 2
+Seat 4: JoeBlack364 (button) showed [Jd Kd] and won 128 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074035994900037633-8-1537628617 - Holdem no limit (20/40) - 2018/09/22 15:03:37 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #5 is the button
+Seat 1: matp79 (1530)
+Seat 2: skyz46 (1230)
+Seat 3: paul bzh (1715)
+Seat 4: JoeBlack364 (1788)
+Seat 5: muloroli79 (1337)
+Seat 6: ineedMoney58 (1400)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 20
+matp79 posts big blind 40
+Dealt to paul bzh [3s 3h]
+*** PRE-FLOP *** 
+skyz46 raises 40 to 80
+paul bzh raises 40 to 120
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 folds
+matp79 folds
+skyz46 raises 1110 to 1230 and is all-in
+paul bzh folds
+skyz46 collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 2: skyz46 won 1410
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074035994900037633-9-1537628654 - Holdem no limit (20/40) - 2018/09/22 15:04:14 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 1: matp79 (1490)
+Seat 2: skyz46 (1410)
+Seat 3: paul bzh (1595)
+Seat 4: JoeBlack364 (1788)
+Seat 5: muloroli79 (1337)
+Seat 6: ineedMoney58 (1380)
+*** ANTE/BLINDS ***
+matp79 posts small blind 20
+skyz46 posts big blind 40
+Dealt to paul bzh [5s 5d]
+*** PRE-FLOP *** 
+paul bzh raises 40 to 80
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 raises 160 to 240
+matp79 folds
+skyz46 folds
+paul bzh calls 160
+*** FLOP *** [Qc 9d Jh]
+paul bzh checks
+ineedMoney58 bets 40
+paul bzh calls 40
+*** TURN *** [Qc 9d Jh][8d]
+paul bzh checks
+ineedMoney58 bets 40
+paul bzh calls 40
+*** RIVER *** [Qc 9d Jh 8d][6s]
+paul bzh checks
+ineedMoney58 bets 40
+paul bzh calls 40
+*** SHOW DOWN ***
+paul bzh shows [5s 5d] (One pair : 5)
+ineedMoney58 shows [Qh Qs] (Trips of Queens)
+ineedMoney58 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Qc 9d Jh 8d 6s]
+Seat 3: paul bzh showed [5s 5d] and lost with One pair : 5
+Seat 6: ineedMoney58 (button) showed [Qh Qs] and won 780 with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074035994900037633-10-1537628691 - Holdem no limit (20/40) - 2018/09/22 15:04:51 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #1 is the button
+Seat 1: matp79 (1470)
+Seat 2: skyz46 (1370)
+Seat 3: paul bzh (1235)
+Seat 4: JoeBlack364 (1788)
+Seat 5: muloroli79 (1337)
+Seat 6: ineedMoney58 (1800)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [Ah Jd]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 folds
+matp79 folds
+skyz46 folds
+paul bzh collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: paul bzh (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074035994900037633-11-1537628701 - Holdem no limit (20/40) - 2018/09/22 15:05:01 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 1: matp79 (1470)
+Seat 2: skyz46 (1350)
+Seat 3: paul bzh (1255)
+Seat 4: JoeBlack364 (1788)
+Seat 5: muloroli79 (1337)
+Seat 6: ineedMoney58 (1800)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 20
+JoeBlack364 posts big blind 40
+Dealt to paul bzh [7c Jh]
+*** PRE-FLOP *** 
+muloroli79 calls 40
+ineedMoney58 folds
+matp79 folds
+skyz46 raises 40 to 80
+paul bzh folds
+JoeBlack364 folds
+muloroli79 calls 40
+*** FLOP *** [5h Ts Qd]
+muloroli79 bets 165
+skyz46 raises 165 to 330
+muloroli79 calls 165
+*** TURN *** [5h Ts Qd][2s]
+muloroli79 checks
+skyz46 checks
+*** RIVER *** [5h Ts Qd 2s][4s]
+muloroli79 checks
+skyz46 checks
+*** SHOW DOWN ***
+muloroli79 shows [Kc Jd] (High card : King)
+skyz46 shows [7d Ah] (High card : Ace)
+skyz46 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [5h Ts Qd 2s 4s]
+Seat 2: skyz46 (button) showed [7d Ah] and won 880 with High card : Ace
+Seat 5: muloroli79 showed [Kc Jd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074035994900037633-12-1537628758 - Holdem no limit (30/60) - 2018/09/22 15:05:58 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 1: matp79 (1470)
+Seat 2: skyz46 (1820)
+Seat 3: paul bzh (1235)
+Seat 4: JoeBlack364 (1748)
+Seat 5: muloroli79 (927)
+Seat 6: ineedMoney58 (1800)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 30
+muloroli79 posts big blind 60
+Dealt to paul bzh [2d Ac]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+matp79 folds
+skyz46 folds
+paul bzh raises 60 to 120
+JoeBlack364 folds
+muloroli79 raises 807 to 927 and is all-in
+paul bzh folds
+muloroli79 collected 1077 from pot
+*** SUMMARY ***
+Total pot 1077 | No rake
+Seat 5: muloroli79 (big blind) won 1077
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074035994900037633-13-1537628787 - Holdem no limit (30/60) - 2018/09/22 15:06:27 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 1: matp79 (1470)
+Seat 2: skyz46 (1820)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1718)
+Seat 5: muloroli79 (1077)
+Seat 6: ineedMoney58 (1800)
+*** ANTE/BLINDS ***
+muloroli79 posts small blind 30
+ineedMoney58 posts big blind 60
+Dealt to paul bzh [6c 2s]
+*** PRE-FLOP *** 
+matp79 raises 60 to 120
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 calls 60
+*** FLOP *** [5h 9h 6s]
+ineedMoney58 checks
+matp79 bets 280
+ineedMoney58 calls 280
+*** TURN *** [5h 9h 6s][Kd]
+ineedMoney58 checks
+matp79 bets 282
+ineedMoney58 calls 282
+*** RIVER *** [5h 9h 6s Kd][9d]
+ineedMoney58 checks
+matp79 bets 788 and is all-in
+ineedMoney58 calls 788
+*** SHOW DOWN ***
+matp79 shows [Ts Qh] (One pair : 9)
+ineedMoney58 shows [8s 9s] (Trips of 9)
+ineedMoney58 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [5h 9h 6s Kd 9d]
+Seat 1: matp79 showed [Ts Qh] and lost with One pair : 9
+Seat 6: ineedMoney58 (big blind) showed [8s 9s] and won 2970 with Trips of 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074035994900037633-14-1537628842 - Holdem no limit (30/60) - 2018/09/22 15:07:22 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #5 is the button
+Seat 2: skyz46 (1820)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1718)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3300)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 30
+skyz46 posts big blind 60
+Dealt to paul bzh [5c Qh]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 raises 60 to 120
+skyz46 folds
+ineedMoney58 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: ineedMoney58 (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074035994900037633-15-1537628883 - Holdem no limit (30/60) - 2018/09/22 15:08:03 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (1760)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1718)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3360)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [Qd Td]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 folds
+skyz46 folds
+paul bzh collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: paul bzh (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074035994900037633-16-1537628898 - Holdem no limit (30/60) - 2018/09/22 15:08:18 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 2: skyz46 (1730)
+Seat 3: paul bzh (1145)
+Seat 4: JoeBlack364 (1718)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3360)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 30
+JoeBlack364 posts big blind 60
+Dealt to paul bzh [6h 2c]
+*** PRE-FLOP *** 
+muloroli79 folds
+ineedMoney58 raises 90 to 150
+skyz46 raises 1580 to 1730 and is all-in
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 folds
+skyz46 collected 1970 from pot
+*** SUMMARY ***
+Total pot 1970 | No rake
+Seat 2: skyz46 (button) won 1970
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-17-1537628948 - Holdem no limit (40/80) - 2018/09/22 15:09:08 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 2: skyz46 (1970)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1658)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3210)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 40
+muloroli79 posts big blind 80
+Dealt to paul bzh [3h 2s]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+muloroli79 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: muloroli79 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-18-1537628964 - Holdem no limit (40/80) - 2018/09/22 15:09:24 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 2: skyz46 (1970)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1618)
+Seat 5: muloroli79 (1087)
+Seat 6: ineedMoney58 (3210)
+*** ANTE/BLINDS ***
+muloroli79 posts small blind 40
+ineedMoney58 posts big blind 80
+Dealt to paul bzh [4d Js]
+*** PRE-FLOP *** 
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: ineedMoney58 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-19-1537628970 - Holdem no limit (40/80) - 2018/09/22 15:09:30 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #5 is the button
+Seat 2: skyz46 (1970)
+Seat 3: paul bzh (1115)
+Seat 4: JoeBlack364 (1618)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3250)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 40
+skyz46 posts big blind 80
+Dealt to paul bzh [9s Qs]
+*** PRE-FLOP *** 
+paul bzh calls 80
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 calls 40
+skyz46 checks
+*** FLOP *** [3s 8c Kh]
+ineedMoney58 bets 240
+skyz46 folds
+paul bzh folds
+ineedMoney58 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3s 8c Kh]
+Seat 6: ineedMoney58 (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-20-1537629005 - Holdem no limit (40/80) - 2018/09/22 15:10:05 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (1890)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1618)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3410)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [9s 7h]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 folds
+skyz46 folds
+paul bzh collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: paul bzh (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-21-1537629012 - Holdem no limit (40/80) - 2018/09/22 15:10:12 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 2: skyz46 (1850)
+Seat 3: paul bzh (1075)
+Seat 4: JoeBlack364 (1618)
+Seat 5: muloroli79 (1047)
+Seat 6: ineedMoney58 (3410)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 40
+JoeBlack364 posts big blind 80
+Dealt to paul bzh [8s 5c]
+*** PRE-FLOP *** 
+muloroli79 raises 160 to 240
+ineedMoney58 raises 3170 to 3410 and is all-in
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+muloroli79 folds
+ineedMoney58 collected 3770 from pot
+*** SUMMARY ***
+Total pot 3770 | No rake
+Seat 6: ineedMoney58 won 3770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-22-1537629031 - Holdem no limit (40/80) - 2018/09/22 15:10:31 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 2: skyz46 (1850)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1538)
+Seat 5: muloroli79 (807)
+Seat 6: ineedMoney58 (3770)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 40
+muloroli79 posts big blind 80
+Dealt to paul bzh [6h As]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+skyz46 folds
+paul bzh raises 80 to 160
+JoeBlack364 folds
+muloroli79 calls 80
+*** FLOP *** [Ks 9d 3s]
+muloroli79 checks
+paul bzh checks
+*** TURN *** [Ks 9d 3s][7d]
+muloroli79 checks
+paul bzh checks
+*** RIVER *** [Ks 9d 3s 7d][3d]
+muloroli79 checks
+paul bzh checks
+*** SHOW DOWN ***
+muloroli79 shows [Jd Qs] (One pair : 3)
+paul bzh shows [6h As] (One pair : 3)
+paul bzh collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ks 9d 3s 7d 3d]
+Seat 3: paul bzh (button) showed [6h As] and won 360 with One pair : 3
+Seat 5: muloroli79 (big blind) showed [Jd Qs] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-23-1537629061 - Holdem no limit (40/80) - 2018/09/22 15:11:01 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 2: skyz46 (1850)
+Seat 3: paul bzh (1235)
+Seat 4: JoeBlack364 (1498)
+Seat 5: muloroli79 (647)
+Seat 6: ineedMoney58 (3770)
+*** ANTE/BLINDS ***
+muloroli79 posts small blind 40
+ineedMoney58 posts big blind 80
+Dealt to paul bzh [8d 4h]
+*** PRE-FLOP *** 
+skyz46 calls 80
+paul bzh folds
+JoeBlack364 folds
+muloroli79 raises 567 to 647 and is all-in
+ineedMoney58 folds
+skyz46 calls 567
+*** FLOP *** [9s Ah 6d]
+*** TURN *** [9s Ah 6d][2d]
+*** RIVER *** [9s Ah 6d 2d][Th]
+*** SHOW DOWN ***
+muloroli79 shows [3s Ad] (One pair : Aces)
+skyz46 shows [Ac Tc] (Two pairs : Aces and Tens)
+skyz46 collected 1374 from pot
+*** SUMMARY ***
+Total pot 1374 | No rake
+Board: [9s Ah 6d 2d Th]
+Seat 2: skyz46 showed [Ac Tc] and won 1374 with Two pairs : Aces and Tens
+Seat 5: muloroli79 (small blind) showed [3s Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-24-1537629100 - Holdem no limit (40/80) - 2018/09/22 15:11:40 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #5 is the button
+Seat 2: skyz46 (2577)
+Seat 3: paul bzh (1235)
+Seat 4: JoeBlack364 (1498)
+Seat 6: ineedMoney58 (3690)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 40
+skyz46 posts big blind 80
+Dealt to paul bzh [8h Th]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 folds
+skyz46 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: skyz46 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074035994900037633-25-1537629110 - Holdem no limit (40/80) - 2018/09/22 15:11:50 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (2617)
+Seat 3: paul bzh (1235)
+Seat 4: JoeBlack364 (1498)
+Seat 6: ineedMoney58 (3650)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [7h Qc]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+ineedMoney58 raises 80 to 160
+skyz46 folds
+paul bzh folds
+ineedMoney58 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: ineedMoney58 (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-26-1537629139 - Holdem no limit (60/120) - 2018/09/22 15:12:19 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 2: skyz46 (2577)
+Seat 3: paul bzh (1155)
+Seat 4: JoeBlack364 (1498)
+Seat 6: ineedMoney58 (3770)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+JoeBlack364 posts big blind 120
+Dealt to paul bzh [5c As]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+skyz46 folds
+paul bzh calls 60
+JoeBlack364 checks
+*** FLOP *** [7c 3c 3h]
+paul bzh checks
+JoeBlack364 checks
+*** TURN *** [7c 3c 3h][Kc]
+paul bzh checks
+JoeBlack364 bets 180
+paul bzh folds
+JoeBlack364 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7c 3c 3h Kc]
+Seat 4: JoeBlack364 (big blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-27-1537629175 - Holdem no limit (60/120) - 2018/09/22 15:12:55 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 2: skyz46 (2577)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3770)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 60
+ineedMoney58 posts big blind 120
+Dealt to paul bzh [3s 6h]
+*** PRE-FLOP *** 
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: ineedMoney58 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-28-1537629182 - Holdem no limit (60/120) - 2018/09/22 15:13:02 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 2: skyz46 (2577)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1558)
+Seat 6: ineedMoney58 (3830)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 60
+skyz46 posts big blind 120
+Dealt to paul bzh [5c Jh]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 calls 60
+skyz46 checks
+*** FLOP *** [9c Kc 7s]
+ineedMoney58 bets 120
+skyz46 raises 120 to 240
+ineedMoney58 folds
+skyz46 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9c Kc 7s]
+Seat 2: skyz46 (big blind) won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-29-1537629197 - Holdem no limit (60/120) - 2018/09/22 15:13:17 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (2817)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1558)
+Seat 6: ineedMoney58 (3590)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [Ad 8h]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+ineedMoney58 raises 120 to 240
+skyz46 folds
+paul bzh raises 480 to 720
+ineedMoney58 folds
+paul bzh collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 3: paul bzh (big blind) won 1020
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-30-1537629227 - Holdem no limit (60/120) - 2018/09/22 15:13:47 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 2: skyz46 (2757)
+Seat 3: paul bzh (1335)
+Seat 4: JoeBlack364 (1558)
+Seat 6: ineedMoney58 (3350)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+JoeBlack364 posts big blind 120
+Dealt to paul bzh [9d Kd]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+skyz46 folds
+paul bzh calls 60
+JoeBlack364 checks
+*** FLOP *** [2h Js 6d]
+paul bzh checks
+JoeBlack364 bets 120
+paul bzh folds
+JoeBlack364 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2h Js 6d]
+Seat 4: JoeBlack364 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-31-1537629248 - Holdem no limit (60/120) - 2018/09/22 15:14:08 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 2: skyz46 (2757)
+Seat 3: paul bzh (1215)
+Seat 4: JoeBlack364 (1678)
+Seat 6: ineedMoney58 (3350)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 60
+ineedMoney58 posts big blind 120
+Dealt to paul bzh [3c Kc]
+*** PRE-FLOP *** 
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: ineedMoney58 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-32-1537629255 - Holdem no limit (60/120) - 2018/09/22 15:14:15 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 2: skyz46 (2757)
+Seat 3: paul bzh (1215)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3410)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 60
+skyz46 posts big blind 120
+Dealt to paul bzh [5c 2h]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 folds
+skyz46 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: skyz46 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-33-1537629261 - Holdem no limit (60/120) - 2018/09/22 15:14:21 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (2817)
+Seat 3: paul bzh (1215)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3350)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [Ad 4h]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+ineedMoney58 folds
+skyz46 raises 2549 to 2669
+paul bzh folds
+skyz46 collected 2789 from pot
+*** SUMMARY ***
+Total pot 2789 | No rake
+Seat 2: skyz46 (small blind) won 2789
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-34-1537629277 - Holdem no limit (60/120) - 2018/09/22 15:14:37 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #2 is the button
+Seat 2: skyz46 (2937)
+Seat 3: paul bzh (1095)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3350)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+JoeBlack364 posts big blind 120
+Dealt to paul bzh [7s Kc]
+*** PRE-FLOP *** 
+ineedMoney58 folds
+skyz46 folds
+paul bzh folds
+JoeBlack364 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: JoeBlack364 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-35-1537629284 - Holdem no limit (60/120) - 2018/09/22 15:14:44 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #3 is the button
+Seat 2: skyz46 (2937)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1678)
+Seat 6: ineedMoney58 (3350)
+*** ANTE/BLINDS ***
+JoeBlack364 posts small blind 60
+ineedMoney58 posts big blind 120
+Dealt to paul bzh [5d Kh]
+*** PRE-FLOP *** 
+skyz46 folds
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: ineedMoney58 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074035994900037633-36-1537629289 - Holdem no limit (60/120) - 2018/09/22 15:14:49 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #4 is the button
+Seat 2: skyz46 (2937)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3410)
+*** ANTE/BLINDS ***
+ineedMoney58 posts small blind 60
+skyz46 posts big blind 120
+Dealt to paul bzh [3h Ts]
+*** PRE-FLOP *** 
+paul bzh folds
+JoeBlack364 folds
+ineedMoney58 raises 120 to 240
+skyz46 folds
+ineedMoney58 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: ineedMoney58 (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 7 - HandId: #1074035994900037633-37-1537629298 - Holdem no limit (80/160) - 2018/09/22 15:14:58 UTC
+Table: 'Double or Nothing(250068492)#0' 6-max (real money) Seat #6 is the button
+Seat 2: skyz46 (2817)
+Seat 3: paul bzh (1035)
+Seat 4: JoeBlack364 (1618)
+Seat 6: ineedMoney58 (3530)
+*** ANTE/BLINDS ***
+skyz46 posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [2s 2c]
+*** PRE-FLOP *** 
+JoeBlack364 folds
+ineedMoney58 raises 160 to 320
+skyz46 folds
+paul bzh raises 715 to 1035 and is all-in
+ineedMoney58 calls 715
+*** FLOP *** [7c 5s 8h]
+*** TURN *** [7c 5s 8h][Kd]
+*** RIVER *** [7c 5s 8h Kd][9c]
+*** SHOW DOWN ***
+paul bzh shows [2s 2c] (One pair : 2)
+ineedMoney58 shows [Ah 6h] (Straight 9 high)
+ineedMoney58 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [7c 5s 8h Kd 9c]
+Seat 3: paul bzh (big blind) showed [2s 2c] and lost with One pair : 2
+Seat 6: ineedMoney58 (button) showed [Ah 6h] and won 2150 with Straight 9 high
+
+

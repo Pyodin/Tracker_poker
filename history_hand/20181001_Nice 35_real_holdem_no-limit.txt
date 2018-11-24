@@ -1,0 +1,911 @@
+Winamax Poker - CashGame - HandId: #11801147-342-1538420911 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:08:31 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2€)
+Seat 2: Gobbab (2.68€)
+Seat 3: paul bzh (2€)
+Seat 4: Knpo (2.18€)
+Seat 5: MED JA (4.37€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+paul bzh posts big blind 0.02€ out of position
+Dealt to paul bzh [Jh 6s]
+*** PRE-FLOP *** 
+Gobbab folds
+paul bzh checks
+Knpo folds
+MED JA folds
+MoJiTolaWin checks
+*** FLOP *** [5c 9s Qh]
+MoJiTolaWin bets 0.06€
+paul bzh folds
+MoJiTolaWin collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Board: [5c 9s Qh]
+Seat 1: MoJiTolaWin (big blind) won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #11801147-343-1538420939 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:08:59 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.03€)
+Seat 2: Gobbab (2.68€)
+Seat 3: paul bzh (1.98€)
+Seat 4: Knpo (2.18€)
+Seat 5: MED JA (4.36€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+Gobbab posts big blind 0.02€
+Dealt to paul bzh [Jd 6s]
+*** PRE-FLOP *** 
+paul bzh folds
+Knpo folds
+MED JA folds
+MoJiTolaWin raises 0.03€ to 0.05€
+Gobbab folds
+MoJiTolaWin collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 1: MoJiTolaWin (small blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11801147-344-1538420962 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:09:22 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.05€)
+Seat 2: Gobbab (2.66€)
+Seat 3: paul bzh (1.98€)
+Seat 4: Knpo (2.18€)
+Seat 5: MED JA (4.36€)
+*** ANTE/BLINDS ***
+Gobbab posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [5d 5h]
+*** PRE-FLOP *** 
+Knpo folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+Gobbab calls 0.05€
+paul bzh raises 0.12€ to 0.18€
+MED JA calls 0.12€
+Gobbab calls 0.12€
+*** FLOP *** [4h As 7h]
+Gobbab checks
+paul bzh checks
+MED JA checks
+*** TURN *** [4h As 7h][4d]
+Gobbab bets 0.22€
+paul bzh folds
+MED JA folds
+Gobbab collected 0.73€ from pot
+*** SUMMARY ***
+Total pot 0.73€ | Rake 0.03€
+Board: [4h As 7h 4d]
+Seat 2: Gobbab (small blind) won 0.73€
+
+
+Winamax Poker - CashGame - HandId: #11801147-345-1538421035 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:10:35 UTC
+Table: 'Nice 35' 5-max (real money) Seat #2 is the button
+Seat 1: MoJiTolaWin (2.05€)
+Seat 2: Gobbab (2.99€)
+Seat 3: paul bzh (1.80€)
+Seat 4: Knpo (2.18€)
+Seat 5: MED JA (4.18€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+Knpo posts big blind 0.02€
+Dealt to paul bzh [4c 6d]
+*** PRE-FLOP *** 
+MED JA folds
+MoJiTolaWin raises 0.03€ to 0.05€
+Gobbab folds
+paul bzh folds
+Knpo calls 0.03€
+*** FLOP *** [Jd Ad 9h]
+Knpo checks
+MoJiTolaWin bets 0.06€
+Knpo calls 0.06€
+*** TURN *** [Jd Ad 9h][8s]
+Knpo checks
+MoJiTolaWin checks
+*** RIVER *** [Jd Ad 9h 8s][7s]
+Knpo bets 0.12€
+MoJiTolaWin calls 0.12€
+*** SHOW DOWN ***
+Knpo shows [Js Ks] (One pair : Jacks)
+MoJiTolaWin shows [Qc Qh] (One pair : Queens)
+MoJiTolaWin collected 0.44€ from pot
+*** SUMMARY ***
+Total pot 0.44€ | Rake 0.03€
+Board: [Jd Ad 9h 8s 7s]
+Seat 1: MoJiTolaWin showed [Qc Qh] and won 0.44€ with One pair : Queens
+Seat 4: Knpo (big blind) showed [Js Ks] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #11801147-346-1538421090 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:11:30 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.26€)
+Seat 2: Gobbab (2.99€)
+Seat 3: paul bzh (1.79€)
+Seat 4: Knpo (2€)
+Seat 5: MED JA (4.18€)
+*** ANTE/BLINDS ***
+Knpo posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [As Jd]
+*** PRE-FLOP *** 
+MoJiTolaWin folds
+Gobbab raises 0.03€ to 0.05€
+paul bzh raises 0.10€ to 0.15€
+Knpo folds
+MED JA folds
+Gobbab calls 0.10€
+*** FLOP *** [2s 6h Qd]
+Gobbab checks
+paul bzh bets 0.17€
+Gobbab calls 0.17€
+*** TURN *** [2s 6h Qd][Th]
+Gobbab checks
+paul bzh bets 0.34€
+Gobbab folds
+paul bzh collected 0.97€ from pot
+*** SUMMARY ***
+Total pot 0.97€ | Rake 0.04€
+Board: [2s 6h Qd Th]
+Seat 3: paul bzh (button) won 0.97€
+
+
+Winamax Poker - CashGame - HandId: #11801147-347-1538421188 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:13:08 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2.26€)
+Seat 2: Gobbab (2.67€)
+Seat 3: paul bzh (2.10€)
+Seat 4: Knpo (2€)
+Seat 5: MED JA (4.16€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+Dealt to paul bzh [Qc Qs]
+*** PRE-FLOP *** 
+Gobbab folds
+paul bzh raises 0.06€ to 0.08€
+Knpo folds
+MED JA folds
+MoJiTolaWin calls 0.06€
+*** FLOP *** [Jc Ts Qh]
+MoJiTolaWin bets 0.07€
+paul bzh raises 0.21€ to 0.28€
+MoJiTolaWin folds
+paul bzh collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [Jc Ts Qh]
+Seat 3: paul bzh won 0.50€
+
+
+Winamax Poker - CashGame - HandId: #11801147-348-1538421227 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:13:47 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: Gobbab (2.67€)
+Seat 3: paul bzh (2.24€)
+Seat 4: Knpo (2€)
+Seat 5: MED JA (4.15€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+Gobbab posts big blind 0.02€
+Dealt to paul bzh [6d Qs]
+*** PRE-FLOP *** 
+paul bzh folds
+Knpo folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin calls 0.05€
+Gobbab calls 0.04€
+*** FLOP *** [Jc 9s Ks]
+MoJiTolaWin checks
+Gobbab checks
+MED JA checks
+*** TURN *** [Jc 9s Ks][Qh]
+MoJiTolaWin checks
+Gobbab checks
+MED JA bets 0.14€
+MoJiTolaWin folds
+Gobbab folds
+MED JA collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.01€
+Board: [Jc 9s Ks Qh]
+Seat 5: MED JA (button) won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #11801147-349-1538421292 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:14:52 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.05€)
+Seat 2: Gobbab (2.61€)
+Seat 3: paul bzh (2.24€)
+Seat 4: Knpo (2€)
+Seat 5: MED JA (4.26€)
+*** ANTE/BLINDS ***
+Gobbab posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [8h 2c]
+*** PRE-FLOP *** 
+Knpo folds
+MED JA folds
+MoJiTolaWin folds
+Gobbab folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11801147-350-1538421304 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:15:04 UTC
+Table: 'Nice 35' 5-max (real money) Seat #2 is the button
+Seat 1: MoJiTolaWin (2.05€)
+Seat 2: Gobbab (2.60€)
+Seat 3: paul bzh (2.25€)
+Seat 4: Knpo (2€)
+Seat 5: MED JA (4.26€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [8c Kd]
+*** PRE-FLOP *** 
+MoJiTolaWin raises 0.03€ to 0.05€
+Gobbab calls 0.05€
+paul bzh folds
+MED JA calls 0.03€
+*** FLOP *** [7s 8s 4h]
+MED JA checks
+MoJiTolaWin checks
+Gobbab checks
+*** TURN *** [7s 8s 4h][5h]
+MED JA checks
+MoJiTolaWin checks
+Gobbab checks
+*** RIVER *** [7s 8s 4h 5h][9d]
+MED JA bets 0.08€
+MoJiTolaWin calls 0.08€
+Gobbab folds
+*** SHOW DOWN ***
+MED JA shows [As 5s] (One pair : 5)
+MoJiTolaWin shows [Ts 9s] (One pair : 9)
+MoJiTolaWin collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | Rake 0.02€
+Board: [7s 8s 4h 5h 9d]
+Seat 1: MoJiTolaWin showed [Ts 9s] and won 0.30€ with One pair : 9
+Seat 5: MED JA (big blind) showed [As 5s] and lost with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #11801147-351-1538421372 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:16:12 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.22€)
+Seat 2: Gobbab (2.55€)
+Seat 3: paul bzh (2.24€)
+Seat 4: BaliG (1.58€)
+Seat 5: MED JA (4.13€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+Dealt to paul bzh [Jc 2h]
+*** PRE-FLOP *** 
+Gobbab raises 0.03€ to 0.05€
+paul bzh folds
+MED JA folds
+MoJiTolaWin folds
+Gobbab collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: Gobbab won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11801147-352-1538421387 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:16:27 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.20€)
+Seat 2: Gobbab (2.58€)
+Seat 3: paul bzh (2.24€)
+Seat 4: BaliG (1.58€)
+Seat 5: MED JA (4.12€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Th Kh]
+*** PRE-FLOP *** 
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin calls 0.05€
+paul bzh calls 0.04€
+*** FLOP *** [8h 4s 4c]
+MoJiTolaWin checks
+paul bzh bets 0.12€
+MED JA calls 0.12€
+MoJiTolaWin folds
+*** TURN *** [8h 4s 4c][7c]
+paul bzh bets 0.20€
+MED JA folds
+paul bzh collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.02€
+Board: [8h 4s 4c 7c]
+Seat 3: paul bzh (big blind) won 0.60€
+
+
+Winamax Poker - CashGame - HandId: #11801147-353-1538421447 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:17:27 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.14€)
+Seat 3: paul bzh (2.46€)
+Seat 4: BaliG (1.58€)
+Seat 5: MED JA (3.94€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BaliG posts big blind 0.02€
+Dealt to paul bzh [Th 4c]
+*** PRE-FLOP *** 
+MED JA folds
+MoJiTolaWin folds
+paul bzh calls 0.01€
+BaliG checks
+*** FLOP *** [7s Qd Kh]
+paul bzh checks
+BaliG checks
+*** TURN *** [7s Qd Kh][Jh]
+paul bzh checks
+BaliG checks
+*** RIVER *** [7s Qd Kh Jh][3d]
+paul bzh checks
+BaliG checks
+*** SHOW DOWN ***
+BaliG shows [2s 8s] (High card : King)
+paul bzh shows [Th 4c] (High card : King)
+paul bzh collected 0.04€ from pot
+*** SUMMARY ***
+Total pot 0.04€ | No rake
+Board: [7s Qd Kh Jh 3d]
+Seat 3: paul bzh (small blind) showed [Th 4c] and won 0.04€ with High card : King
+Seat 4: BaliG (big blind) showed [2s 8s] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #11801147-354-1538421510 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:18:30 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.14€)
+Seat 3: paul bzh (2.48€)
+Seat 4: BaliG (1.56€)
+Seat 5: MED JA (3.94€)
+*** ANTE/BLINDS ***
+BaliG posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [6c 9c]
+*** PRE-FLOP *** 
+MoJiTolaWin folds
+paul bzh raises 0.04€ to 0.06€
+BaliG calls 0.05€
+MED JA folds
+*** FLOP *** [Tc 8s 3c]
+BaliG bets 0.08€
+paul bzh calls 0.08€
+*** TURN *** [Tc 8s 3c][2h]
+BaliG bets 0.20€
+paul bzh calls 0.20€
+*** RIVER *** [Tc 8s 3c 2h][2d]
+BaliG bets 0.47€
+paul bzh folds
+BaliG collected 1.13€ from pot
+*** SUMMARY ***
+Total pot 1.13€ | Rake 0.04€
+Board: [Tc 8s 3c 2h 2d]
+Seat 4: BaliG (small blind) won 1.13€
+
+
+Winamax Poker - CashGame - HandId: #11801147-355-1538421582 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:19:42 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2.14€)
+Seat 2: MayamaX45 (0.99€)
+Seat 3: paul bzh (2.14€)
+Seat 4: BaliG (1.88€)
+Seat 5: MED JA (3.92€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+MayamaX45 posts big blind 0.02€ out of position
+Dealt to paul bzh [Th Kd]
+*** PRE-FLOP *** 
+MayamaX45 checks
+paul bzh raises 0.04€ to 0.06€
+BaliG calls 0.06€
+MED JA folds
+MoJiTolaWin folds
+MayamaX45 calls 0.04€
+*** FLOP *** [9d Kh 6d]
+MayamaX45 checks
+paul bzh bets 0.14€
+BaliG calls 0.14€
+MayamaX45 folds
+*** TURN *** [9d Kh 6d][Qs]
+paul bzh bets 0.37€
+BaliG folds
+paul bzh collected 0.83€ from pot
+*** SUMMARY ***
+Total pot 0.83€ | Rake 0.03€
+Board: [9d Kh 6d Qs]
+Seat 3: paul bzh won 0.83€
+
+
+Winamax Poker - CashGame - HandId: #11801147-356-1538421666 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:21:06 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.12€)
+Seat 2: MayamaX45 (0.93€)
+Seat 3: paul bzh (2.40€)
+Seat 4: BaliG (1.68€)
+Seat 5: MED JA (3.91€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+MayamaX45 posts big blind 0.02€
+Dealt to paul bzh [3s Js]
+*** PRE-FLOP *** 
+paul bzh folds
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+MED JA collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: MED JA (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11801147-357-1538421693 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:21:33 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.91€)
+Seat 3: paul bzh (2.40€)
+Seat 4: BaliG (1.68€)
+Seat 5: MED JA (3.94€)
+*** ANTE/BLINDS ***
+MayamaX45 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Ah 5h]
+*** PRE-FLOP *** 
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh calls 0.04€
+*** FLOP *** [6c Qh 3d]
+paul bzh checks
+MED JA bets 0.07€
+paul bzh calls 0.07€
+*** TURN *** [6c Qh 3d][Jd]
+paul bzh checks
+MED JA checks
+*** RIVER *** [6c Qh 3d Jd][3s]
+paul bzh bets 0.18€
+MED JA folds
+paul bzh collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.02€
+Board: [6c Qh 3d Jd 3s]
+Seat 3: paul bzh (big blind) won 0.43€
+
+
+Winamax Poker - CashGame - HandId: #11801147-358-1538421747 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:22:27 UTC
+Table: 'Nice 35' 5-max (real money) Seat #2 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.90€)
+Seat 3: paul bzh (2.52€)
+Seat 4: BaliG (1.68€)
+Seat 5: MED JA (3.81€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BaliG posts big blind 0.02€
+Dealt to paul bzh [As 6d]
+*** PRE-FLOP *** 
+MED JA folds
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh calls 0.01€
+BaliG raises 0.04€ to 0.06€
+paul bzh calls 0.04€
+*** FLOP *** [3d Qh 3c]
+paul bzh checks
+BaliG bets 0.08€
+paul bzh folds
+BaliG collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [3d Qh 3c]
+Seat 4: BaliG (big blind) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #11801147-359-1538421785 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:23:05 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.90€)
+Seat 3: paul bzh (2.46€)
+Seat 4: BaliG (1.73€)
+Seat 5: MED JA (3.81€)
+*** ANTE/BLINDS ***
+BaliG posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [Ks 7d]
+*** PRE-FLOP *** 
+MoJiTolaWin raises 0.03€ to 0.05€
+MayamaX45 folds
+paul bzh folds
+BaliG folds
+MED JA folds
+MoJiTolaWin collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 1: MoJiTolaWin won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11801147-360-1538421800 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:23:20 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2.14€)
+Seat 2: MayamaX45 (0.90€)
+Seat 3: paul bzh (2.46€)
+Seat 4: BaliG (1.72€)
+Seat 5: MED JA (3.79€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+Dealt to paul bzh [5h 2d]
+*** PRE-FLOP *** 
+MayamaX45 folds
+paul bzh folds
+BaliG raises 0.02€ to 0.04€
+MED JA calls 0.03€
+MoJiTolaWin folds
+*** FLOP *** [3s 5s 8h]
+MED JA checks
+BaliG checks
+*** TURN *** [3s 5s 8h][4d]
+MED JA bets 0.07€
+BaliG raises 1.61€ to 1.68€ and is all-in
+MED JA folds
+BaliG collected 1.84€ from pot
+*** SUMMARY ***
+Total pot 1.84€ | Rake 0.01€
+Board: [3s 5s 8h 4d]
+Seat 4: BaliG (button) won 1.84€
+
+
+Winamax Poker - CashGame - HandId: #11801147-361-1538421836 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:23:56 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.12€)
+Seat 2: MayamaX45 (0.90€)
+Seat 3: paul bzh (2.46€)
+Seat 4: BaliG (1.84€)
+Seat 5: MED JA (3.68€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+MayamaX45 posts big blind 0.02€
+Dealt to paul bzh [Kh 7c]
+*** PRE-FLOP *** 
+paul bzh folds
+BaliG raises 0.02€ to 0.04€
+MED JA calls 0.04€
+MoJiTolaWin folds
+MayamaX45 folds
+*** FLOP *** [2d Ks 7s]
+BaliG checks
+MED JA checks
+*** TURN *** [2d Ks 7s][Js]
+BaliG bets 0.02€
+MED JA calls 0.02€
+*** RIVER *** [2d Ks 7s Js][9c]
+BaliG bets 0.10€
+MED JA folds
+BaliG collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [2d Ks 7s Js 9c]
+Seat 4: BaliG won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #11801147-362-1538421895 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:24:55 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.88€)
+Seat 3: paul bzh (2.46€)
+Seat 4: BaliG (1.92€)
+Seat 5: MED JA (3.62€)
+*** ANTE/BLINDS ***
+MayamaX45 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [8d Jh]
+*** PRE-FLOP *** 
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh folds
+MED JA collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: MED JA won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11801147-363-1538421920 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:25:20 UTC
+Table: 'Nice 35' 5-max (real money) Seat #2 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.87€)
+Seat 3: paul bzh (2.44€)
+Seat 4: BaliG (1.92€)
+Seat 5: MED JA (3.65€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BaliG posts big blind 0.02€
+Dealt to paul bzh [8s 9d]
+*** PRE-FLOP *** 
+MED JA folds
+MoJiTolaWin folds
+MayamaX45 raises 0.02€ to 0.04€
+paul bzh calls 0.03€
+BaliG raises 0.08€ to 0.12€
+MayamaX45 calls 0.08€
+paul bzh folds
+*** FLOP *** [Qd Kh 7h]
+BaliG bets 0.08€
+MayamaX45 folds
+BaliG collected 0.34€ from pot
+*** SUMMARY ***
+Total pot 0.34€ | Rake 0.02€
+Board: [Qd Kh 7h]
+Seat 4: BaliG (big blind) won 0.34€
+
+
+Winamax Poker - CashGame - HandId: #11801147-364-1538421993 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:26:33 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.75€)
+Seat 3: paul bzh (2.40€)
+Seat 4: BaliG (2.06€)
+Seat 5: MED JA (3.65€)
+*** ANTE/BLINDS ***
+BaliG posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [Kc Th]
+*** PRE-FLOP *** 
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh raises 0.04€ to 0.06€
+BaliG folds
+MED JA folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11801147-365-1538422011 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:26:51 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2.11€)
+Seat 2: MayamaX45 (0.75€)
+Seat 3: paul bzh (2.43€)
+Seat 4: BaliG (2.05€)
+Seat 5: MED JA (3.63€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+Dealt to paul bzh [Kd Ac]
+*** PRE-FLOP *** 
+MayamaX45 folds
+paul bzh raises 0.05€ to 0.07€
+BaliG folds
+MED JA folds
+MoJiTolaWin calls 0.05€
+*** FLOP *** [Qc Qh Jc]
+MoJiTolaWin bets 0.07€
+paul bzh calls 0.07€
+*** TURN *** [Qc Qh Jc][Jh]
+MoJiTolaWin checks
+paul bzh checks
+*** RIVER *** [Qc Qh Jc Jh][2d]
+MoJiTolaWin bets 0.14€
+paul bzh calls 0.14€
+*** SHOW DOWN ***
+MoJiTolaWin shows [3c 4c] (Two pairs : Queens and Jacks)
+paul bzh shows [Kd Ac] (Two pairs : Queens and Jacks)
+paul bzh collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.03€
+Board: [Qc Qh Jc Jh 2d]
+Seat 1: MoJiTolaWin (big blind) showed [3c 4c] and lost with Two pairs : Queens and Jacks
+Seat 3: paul bzh showed [Kd Ac] and won 0.54€ with Two pairs : Queens and Jacks
+
+
+Winamax Poker - CashGame - HandId: #11801147-366-1538422065 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:27:45 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2€)
+Seat 2: MayamaX45 (0.75€)
+Seat 3: paul bzh (2.69€)
+Seat 4: BaliG (2.05€)
+Seat 5: MED JA (3.62€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+MayamaX45 posts big blind 0.02€
+Dealt to paul bzh [6d Th]
+*** PRE-FLOP *** 
+paul bzh folds
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+MED JA collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: MED JA (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11801147-367-1538422079 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:27:59 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2€)
+Seat 2: MayamaX45 (0.73€)
+Seat 3: paul bzh (2.69€)
+Seat 4: BaliG (2.05€)
+Seat 5: MED JA (3.65€)
+*** ANTE/BLINDS ***
+MayamaX45 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Ks Ac]
+*** PRE-FLOP *** 
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh calls 0.04€
+*** FLOP *** [5d 2s 5s]
+paul bzh bets 0.07€
+MED JA folds
+paul bzh collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [5d 2s 5s]
+Seat 3: paul bzh (big blind) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #11801147-368-1538422101 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:28:21 UTC
+Table: 'Nice 35' 5-max (real money) Seat #2 is the button
+Seat 1: MoJiTolaWin (2€)
+Seat 2: MayamaX45 (0.72€)
+Seat 3: paul bzh (2.75€)
+Seat 4: BaliG (2.05€)
+Seat 5: MED JA (3.59€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+BaliG posts big blind 0.02€
+Dealt to paul bzh [9c 3s]
+*** PRE-FLOP *** 
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin calls 0.06€
+MayamaX45 folds
+paul bzh folds
+BaliG calls 0.04€
+*** FLOP *** [5c Td 4c]
+BaliG bets 0.02€
+MED JA calls 0.02€
+MoJiTolaWin calls 0.02€
+*** TURN *** [5c Td 4c][9s]
+BaliG checks
+MED JA checks
+MoJiTolaWin bets 0.07€
+BaliG calls 0.07€
+MED JA folds
+*** RIVER *** [5c Td 4c 9s][Qh]
+BaliG checks
+MoJiTolaWin checks
+*** SHOW DOWN ***
+BaliG shows [Kh 4h] (One pair : 4)
+MoJiTolaWin shows [7d 7c] (One pair : 7)
+MoJiTolaWin collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.02€
+Board: [5c Td 4c 9s Qh]
+Seat 1: MoJiTolaWin showed [7d 7c] and won 0.37€ with One pair : 7
+Seat 4: BaliG (big blind) showed [Kh 4h] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #11801147-369-1538422157 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:29:17 UTC
+Table: 'Nice 35' 5-max (real money) Seat #3 is the button
+Seat 1: MoJiTolaWin (2.22€)
+Seat 2: MayamaX45 (0.72€)
+Seat 3: paul bzh (2.74€)
+Seat 4: BaliG (1.90€)
+Seat 5: MED JA (3.51€)
+*** ANTE/BLINDS ***
+BaliG posts small blind 0.01€
+MED JA posts big blind 0.02€
+Dealt to paul bzh [9h 6d]
+*** PRE-FLOP *** 
+MoJiTolaWin folds
+MayamaX45 raises 0.04€ to 0.06€
+paul bzh calls 0.06€
+BaliG folds
+MED JA folds
+*** FLOP *** [4s 2s 7d]
+MayamaX45 bets 0.08€
+paul bzh raises 0.12€ to 0.20€
+MayamaX45 raises 0.46€ to 0.66€ and is all-in
+paul bzh calls 0.46€
+*** TURN *** [4s 2s 7d][3h]
+*** RIVER *** [4s 2s 7d 3h][Qs]
+*** SHOW DOWN ***
+paul bzh shows [9h 6d] (High card : Queen)
+MayamaX45 shows [Tc Th] (One pair : Tens)
+MayamaX45 collected 1.39€ from pot
+*** SUMMARY ***
+Total pot 1.39€ | Rake 0.08€
+Board: [4s 2s 7d 3h Qs]
+Seat 2: MayamaX45 showed [Tc Th] and won 1.39€ with One pair : Tens
+Seat 3: paul bzh (button) showed [9h 6d] and lost with High card : Queen
+
+
+Winamax Poker - CashGame - HandId: #11801147-370-1538422213 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:30:13 UTC
+Table: 'Nice 35' 5-max (real money) Seat #4 is the button
+Seat 1: MoJiTolaWin (2.22€)
+Seat 2: MayamaX45 (1.39€)
+Seat 3: paul bzh (2.02€)
+Seat 4: BaliG (1.89€)
+Seat 5: MED JA (3.49€)
+*** ANTE/BLINDS ***
+MED JA posts small blind 0.01€
+MoJiTolaWin posts big blind 0.02€
+Dealt to paul bzh [2d Tc]
+*** PRE-FLOP *** 
+MayamaX45 folds
+paul bzh folds
+BaliG raises 0.02€ to 0.04€
+MED JA folds
+MoJiTolaWin folds
+BaliG collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 4: BaliG (button) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11801147-371-1538422229 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:30:29 UTC
+Table: 'Nice 35' 5-max (real money) Seat #5 is the button
+Seat 1: MoJiTolaWin (2.20€)
+Seat 2: MayamaX45 (1.39€)
+Seat 3: paul bzh (2.02€)
+Seat 4: BaliG (1.92€)
+Seat 5: MED JA (3.48€)
+*** ANTE/BLINDS ***
+MoJiTolaWin posts small blind 0.01€
+MayamaX45 posts big blind 0.02€
+Dealt to paul bzh [Ah Th]
+*** PRE-FLOP *** 
+paul bzh raises 0.06€ to 0.08€
+BaliG folds
+MED JA folds
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Seat 3: paul bzh won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #11801147-372-1538422245 - Holdem no limit (0.01€/0.02€) - 2018/10/01 19:30:45 UTC
+Table: 'Nice 35' 5-max (real money) Seat #1 is the button
+Seat 1: MoJiTolaWin (2.19€)
+Seat 2: MayamaX45 (1.37€)
+Seat 3: paul bzh (2.05€)
+Seat 4: BaliG (1.92€)
+Seat 5: MED JA (3.48€)
+*** ANTE/BLINDS ***
+MayamaX45 posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2h 8d]
+*** PRE-FLOP *** 
+BaliG folds
+MED JA raises 0.04€ to 0.06€
+MoJiTolaWin folds
+MayamaX45 folds
+paul bzh folds
+MED JA collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: MED JA won 0.09€
+
+

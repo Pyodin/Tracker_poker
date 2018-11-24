@@ -1,0 +1,346 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #1077249927517569025-1-1538249404 - Holdem no limit (3/10/20) - 2018/09/29 19:30:04 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MissChina (500)
+Seat 2: Akrapovitch (500)
+Seat 3: LAVERIE (500)
+Seat 4: mAAn-on-fire (500)
+Seat 5: edenzoe (500)
+Seat 6: EasyDew (500)
+Seat 7: paul bzh (500)
+Seat 8: Alprono (500)
+Seat 9: schun51 (500)
+Seat 10: -kratos- (500)
+*** ANTE/BLINDS ***
+paul bzh posts ante 3
+Alprono posts ante 3
+MissChina posts ante 3
+Akrapovitch posts ante 3
+LAVERIE posts ante 3
+mAAn-on-fire posts ante 3
+edenzoe posts ante 3
+EasyDew posts ante 3
+schun51 posts ante 3
+-kratos- posts ante 3
+paul bzh posts small blind 10
+Alprono posts big blind 20
+Dealt to paul bzh [8h Qc]
+*** PRE-FLOP *** 
+schun51 folds
+-kratos- raises 477 to 497 and is all-in
+MissChina folds
+Akrapovitch folds
+LAVERIE folds
+mAAn-on-fire calls 497 and is all-in
+edenzoe calls 497 and is all-in
+EasyDew folds
+paul bzh folds
+Alprono folds
+*** FLOP *** [5h Jh 9c]
+*** TURN *** [5h Jh 9c][7d]
+*** RIVER *** [5h Jh 9c 7d][3d]
+*** SHOW DOWN ***
+edenzoe shows [Ts Ah] (High card : Ace)
+-kratos- shows [Ac Qs] (High card : Ace)
+mAAn-on-fire shows [9s Qd] (One pair : 9)
+mAAn-on-fire collected 1551 from pot
+*** SUMMARY ***
+Total pot 1551 | No rake
+Board: [5h Jh 9c 7d 3d]
+Seat 4: mAAn-on-fire showed [9s Qd] and won 1551 with One pair : 9
+Seat 5: edenzoe showed [Ts Ah] and lost with High card : Ace
+Seat 10: -kratos- showed [Ac Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #1077249927517569025-2-1538249439 - Holdem no limit (3/10/20) - 2018/09/29 19:30:39 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MissChina (497)
+Seat 2: Akrapovitch (497)
+Seat 3: LAVERIE (497)
+Seat 4: mAAn-on-fire (1551)
+Seat 6: EasyDew (497)
+Seat 7: paul bzh (487)
+Seat 8: Alprono (477)
+Seat 9: schun51 (497)
+*** ANTE/BLINDS ***
+Alprono posts ante 3
+schun51 posts ante 3
+MissChina posts ante 3
+Akrapovitch posts ante 3
+LAVERIE posts ante 3
+mAAn-on-fire posts ante 3
+EasyDew posts ante 3
+paul bzh posts ante 3
+Alprono posts small blind 10
+schun51 posts big blind 20
+Dealt to paul bzh [9h 8d]
+*** PRE-FLOP *** 
+MissChina folds
+Akrapovitch calls 20
+LAVERIE calls 20
+mAAn-on-fire raises 1528 to 1548 and is all-in
+EasyDew calls 494 and is all-in
+paul bzh folds
+Alprono folds
+schun51 folds
+Akrapovitch folds
+LAVERIE folds
+*** FLOP *** [Th 3h 9c]
+*** TURN *** [Th 3h 9c][7s]
+*** RIVER *** [Th 3h 9c 7s][Td]
+*** SHOW DOWN ***
+mAAn-on-fire shows [4d 4h] (Two pairs : Tens and 4)
+EasyDew shows [7d Qd] (Two pairs : Tens and 7)
+EasyDew collected 1082 from main pot
+mAAn-on-fire collected 1054 from side pot 1
+*** SUMMARY ***
+Total pot 2136 | No rake
+Board: [Th 3h 9c 7s Td]
+Seat 4: mAAn-on-fire showed [4d 4h] and won 1054 with Two pairs : Tens and 4
+Seat 6: EasyDew showed [7d Qd] and won 1082 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #1077249927517569025-3-1538249494 - Holdem no limit (3/10/20) - 2018/09/29 19:31:34 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MissChina (494)
+Seat 2: Akrapovitch (474)
+Seat 3: LAVERIE (474)
+Seat 4: mAAn-on-fire (1054)
+Seat 6: EasyDew (1082)
+Seat 7: paul bzh (484)
+Seat 8: Alprono (464)
+Seat 9: schun51 (474)
+*** ANTE/BLINDS ***
+schun51 posts ante 3
+MissChina posts ante 3
+Akrapovitch posts ante 3
+LAVERIE posts ante 3
+mAAn-on-fire posts ante 3
+EasyDew posts ante 3
+paul bzh posts ante 3
+Alprono posts ante 3
+schun51 posts small blind 10
+MissChina posts big blind 20
+Dealt to paul bzh [Ks 6s]
+*** PRE-FLOP *** 
+Akrapovitch folds
+LAVERIE calls 20
+mAAn-on-fire raises 1031 to 1051 and is all-in
+EasyDew raises 28 to 1079 and is all-in
+paul bzh folds
+Alprono folds
+schun51 folds
+MissChina folds
+LAVERIE folds
+*** FLOP *** [6h 9h 2c]
+*** TURN *** [6h 9h 2c][4d]
+*** RIVER *** [6h 9h 2c 4d][Qh]
+*** SHOW DOWN ***
+mAAn-on-fire shows [Tc Kc] (High card : King)
+EasyDew shows [8d Ah] (High card : Ace)
+EasyDew collected 2204 from pot
+*** SUMMARY ***
+Total pot 2204 | No rake
+Board: [6h 9h 2c 4d Qh]
+Seat 4: mAAn-on-fire showed [Tc Kc] and lost with High card : King
+Seat 6: EasyDew showed [8d Ah] and won 2204 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #1077249927517569025-4-1538249539 - Holdem no limit (3/10/20) - 2018/09/29 19:32:19 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MissChina (471)
+Seat 2: Akrapovitch (471)
+Seat 3: LAVERIE (451)
+Seat 6: EasyDew (2204)
+Seat 7: paul bzh (481)
+Seat 8: Alprono (461)
+Seat 9: schun51 (461)
+*** ANTE/BLINDS ***
+MissChina posts ante 3
+Akrapovitch posts ante 3
+LAVERIE posts ante 3
+EasyDew posts ante 3
+paul bzh posts ante 3
+Alprono posts ante 3
+schun51 posts ante 3
+MissChina posts small blind 10
+Akrapovitch posts big blind 20
+Dealt to paul bzh [As 5d]
+*** PRE-FLOP *** 
+LAVERIE calls 20
+EasyDew folds
+paul bzh calls 20
+Alprono raises 20 to 40
+schun51 raises 418 to 458 and is all-in
+MissChina raises 10 to 468 and is all-in
+Akrapovitch folds
+LAVERIE folds
+paul bzh folds
+Alprono calls 418 and is all-in
+*** FLOP *** [2d 2h Ks]
+*** TURN *** [2d 2h Ks][8d]
+*** RIVER *** [2d 2h Ks 8d][Qh]
+*** SHOW DOWN ***
+schun51 shows [Ah 8h] (Two pairs : 8 and 2)
+MissChina shows [Kc Th] (Two pairs : Kings and 2)
+Alprono shows [Kh 5s] (Two pairs : Kings and 2)
+Alprono collected 728 from main pot
+MissChina collected 737 from side pot 1
+*** SUMMARY ***
+Total pot 1465 | No rake
+Board: [2d 2h Ks 8d Qh]
+Seat 1: MissChina (small blind) showed [Kc Th] and won 737 with Two pairs : Kings and 2
+Seat 8: Alprono showed [Kh 5s] and won 728 with Two pairs : Kings and 2
+Seat 9: schun51 (button) showed [Ah 8h] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #1077249927517569025-5-1538249584 - Holdem no limit (4/15/30) - 2018/09/29 19:33:04 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MissChina (737)
+Seat 2: Akrapovitch (448)
+Seat 3: LAVERIE (428)
+Seat 6: EasyDew (2201)
+Seat 7: paul bzh (458)
+Seat 8: Alprono (728)
+*** ANTE/BLINDS ***
+Akrapovitch posts ante 4
+LAVERIE posts ante 4
+MissChina posts ante 4
+EasyDew posts ante 4
+paul bzh posts ante 4
+Alprono posts ante 4
+Akrapovitch posts small blind 15
+LAVERIE posts big blind 30
+Dealt to paul bzh [2h 8c]
+*** PRE-FLOP *** 
+EasyDew folds
+paul bzh folds
+Alprono calls 30
+MissChina calls 30
+Akrapovitch raises 414 to 444 and is all-in
+LAVERIE calls 394 and is all-in
+Alprono raises 280 to 724 and is all-in
+MissChina folds
+*** FLOP *** [6d 2s 7c]
+*** TURN *** [6d 2s 7c][Kh]
+*** RIVER *** [6d 2s 7c Kh][8d]
+*** SHOW DOWN ***
+Akrapovitch shows [Qs Ac] (High card : Ace)
+LAVERIE shows [9c 5s] (Straight 9 high)
+Alprono shows [Jh 3c] (High card : King)
+Alprono collected 280 from side pot 2
+LAVERIE collected 1326 from main pot
+Akrapovitch collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 1646 | No rake
+Board: [6d 2s 7c Kh 8d]
+Seat 2: Akrapovitch (small blind) showed [Qs Ac] and won 40 with High card : Ace
+Seat 3: LAVERIE (big blind) showed [9c 5s] and won 1326 with Straight 9 high
+Seat 8: Alprono showed [Jh 3c] and won 280 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #1077249927517569025-6-1538249611 - Holdem no limit (4/15/30) - 2018/09/29 19:33:31 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #2 is the button
+Seat 1: MissChina (703)
+Seat 2: Akrapovitch (40)
+Seat 3: LAVERIE (1326)
+Seat 6: EasyDew (2197)
+Seat 7: paul bzh (454)
+Seat 8: Alprono (280)
+*** ANTE/BLINDS ***
+LAVERIE posts ante 4
+EasyDew posts ante 4
+MissChina posts ante 4
+Akrapovitch posts ante 4
+paul bzh posts ante 4
+Alprono posts ante 4
+LAVERIE posts small blind 15
+EasyDew posts big blind 30
+Dealt to paul bzh [Qc 5c]
+*** PRE-FLOP *** 
+paul bzh folds
+Alprono raises 246 to 276 and is all-in
+MissChina folds
+Akrapovitch folds
+LAVERIE folds
+EasyDew folds
+Alprono collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 8: Alprono won 345
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #1077249927517569025-7-1538249639 - Holdem no limit (4/15/30) - 2018/09/29 19:33:59 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MissChina (699)
+Seat 2: Akrapovitch (36)
+Seat 3: LAVERIE (1307)
+Seat 6: EasyDew (2163)
+Seat 7: paul bzh (450)
+Seat 8: Alprono (345)
+*** ANTE/BLINDS ***
+EasyDew posts ante 4
+paul bzh posts ante 4
+MissChina posts ante 4
+Akrapovitch posts ante 4
+LAVERIE posts ante 4
+Alprono posts ante 4
+EasyDew posts small blind 15
+paul bzh posts big blind 30
+Dealt to paul bzh [Js 7c]
+*** PRE-FLOP *** 
+Alprono raises 311 to 341 and is all-in
+MissChina folds
+Akrapovitch folds
+LAVERIE folds
+EasyDew raises 1818 to 2159 and is all-in
+paul bzh folds
+*** FLOP *** [3h 4s 2d]
+*** TURN *** [3h 4s 2d][8h]
+*** RIVER *** [3h 4s 2d 8h][7d]
+*** SHOW DOWN ***
+Alprono shows [6c Ah] (High card : Ace)
+EasyDew shows [Ks 4c] (One pair : 4)
+EasyDew collected 2554 from pot
+*** SUMMARY ***
+Total pot 2554 | No rake
+Board: [3h 4s 2d 8h 7d]
+Seat 6: EasyDew (small blind) showed [Ks 4c] and won 2554 with One pair : 4
+Seat 8: Alprono showed [6c Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #1077249927517569025-8-1538249719 - Holdem no limit (4/15/30) - 2018/09/29 19:35:19 UTC
+Table: 'Starting Block WiPT - Déglingos !(250816794)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MissChina (695)
+Seat 2: Akrapovitch (32)
+Seat 3: LAVERIE (1303)
+Seat 6: EasyDew (2554)
+Seat 7: paul bzh (416)
+*** ANTE/BLINDS ***
+paul bzh posts ante 4
+MissChina posts ante 4
+Akrapovitch posts ante 4
+LAVERIE posts ante 4
+EasyDew posts ante 4
+paul bzh posts small blind 15
+MissChina posts big blind 30
+Dealt to paul bzh [As 5d]
+*** PRE-FLOP *** 
+Akrapovitch folds
+LAVERIE folds
+EasyDew folds
+paul bzh raises 382 to 412 and is all-in
+MissChina calls 382
+*** FLOP *** [2d 8d 8c]
+*** TURN *** [2d 8d 8c][Ah]
+*** RIVER *** [2d 8d 8c Ah][4c]
+*** SHOW DOWN ***
+paul bzh shows [As 5d] (Two pairs : Aces and 8)
+MissChina shows [8s Ac] (Full of 8 and Aces)
+MissChina collected 844 from pot
+*** SUMMARY ***
+Total pot 844 | No rake
+Board: [2d 8d 8c Ah 4c]
+Seat 1: MissChina (big blind) showed [8s Ac] and won 844 with Full of 8 and Aces
+Seat 7: paul bzh (small blind) showed [As 5d] and lost with Two pairs : Aces and 8
+
+

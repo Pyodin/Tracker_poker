@@ -1,0 +1,3113 @@
+﻿Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1067326371220422705-8-1537727923 - Holdem no limit (15/75/150) - 2018/09/23 18:38:43 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #5 is the button
+Seat 1: PhilM66 (11235)
+Seat 2: paul bzh (10000)
+Seat 3: El Tamos (8400)
+Seat 4: aledream7 (3620)
+Seat 5: DonBeny (9300)
+Seat 6: Just_Watch (17520)
+*** ANTE/BLINDS ***
+Just_Watch posts ante 15
+PhilM66 posts ante 15
+paul bzh posts ante 15
+El Tamos posts ante 15
+aledream7 posts ante 15
+DonBeny posts ante 15
+Just_Watch posts small blind 75
+PhilM66 posts big blind 150
+Dealt to paul bzh [Kd Jd]
+*** PRE-FLOP *** 
+paul bzh calls 150
+El Tamos folds
+aledream7 folds
+DonBeny raises 450 to 600
+Just_Watch folds
+PhilM66 folds
+paul bzh calls 450
+*** FLOP *** [Kc Th 2c]
+paul bzh checks
+DonBeny bets 375
+paul bzh calls 375
+*** TURN *** [Kc Th 2c][5h]
+paul bzh checks
+DonBeny bets 675
+paul bzh calls 675
+*** RIVER *** [Kc Th 2c 5h][5d]
+paul bzh bets 1050
+DonBeny folds
+paul bzh collected 4665 from pot
+*** SUMMARY ***
+Total pot 4665 | No rake
+Board: [Kc Th 2c 5h 5d]
+Seat 2: paul bzh won 4665
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1067326371220422705-9-1537728031 - Holdem no limit (15/75/150) - 2018/09/23 18:40:31 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #6 is the button
+Seat 1: PhilM66 (11070)
+Seat 2: paul bzh (11950)
+Seat 3: El Tamos (8385)
+Seat 4: aledream7 (3605)
+Seat 5: DonBeny (7635)
+Seat 6: Just_Watch (17430)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 15
+paul bzh posts ante 15
+El Tamos posts ante 15
+aledream7 posts ante 15
+DonBeny posts ante 15
+Just_Watch posts ante 15
+PhilM66 posts small blind 75
+paul bzh posts big blind 150
+Dealt to paul bzh [Jd Ks]
+*** PRE-FLOP *** 
+El Tamos folds
+aledream7 folds
+DonBeny raises 225 to 375
+Just_Watch folds
+PhilM66 folds
+paul bzh calls 225
+*** FLOP *** [9c 4s 8h]
+paul bzh checks
+DonBeny checks
+*** TURN *** [9c 4s 8h][7h]
+paul bzh bets 525
+DonBeny calls 525
+*** RIVER *** [9c 4s 8h 7h][6h]
+paul bzh checks
+DonBeny checks
+*** SHOW DOWN ***
+paul bzh shows [Jd Ks] (High card : King)
+DonBeny shows [Ad Ah] (One pair : Aces)
+DonBeny collected 1965 from pot
+*** SUMMARY ***
+Total pot 1965 | No rake
+Board: [9c 4s 8h 7h 6h]
+Seat 2: paul bzh (big blind) showed [Jd Ks] and lost with High card : King
+Seat 5: DonBeny showed [Ad Ah] and won 1965 with One pair : Aces
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #1067326371220422705-10-1537728086 - Holdem no limit (15/75/150) - 2018/09/23 18:41:26 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #1 is the button
+Seat 1: PhilM66 (10980)
+Seat 2: paul bzh (11035)
+Seat 3: El Tamos (8370)
+Seat 4: Mathilde2006 (10000)
+Seat 5: DonBeny (8685)
+Seat 6: Just_Watch (17415)
+*** ANTE/BLINDS ***
+paul bzh posts ante 15
+El Tamos posts ante 15
+PhilM66 posts ante 15
+Mathilde2006 posts ante 15
+DonBeny posts ante 15
+Just_Watch posts ante 15
+paul bzh posts small blind 75
+El Tamos posts big blind 150
+Dealt to paul bzh [4s Ah]
+*** PRE-FLOP *** 
+Mathilde2006 folds
+DonBeny folds
+Just_Watch raises 225 to 375
+PhilM66 folds
+paul bzh calls 300
+El Tamos folds
+*** FLOP *** [3h Jd Jh]
+paul bzh checks
+Just_Watch bets 396
+paul bzh folds
+Just_Watch collected 1386 from pot
+*** SUMMARY ***
+Total pot 1386 | No rake
+Board: [3h Jd Jh]
+Seat 6: Just_Watch won 1386
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1067326371220422705-11-1537728123 - Holdem no limit (20/100/200) - 2018/09/23 18:42:03 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #2 is the button
+Seat 1: PhilM66 (10965)
+Seat 2: paul bzh (10645)
+Seat 3: El Tamos (8205)
+Seat 4: Mathilde2006 (9985)
+Seat 5: DonBeny (8670)
+Seat 6: Just_Watch (18015)
+*** ANTE/BLINDS ***
+El Tamos posts ante 20
+Mathilde2006 posts ante 20
+PhilM66 posts ante 20
+paul bzh posts ante 20
+DonBeny posts ante 20
+Just_Watch posts ante 20
+El Tamos posts small blind 100
+Mathilde2006 posts big blind 200
+Dealt to paul bzh [Ah 6d]
+*** PRE-FLOP *** 
+DonBeny folds
+Just_Watch raises 234 to 434
+PhilM66 calls 434
+paul bzh folds
+El Tamos folds
+Mathilde2006 folds
+*** FLOP *** [2s 9h 3c]
+Just_Watch bets 515
+PhilM66 calls 515
+*** TURN *** [2s 9h 3c][Ts]
+Just_Watch bets 1159
+PhilM66 calls 1159
+*** RIVER *** [2s 9h 3c Ts][Th]
+Just_Watch bets 2318
+PhilM66 calls 2318
+*** SHOW DOWN ***
+PhilM66 shows [3s As] (Two pairs : Tens and 3)
+Just_Watch shows [9d 9c] (Full of 9 and Tens)
+Just_Watch collected 9272 from pot
+*** SUMMARY ***
+Total pot 9272 | No rake
+Board: [2s 9h 3c Ts Th]
+Seat 1: PhilM66 showed [3s As] and lost with Two pairs : Tens and 3
+Seat 6: Just_Watch showed [9d 9c] and won 9272 with Full of 9 and Tens
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1067326371220422705-12-1537728237 - Holdem no limit (20/100/200) - 2018/09/23 18:43:57 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #3 is the button
+Seat 1: PhilM66 (6519)
+Seat 2: paul bzh (10625)
+Seat 3: El Tamos (8085)
+Seat 4: Mathilde2006 (9765)
+Seat 5: DonBeny (8650)
+Seat 6: Just_Watch (22841)
+*** ANTE/BLINDS ***
+Mathilde2006 posts ante 20
+DonBeny posts ante 20
+PhilM66 posts ante 20
+paul bzh posts ante 20
+El Tamos posts ante 20
+Just_Watch posts ante 20
+Mathilde2006 posts small blind 100
+DonBeny posts big blind 200
+Dealt to paul bzh [5s 2c]
+*** PRE-FLOP *** 
+Just_Watch raises 234 to 434
+PhilM66 calls 434
+paul bzh folds
+El Tamos calls 434
+Mathilde2006 folds
+DonBeny calls 234
+*** FLOP *** [Qh Ah 6c]
+DonBeny checks
+Just_Watch bets 782
+PhilM66 folds
+El Tamos folds
+DonBeny calls 782
+*** TURN *** [Qh Ah 6c][5h]
+DonBeny checks
+Just_Watch checks
+*** RIVER *** [Qh Ah 6c 5h][Js]
+DonBeny bets 7414 and is all-in
+Just_Watch folds
+DonBeny collected 10934 from pot
+*** SUMMARY ***
+Total pot 10934 | No rake
+Board: [Qh Ah 6c 5h Js]
+Seat 5: DonBeny (big blind) won 10934
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1067326371220422705-13-1537728327 - Holdem no limit (20/100/200) - 2018/09/23 18:45:27 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #4 is the button
+Seat 1: PhilM66 (6065)
+Seat 2: paul bzh (10605)
+Seat 3: El Tamos (7631)
+Seat 4: Mathilde2006 (9645)
+Seat 5: DonBeny (10934)
+Seat 6: Just_Watch (21605)
+*** ANTE/BLINDS ***
+DonBeny posts ante 20
+Just_Watch posts ante 20
+PhilM66 posts ante 20
+paul bzh posts ante 20
+El Tamos posts ante 20
+Mathilde2006 posts ante 20
+DonBeny posts small blind 100
+Just_Watch posts big blind 200
+Dealt to paul bzh [Kh 7s]
+*** PRE-FLOP *** 
+PhilM66 folds
+paul bzh folds
+El Tamos raises 340 to 540
+Mathilde2006 folds
+DonBeny calls 440
+Just_Watch folds
+*** FLOP *** [Td 7h Th]
+DonBeny checks
+El Tamos bets 560
+DonBeny folds
+El Tamos collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [Td 7h Th]
+Seat 3: El Tamos won 1960
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1067326371220422705-14-1537728368 - Holdem no limit (20/100/200) - 2018/09/23 18:46:08 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #5 is the button
+Seat 1: PhilM66 (6045)
+Seat 2: paul bzh (10585)
+Seat 3: El Tamos (8471)
+Seat 4: Mathilde2006 (9625)
+Seat 5: DonBeny (10374)
+Seat 6: Just_Watch (21385)
+*** ANTE/BLINDS ***
+Just_Watch posts ante 20
+PhilM66 posts ante 20
+paul bzh posts ante 20
+El Tamos posts ante 20
+Mathilde2006 posts ante 20
+DonBeny posts ante 20
+Just_Watch posts small blind 100
+PhilM66 posts big blind 200
+Dealt to paul bzh [Ac 7d]
+*** PRE-FLOP *** 
+paul bzh calls 200
+El Tamos folds
+Mathilde2006 folds
+DonBeny calls 200
+Just_Watch calls 100
+PhilM66 checks
+*** FLOP *** [3d Qc Jc]
+Just_Watch checks
+PhilM66 checks
+paul bzh bets 300
+DonBeny calls 300
+Just_Watch folds
+PhilM66 folds
+*** TURN *** [3d Qc Jc][3h]
+paul bzh checks
+DonBeny checks
+*** RIVER *** [3d Qc Jc 3h][8h]
+paul bzh bets 400
+DonBeny raises 500 to 900
+paul bzh folds
+DonBeny collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [3d Qc Jc 3h 8h]
+Seat 5: DonBeny (button) won 2820
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1067326371220422705-15-1537728454 - Holdem no limit (20/100/200) - 2018/09/23 18:47:34 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #6 is the button
+Seat 1: PhilM66 (5825)
+Seat 2: paul bzh (9665)
+Seat 3: El Tamos (8451)
+Seat 4: Mathilde2006 (9605)
+Seat 5: DonBeny (11774)
+Seat 6: Just_Watch (21165)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 20
+paul bzh posts ante 20
+El Tamos posts ante 20
+Mathilde2006 posts ante 20
+DonBeny posts ante 20
+Just_Watch posts ante 20
+PhilM66 posts small blind 100
+paul bzh posts big blind 200
+Dealt to paul bzh [Jd 6c]
+*** PRE-FLOP *** 
+El Tamos folds
+Mathilde2006 folds
+DonBeny raises 200 to 400
+Just_Watch folds
+PhilM66 calls 300
+paul bzh calls 200
+*** FLOP *** [5h 7s 7h]
+PhilM66 checks
+paul bzh checks
+DonBeny bets 500
+PhilM66 folds
+paul bzh calls 500
+*** TURN *** [5h 7s 7h][7d]
+paul bzh bets 1000
+DonBeny folds
+paul bzh collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [5h 7s 7h 7d]
+Seat 2: paul bzh (big blind) won 3320
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-16-1537728515 - Holdem no limit (30/125/250) - 2018/09/23 18:48:35 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #1 is the button
+Seat 1: PhilM66 (5405)
+Seat 2: paul bzh (11065)
+Seat 3: El Tamos (8431)
+Seat 4: Mathilde2006 (9585)
+Seat 5: DonBeny (10854)
+Seat 6: Just_Watch (21145)
+*** ANTE/BLINDS ***
+paul bzh posts ante 30
+El Tamos posts ante 30
+PhilM66 posts ante 30
+Mathilde2006 posts ante 30
+DonBeny posts ante 30
+Just_Watch posts ante 30
+paul bzh posts small blind 125
+El Tamos posts big blind 250
+Dealt to paul bzh [5s Js]
+*** PRE-FLOP *** 
+Mathilde2006 folds
+DonBeny calls 250
+Just_Watch folds
+PhilM66 calls 250
+paul bzh calls 125
+El Tamos checks
+*** FLOP *** [7s Qc Qd]
+paul bzh checks
+El Tamos checks
+DonBeny checks
+PhilM66 checks
+*** TURN *** [7s Qc Qd][6c]
+paul bzh bets 250
+El Tamos folds
+DonBeny calls 250
+PhilM66 calls 250
+*** RIVER *** [7s Qc Qd 6c][5h]
+paul bzh bets 500
+DonBeny calls 500
+PhilM66 calls 500
+*** SHOW DOWN ***
+PhilM66 shows [Kc 7c] (Two pairs : Queens and 7)
+paul bzh shows [5s Js] (Two pairs : Queens and 5)
+DonBeny shows [3s Qs] (Trips of Queens)
+DonBeny collected 3430 from pot
+*** SUMMARY ***
+Total pot 3430 | No rake
+Board: [7s Qc Qd 6c 5h]
+Seat 1: PhilM66 (button) showed [Kc 7c] and lost with Two pairs : Queens and 7
+Seat 2: paul bzh (small blind) showed [5s Js] and lost with Two pairs : Queens and 5
+Seat 5: DonBeny showed [3s Qs] and won 3430 with Trips of Queens
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-17-1537728661 - Holdem no limit (30/125/250) - 2018/09/23 18:51:01 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #2 is the button
+Seat 1: PhilM66 (4375)
+Seat 2: paul bzh (10035)
+Seat 3: El Tamos (8151)
+Seat 4: Mathilde2006 (9555)
+Seat 5: DonBeny (13254)
+Seat 6: Just_Watch (21115)
+*** ANTE/BLINDS ***
+El Tamos posts ante 30
+Mathilde2006 posts ante 30
+PhilM66 posts ante 30
+paul bzh posts ante 30
+DonBeny posts ante 30
+Just_Watch posts ante 30
+El Tamos posts small blind 125
+Mathilde2006 posts big blind 250
+Dealt to paul bzh [Ac 8d]
+*** PRE-FLOP *** 
+DonBeny calls 250
+Just_Watch folds
+PhilM66 folds
+paul bzh raises 250 to 500
+El Tamos folds
+Mathilde2006 calls 250
+DonBeny calls 250
+*** FLOP *** [Kc 7s 7c]
+Mathilde2006 checks
+DonBeny bets 500
+paul bzh folds
+Mathilde2006 folds
+DonBeny collected 2305 from pot
+*** SUMMARY ***
+Total pot 2305 | No rake
+Board: [Kc 7s 7c]
+Seat 5: DonBeny won 2305
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-18-1537728700 - Holdem no limit (30/125/250) - 2018/09/23 18:51:40 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #3 is the button
+Seat 1: PhilM66 (4345)
+Seat 2: paul bzh (9505)
+Seat 3: El Tamos (7996)
+Seat 4: Mathilde2006 (9025)
+Seat 5: DonBeny (14529)
+Seat 6: Just_Watch (21085)
+*** ANTE/BLINDS ***
+Mathilde2006 posts ante 30
+DonBeny posts ante 30
+PhilM66 posts ante 30
+paul bzh posts ante 30
+El Tamos posts ante 30
+Just_Watch posts ante 30
+Mathilde2006 posts small blind 125
+DonBeny posts big blind 250
+Dealt to paul bzh [8s Jh]
+*** PRE-FLOP *** 
+Just_Watch folds
+PhilM66 folds
+paul bzh folds
+El Tamos folds
+Mathilde2006 folds
+DonBeny collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 5: DonBeny (big blind) won 555
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-19-1537728731 - Holdem no limit (30/125/250) - 2018/09/23 18:52:11 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #4 is the button
+Seat 1: PhilM66 (4315)
+Seat 2: paul bzh (9475)
+Seat 3: El Tamos (7966)
+Seat 4: Mathilde2006 (8870)
+Seat 5: DonBeny (14804)
+Seat 6: Just_Watch (21055)
+*** ANTE/BLINDS ***
+DonBeny posts ante 30
+Just_Watch posts ante 30
+PhilM66 posts ante 30
+paul bzh posts ante 30
+El Tamos posts ante 30
+Mathilde2006 posts ante 30
+DonBeny posts small blind 125
+Just_Watch posts big blind 250
+Dealt to paul bzh [5d 3d]
+*** PRE-FLOP *** 
+PhilM66 folds
+paul bzh folds
+El Tamos folds
+Mathilde2006 raises 250 to 500
+DonBeny calls 375
+Just_Watch folds
+*** FLOP *** [9c 9d 6s]
+DonBeny bets 500
+Mathilde2006 raises 7840 to 8340 and is all-in
+DonBeny folds
+Mathilde2006 collected 10270 from pot
+*** SUMMARY ***
+Total pot 10270 | No rake
+Board: [9c 9d 6s]
+Seat 4: Mathilde2006 (button) won 10270
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-20-1537728769 - Holdem no limit (30/125/250) - 2018/09/23 18:52:49 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #5 is the button
+Seat 1: PhilM66 (4285)
+Seat 2: paul bzh (9445)
+Seat 3: El Tamos (7936)
+Seat 4: Mathilde2006 (10270)
+Seat 5: DonBeny (13774)
+Seat 6: Just_Watch (20775)
+*** ANTE/BLINDS ***
+Just_Watch posts ante 30
+PhilM66 posts ante 30
+paul bzh posts ante 30
+El Tamos posts ante 30
+Mathilde2006 posts ante 30
+DonBeny posts ante 30
+Just_Watch posts small blind 125
+PhilM66 posts big blind 250
+Dealt to paul bzh [Ts Ad]
+*** PRE-FLOP *** 
+paul bzh raises 250 to 500
+El Tamos folds
+Mathilde2006 folds
+DonBeny folds
+Just_Watch folds
+PhilM66 folds
+paul bzh collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Seat 2: paul bzh won 1055
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1067326371220422705-21-1537728790 - Holdem no limit (30/125/250) - 2018/09/23 18:53:10 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #6 is the button
+Seat 1: PhilM66 (4005)
+Seat 2: paul bzh (9970)
+Seat 3: El Tamos (7906)
+Seat 4: Mathilde2006 (10240)
+Seat 5: DonBeny (13744)
+Seat 6: Just_Watch (20620)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 30
+paul bzh posts ante 30
+El Tamos posts ante 30
+Mathilde2006 posts ante 30
+DonBeny posts ante 30
+Just_Watch posts ante 30
+PhilM66 posts small blind 125
+paul bzh posts big blind 250
+Dealt to paul bzh [4s 3s]
+*** PRE-FLOP *** 
+El Tamos folds
+Mathilde2006 raises 250 to 500
+DonBeny calls 500
+Just_Watch folds
+PhilM66 calls 375
+paul bzh calls 250
+*** FLOP *** [7h 4d 2h]
+PhilM66 checks
+paul bzh checks
+Mathilde2006 checks
+DonBeny checks
+*** TURN *** [7h 4d 2h][Jc]
+PhilM66 checks
+paul bzh checks
+Mathilde2006 checks
+DonBeny checks
+*** RIVER *** [7h 4d 2h Jc][8s]
+PhilM66 checks
+paul bzh bets 500
+Mathilde2006 folds
+DonBeny folds
+PhilM66 folds
+paul bzh collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | No rake
+Board: [7h 4d 2h Jc 8s]
+Seat 2: paul bzh (big blind) won 2680
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1067326371220422705-22-1537728876 - Holdem no limit (40/150/300) - 2018/09/23 18:54:36 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #1 is the button
+Seat 1: PhilM66 (3475)
+Seat 2: paul bzh (11620)
+Seat 3: El Tamos (7876)
+Seat 4: Mathilde2006 (9710)
+Seat 5: DonBeny (13214)
+Seat 6: Just_Watch (20590)
+*** ANTE/BLINDS ***
+paul bzh posts ante 40
+El Tamos posts ante 40
+PhilM66 posts ante 40
+Mathilde2006 posts ante 40
+DonBeny posts ante 40
+Just_Watch posts ante 40
+paul bzh posts small blind 150
+El Tamos posts big blind 300
+Dealt to paul bzh [Tc Jh]
+*** PRE-FLOP *** 
+Mathilde2006 folds
+DonBeny calls 300
+Just_Watch folds
+PhilM66 folds
+paul bzh calls 150
+El Tamos checks
+*** FLOP *** [Qd 9h Ts]
+paul bzh bets 600
+El Tamos folds
+DonBeny folds
+paul bzh collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [Qd 9h Ts]
+Seat 2: paul bzh (small blind) won 1740
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1067326371220422705-23-1537729263 - Holdem no limit (40/150/300) - 2018/09/23 19:01:03 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #2 is the button
+Seat 1: PhilM66 (3435)
+Seat 2: paul bzh (12420)
+Seat 3: El Tamos (7536)
+Seat 4: Mathilde2006 (9670)
+Seat 5: DonBeny (12874)
+Seat 6: Just_Watch (20550)
+*** ANTE/BLINDS ***
+El Tamos posts ante 40
+Mathilde2006 posts ante 40
+PhilM66 posts ante 40
+paul bzh posts ante 40
+DonBeny posts ante 40
+Just_Watch posts ante 40
+El Tamos posts small blind 150
+Mathilde2006 posts big blind 300
+Dealt to paul bzh [5c 6d]
+*** PRE-FLOP *** 
+DonBeny calls 300
+Just_Watch folds
+PhilM66 raises 3095 to 3395 and is all-in
+paul bzh folds
+El Tamos folds
+Mathilde2006 folds
+DonBeny calls 3095
+*** FLOP *** [9c 3c 6h]
+*** TURN *** [9c 3c 6h][9h]
+*** RIVER *** [9c 3c 6h 9h][Tc]
+*** SHOW DOWN ***
+DonBeny shows [Qh 7h] (One pair : 9)
+PhilM66 shows [Ks Th] (Two pairs : Tens and 9)
+PhilM66 collected 7480 from pot
+*** SUMMARY ***
+Total pot 7480 | No rake
+Board: [9c 3c 6h 9h Tc]
+Seat 1: PhilM66 showed [Ks Th] and won 7480 with Two pairs : Tens and 9
+Seat 5: DonBeny showed [Qh 7h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1067326371220422705-24-1537729318 - Holdem no limit (40/150/300) - 2018/09/23 19:01:58 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #3 is the button
+Seat 1: PhilM66 (7480)
+Seat 2: paul bzh (12380)
+Seat 3: El Tamos (7346)
+Seat 4: Mathilde2006 (9330)
+Seat 5: DonBeny (9439)
+Seat 6: Just_Watch (20510)
+*** ANTE/BLINDS ***
+Mathilde2006 posts ante 40
+DonBeny posts ante 40
+PhilM66 posts ante 40
+paul bzh posts ante 40
+El Tamos posts ante 40
+Just_Watch posts ante 40
+Mathilde2006 posts small blind 150
+DonBeny posts big blind 300
+Dealt to paul bzh [Qh 2c]
+*** PRE-FLOP *** 
+Just_Watch folds
+PhilM66 folds
+paul bzh folds
+El Tamos calls 300
+Mathilde2006 calls 150
+DonBeny checks
+*** FLOP *** [8s 3s 9d]
+Mathilde2006 checks
+DonBeny bets 750
+El Tamos calls 750
+Mathilde2006 folds
+*** TURN *** [8s 3s 9d][5d]
+DonBeny bets 450
+El Tamos calls 450
+*** RIVER *** [8s 3s 9d 5d][Jd]
+DonBeny bets 900
+El Tamos calls 900
+*** SHOW DOWN ***
+El Tamos shows [6h 8h] (One pair : 8)
+DonBeny shows [3d Js] (Two pairs : Jacks and 3)
+DonBeny collected 5340 from pot
+*** SUMMARY ***
+Total pot 5340 | No rake
+Board: [8s 3s 9d 5d Jd]
+Seat 3: El Tamos (button) showed [6h 8h] and lost with One pair : 8
+Seat 5: DonBeny (big blind) showed [3d Js] and won 5340 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1067326371220422705-25-1537729405 - Holdem no limit (40/150/300) - 2018/09/23 19:03:25 UTC
+Table: 'WANTED(248506286)#048' 6-max (real money) Seat #4 is the button
+Seat 1: PhilM66 (7440)
+Seat 2: paul bzh (12340)
+Seat 3: El Tamos (4906)
+Seat 4: Mathilde2006 (8990)
+Seat 5: DonBeny (12339)
+Seat 6: Just_Watch (20470)
+*** ANTE/BLINDS ***
+DonBeny posts ante 40
+Just_Watch posts ante 40
+PhilM66 posts ante 40
+paul bzh posts ante 40
+El Tamos posts ante 40
+Mathilde2006 posts ante 40
+DonBeny posts small blind 150
+Just_Watch posts big blind 300
+Dealt to paul bzh [6c Kh]
+*** PRE-FLOP *** 
+PhilM66 folds
+paul bzh folds
+El Tamos folds
+Mathilde2006 folds
+DonBeny calls 150
+Just_Watch checks
+*** FLOP *** [3s 7c Jd]
+DonBeny bets 550
+Just_Watch folds
+DonBeny collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Board: [3s 7c Jd]
+Seat 5: DonBeny (small blind) won 1390
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8138392 - HandId: #1067326371220422790-7-1537729522 - Holdem no limit (40/150/300) - 2018/09/23 19:05:22 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #4 is the button
+Seat 1: Fabien277 (11060)
+Seat 3: H0ld-da-baby (20372)
+Seat 4: bosi134 (13950)
+Seat 5: LefonJames (19572)
+Seat 6: paul bzh (12300)
+*** ANTE/BLINDS ***
+LefonJames posts ante 40
+paul bzh posts ante 40
+Fabien277 posts ante 40
+H0ld-da-baby posts ante 40
+LefonJames posts small blind 150
+paul bzh posts big blind 300
+Dealt to paul bzh [Qd 3s]
+*** PRE-FLOP *** 
+Fabien277 raises 300 to 600
+H0ld-da-baby folds
+LefonJames folds
+paul bzh folds
+Fabien277 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Seat 1: Fabien277 won 1210
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8138392 - HandId: #1067326371220422790-8-1537729547 - Holdem no limit (40/150/300) - 2018/09/23 19:05:47 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #5 is the button
+Seat 1: Fabien277 (11630)
+Seat 2: LePereDent__ (10000)
+Seat 3: H0ld-da-baby (20332)
+Seat 4: bosi134 (13950)
+Seat 5: LefonJames (19382)
+Seat 6: paul bzh (11960)
+*** ANTE/BLINDS ***
+paul bzh posts ante 40
+Fabien277 posts ante 40
+LePereDent__ posts ante 40
+H0ld-da-baby posts ante 40
+bosi134 posts ante 40
+LefonJames posts ante 40
+paul bzh posts small blind 150
+Fabien277 posts big blind 300
+Dealt to paul bzh [2d 5h]
+*** PRE-FLOP *** 
+LePereDent__ folds
+H0ld-da-baby folds
+bosi134 folds
+LefonJames folds
+paul bzh raises 300 to 600
+Fabien277 calls 300
+*** FLOP *** [Qh 4h 6c]
+paul bzh bets 600
+Fabien277 folds
+paul bzh collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [Qh 4h 6c]
+Seat 6: paul bzh (small blind) won 2040
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-9-1537729586 - Holdem no limit (50/200/400) - 2018/09/23 19:06:26 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #6 is the button
+Seat 1: Fabien277 (10990)
+Seat 2: LePereDent__ (9960)
+Seat 3: H0ld-da-baby (20292)
+Seat 4: bosi134 (13910)
+Seat 5: LefonJames (19342)
+Seat 6: paul bzh (12760)
+*** ANTE/BLINDS ***
+Fabien277 posts ante 50
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+Fabien277 posts small blind 200
+LePereDent__ posts big blind 400
+Dealt to paul bzh [Ah Ad]
+*** PRE-FLOP *** 
+H0ld-da-baby folds
+bosi134 folds
+LefonJames raises 600 to 1000
+paul bzh calls 1000
+Fabien277 raises 9940 to 10940 and is all-in
+LePereDent__ folds
+LefonJames folds
+paul bzh calls 9940
+*** FLOP *** [9d 6s 7s]
+*** TURN *** [9d 6s 7s][9c]
+*** RIVER *** [9d 6s 7s 9c][3d]
+*** SHOW DOWN ***
+Fabien277 shows [As Kc] (One pair : 9)
+paul bzh shows [Ah Ad] (Two pairs : Aces and 9)
+paul bzh collected 23580 from pot
+*** SUMMARY ***
+Total pot 23580 | No rake
+Board: [9d 6s 7s 9c 3d]
+Seat 1: Fabien277 (small blind) showed [As Kc] and lost with One pair : 9
+Seat 6: paul bzh (button) showed [Ah Ad] and won 23580 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-10-1537729629 - Holdem no limit (50/200/400) - 2018/09/23 19:07:09 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #1 is the button
+Seat 2: LePereDent__ (9510)
+Seat 3: H0ld-da-baby (20242)
+Seat 4: bosi134 (13860)
+Seat 5: LefonJames (18292)
+Seat 6: paul bzh (25350)
+*** ANTE/BLINDS ***
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+LePereDent__ posts small blind 200
+H0ld-da-baby posts big blind 400
+Dealt to paul bzh [2s Qd]
+*** PRE-FLOP *** 
+bosi134 folds
+LefonJames folds
+paul bzh folds
+LePereDent__ raises 488 to 888
+H0ld-da-baby calls 488
+*** FLOP *** [Qh 9h Ad]
+LePereDent__ bets 1351
+H0ld-da-baby folds
+LePereDent__ collected 3377 from pot
+*** SUMMARY ***
+Total pot 3377 | No rake
+Board: [Qh 9h Ad]
+Seat 2: LePereDent__ (small blind) won 3377
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-11-1537729676 - Holdem no limit (50/200/400) - 2018/09/23 19:07:56 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #2 is the button
+Seat 1: Vantablack26 (10000)
+Seat 2: LePereDent__ (10598)
+Seat 3: H0ld-da-baby (19304)
+Seat 4: bosi134 (13810)
+Seat 5: LefonJames (18242)
+Seat 6: paul bzh (25300)
+*** ANTE/BLINDS ***
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+Vantablack26 posts ante 50
+LePereDent__ posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+H0ld-da-baby posts small blind 200
+bosi134 posts big blind 400
+Dealt to paul bzh [6h Kc]
+*** PRE-FLOP *** 
+LefonJames raises 600 to 1000
+paul bzh folds
+Vantablack26 folds
+LePereDent__ folds
+H0ld-da-baby folds
+bosi134 calls 600
+*** FLOP *** [Kh 5c Tc]
+bosi134 checks
+LefonJames bets 800
+bosi134 calls 800
+*** TURN *** [Kh 5c Tc][7s]
+bosi134 checks
+LefonJames checks
+*** RIVER *** [Kh 5c Tc 7s][Qc]
+bosi134 checks
+LefonJames checks
+*** SHOW DOWN ***
+bosi134 shows [Td Ad] (One pair : Tens)
+LefonJames shows [Qh As] (One pair : Queens)
+LefonJames collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Board: [Kh 5c Tc 7s Qc]
+Seat 4: bosi134 (big blind) showed [Td Ad] and lost with One pair : Tens
+Seat 5: LefonJames showed [Qh As] and won 4100 with One pair : Queens
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-12-1537729718 - Holdem no limit (50/200/400) - 2018/09/23 19:08:38 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #3 is the button
+Seat 1: Vantablack26 (9950)
+Seat 2: LePereDent__ (10548)
+Seat 3: H0ld-da-baby (19054)
+Seat 4: bosi134 (11960)
+Seat 5: LefonJames (20492)
+Seat 6: paul bzh (25250)
+*** ANTE/BLINDS ***
+bosi134 posts ante 50
+LefonJames posts ante 50
+Vantablack26 posts ante 50
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+paul bzh posts ante 50
+bosi134 posts small blind 200
+LefonJames posts big blind 400
+Dealt to paul bzh [Qh 9h]
+*** PRE-FLOP *** 
+paul bzh raises 400 to 800
+Vantablack26 folds
+LePereDent__ folds
+H0ld-da-baby folds
+bosi134 folds
+LefonJames raises 2100 to 2900
+paul bzh calls 2100
+*** FLOP *** [Td 5c Js]
+LefonJames bets 6300
+paul bzh folds
+LefonJames collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Board: [Td 5c Js]
+Seat 5: LefonJames (big blind) won 12600
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-13-1537729760 - Holdem no limit (50/200/400) - 2018/09/23 19:09:20 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #4 is the button
+Seat 1: Vantablack26 (9900)
+Seat 2: LePereDent__ (10498)
+Seat 3: H0ld-da-baby (19004)
+Seat 4: bosi134 (11710)
+Seat 5: LefonJames (23842)
+Seat 6: paul bzh (22300)
+*** ANTE/BLINDS ***
+LefonJames posts ante 50
+paul bzh posts ante 50
+Vantablack26 posts ante 50
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+LefonJames posts small blind 200
+paul bzh posts big blind 400
+Dealt to paul bzh [Ah 8s]
+*** PRE-FLOP *** 
+Vantablack26 folds
+LePereDent__ folds
+H0ld-da-baby folds
+bosi134 raises 800 to 1200
+LefonJames folds
+paul bzh calls 800
+*** FLOP *** [3c Kc Qd]
+paul bzh checks
+bosi134 bets 1600
+paul bzh folds
+bosi134 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [3c Kc Qd]
+Seat 4: bosi134 (button) won 4500
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-14-1537729797 - Holdem no limit (50/200/400) - 2018/09/23 19:09:57 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #5 is the button
+Seat 1: Vantablack26 (9850)
+Seat 2: LePereDent__ (10448)
+Seat 3: H0ld-da-baby (18954)
+Seat 4: bosi134 (13360)
+Seat 5: LefonJames (23592)
+Seat 6: paul bzh (21050)
+*** ANTE/BLINDS ***
+paul bzh posts ante 50
+Vantablack26 posts ante 50
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+LefonJames posts ante 50
+paul bzh posts small blind 200
+Vantablack26 posts big blind 400
+Dealt to paul bzh [Qd 4d]
+*** PRE-FLOP *** 
+LePereDent__ folds
+H0ld-da-baby folds
+bosi134 folds
+LefonJames raises 600 to 1000
+paul bzh folds
+Vantablack26 folds
+LefonJames collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 5: LefonJames (button) won 1900
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-15-1537729816 - Holdem no limit (50/200/400) - 2018/09/23 19:10:16 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #6 is the button
+Seat 1: Vantablack26 (9400)
+Seat 2: LePereDent__ (10398)
+Seat 3: H0ld-da-baby (18904)
+Seat 4: bosi134 (13310)
+Seat 5: LefonJames (24442)
+Seat 6: paul bzh (20800)
+*** ANTE/BLINDS ***
+Vantablack26 posts ante 50
+LePereDent__ posts ante 50
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+Vantablack26 posts small blind 200
+LePereDent__ posts big blind 400
+Dealt to paul bzh [8d 8c]
+*** PRE-FLOP *** 
+H0ld-da-baby folds
+bosi134 folds
+LefonJames folds
+paul bzh raises 600 to 1000
+Vantablack26 folds
+LePereDent__ raises 1220 to 2220
+paul bzh calls 1220
+*** FLOP *** [Qh 7s 5s]
+LePereDent__ bets 3293
+paul bzh calls 3293
+*** TURN *** [Qh 7s 5s][6s]
+LePereDent__ bets 4835 and is all-in
+paul bzh calls 4835
+*** RIVER *** [Qh 7s 5s 6s][9c]
+*** SHOW DOWN ***
+LePereDent__ shows [Ks Kh] (One pair : Kings)
+paul bzh shows [8d 8c] (Straight 9 high)
+paul bzh collected 21196 from pot
+*** SUMMARY ***
+Total pot 21196 | No rake
+Board: [Qh 7s 5s 6s 9c]
+Seat 2: LePereDent__ (big blind) showed [Ks Kh] and lost with One pair : Kings
+Seat 6: paul bzh (button) showed [8d 8c] and won 21196 with Straight 9 high
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-16-1537729870 - Holdem no limit (50/200/400) - 2018/09/23 19:11:10 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #1 is the button
+Seat 1: Vantablack26 (9150)
+Seat 3: H0ld-da-baby (18854)
+Seat 4: bosi134 (13260)
+Seat 5: LefonJames (24392)
+Seat 6: paul bzh (31598)
+*** ANTE/BLINDS ***
+H0ld-da-baby posts ante 50
+Vantablack26 posts ante 50
+bosi134 posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+H0ld-da-baby posts big blind 400
+Dealt to paul bzh [3d 5c]
+*** PRE-FLOP *** 
+bosi134 raises 800 to 1200
+LefonJames folds
+paul bzh folds
+Vantablack26 folds
+H0ld-da-baby folds
+bosi134 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 4: bosi134 won 1850
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1067326371220422790-17-1537729891 - Holdem no limit (50/200/400) - 2018/09/23 19:11:31 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #2 is the button
+Seat 1: Vantablack26 (9100)
+Seat 3: H0ld-da-baby (18404)
+Seat 4: bosi134 (13860)
+Seat 5: LefonJames (24342)
+Seat 6: paul bzh (31548)
+*** ANTE/BLINDS ***
+H0ld-da-baby posts ante 50
+bosi134 posts ante 50
+Vantablack26 posts ante 50
+LefonJames posts ante 50
+paul bzh posts ante 50
+H0ld-da-baby posts small blind 200
+bosi134 posts big blind 400
+Dealt to paul bzh [Js 4h]
+*** PRE-FLOP *** 
+LefonJames folds
+paul bzh folds
+Vantablack26 folds
+H0ld-da-baby calls 200
+bosi134 checks
+*** FLOP *** [7d Qc 2c]
+H0ld-da-baby bets 462
+bosi134 calls 462
+*** TURN *** [7d Qc 2c][3h]
+H0ld-da-baby checks
+bosi134 bets 987
+H0ld-da-baby folds
+bosi134 collected 2961 from pot
+*** SUMMARY ***
+Total pot 2961 | No rake
+Board: [7d Qc 2c 3h]
+Seat 4: bosi134 (big blind) won 2961
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422790-18-1537729938 - Holdem no limit (60/250/500) - 2018/09/23 19:12:18 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #3 is the button
+Seat 1: Vantablack26 (9050)
+Seat 2: FuoriDiBanca (10000)
+Seat 3: H0ld-da-baby (17492)
+Seat 4: bosi134 (14922)
+Seat 5: LefonJames (24292)
+Seat 6: paul bzh (31498)
+*** ANTE/BLINDS ***
+bosi134 posts ante 60
+LefonJames posts ante 60
+Vantablack26 posts ante 60
+FuoriDiBanca posts ante 60
+H0ld-da-baby posts ante 60
+paul bzh posts ante 60
+bosi134 posts small blind 250
+LefonJames posts big blind 500
+Dealt to paul bzh [7s 6c]
+*** PRE-FLOP *** 
+paul bzh folds
+Vantablack26 raises 500 to 1000
+FuoriDiBanca folds
+H0ld-da-baby folds
+bosi134 folds
+LefonJames folds
+Vantablack26 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 1: Vantablack26 won 2110
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422790-19-1537729962 - Holdem no limit (60/250/500) - 2018/09/23 19:12:42 UTC
+Table: 'WANTED(248506286)#133' 6-max (real money) Seat #4 is the button
+Seat 1: Vantablack26 (10100)
+Seat 2: FuoriDiBanca (9940)
+Seat 3: H0ld-da-baby (17432)
+Seat 4: bosi134 (14612)
+Seat 5: LefonJames (23732)
+Seat 6: paul bzh (31438)
+*** ANTE/BLINDS ***
+LefonJames posts ante 60
+paul bzh posts ante 60
+Vantablack26 posts ante 60
+FuoriDiBanca posts ante 60
+H0ld-da-baby posts ante 60
+bosi134 posts ante 60
+LefonJames posts small blind 250
+paul bzh posts big blind 500
+Dealt to paul bzh [Ad 6h]
+*** PRE-FLOP *** 
+Vantablack26 folds
+FuoriDiBanca folds
+H0ld-da-baby folds
+bosi134 folds
+LefonJames folds
+paul bzh collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 6: paul bzh (big blind) won 1110
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422764-27-1537730036 - Holdem no limit (60/250/500) - 2018/09/23 19:13:56 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #6 is the button
+Seat 1: Jack_40 (4804)
+Seat 3: locomotive01 (15786)
+Seat 4: 1 2 3 River (25170)
+Seat 5: paul bzh (31988)
+Seat 6: YoSoyTuPadre (28332)
+*** ANTE/BLINDS ***
+Jack_40 posts ante 60
+locomotive01 posts ante 60
+1 2 3 River posts ante 60
+paul bzh posts ante 60
+YoSoyTuPadre posts ante 60
+Jack_40 posts small blind 250
+locomotive01 posts big blind 500
+Dealt to paul bzh [6h 8c]
+*** PRE-FLOP *** 
+1 2 3 River raises 500 to 1000
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 calls 750
+locomotive01 folds
+*** FLOP *** [9d Kd 8d]
+Jack_40 checks
+1 2 3 River bets 1400
+Jack_40 raises 2344 to 3744 and is all-in
+1 2 3 River calls 2344
+*** TURN *** [9d Kd 8d][2s]
+*** RIVER *** [9d Kd 8d 2s][6d]
+*** SHOW DOWN ***
+1 2 3 River shows [9s Kc] (Two pairs : Kings and 9)
+Jack_40 shows [Jd Qh] (Flush King high)
+Jack_40 collected 10288 from pot
+*** SUMMARY ***
+Total pot 10288 | No rake
+Board: [9d Kd 8d 2s 6d]
+Seat 1: Jack_40 (small blind) showed [Jd Qh] and won 10288 with Flush King high
+Seat 4: 1 2 3 River showed [9s Kc] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422764-28-1537730112 - Holdem no limit (60/250/500) - 2018/09/23 19:15:12 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #1 is the button
+Seat 1: Jack_40 (10288)
+Seat 2: AgameGG xD (10000)
+Seat 3: locomotive01 (15226)
+Seat 4: 1 2 3 River (20366)
+Seat 5: paul bzh (31928)
+Seat 6: YoSoyTuPadre (28272)
+*** ANTE/BLINDS ***
+locomotive01 posts ante 60
+1 2 3 River posts ante 60
+Jack_40 posts ante 60
+paul bzh posts ante 60
+YoSoyTuPadre posts ante 60
+locomotive01 posts small blind 250
+1 2 3 River posts big blind 500
+Dealt to paul bzh [5d Tc]
+*** PRE-FLOP *** 
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 folds
+locomotive01 raises 14666 to 15166 and is all-in
+1 2 3 River folds
+locomotive01 collected 15966 from pot
+*** SUMMARY ***
+Total pot 15966 | No rake
+Seat 3: locomotive01 (small blind) won 15966
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422764-29-1537730139 - Holdem no limit (60/250/500) - 2018/09/23 19:15:39 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #3 is the button
+Seat 1: Jack_40 (10228)
+Seat 2: AgameGG xD (10000)
+Seat 3: locomotive01 (15966)
+Seat 4: 1 2 3 River (19806)
+Seat 5: paul bzh (31868)
+Seat 6: YoSoyTuPadre (28212)
+*** ANTE/BLINDS ***
+1 2 3 River posts ante 60
+paul bzh posts ante 60
+Jack_40 posts ante 60
+AgameGG xD posts ante 60
+locomotive01 posts ante 60
+YoSoyTuPadre posts ante 60
+1 2 3 River posts small blind 250
+paul bzh posts big blind 500
+Dealt to paul bzh [Jc Ts]
+*** PRE-FLOP *** 
+YoSoyTuPadre folds
+Jack_40 folds
+AgameGG xD raises 650 to 1150
+locomotive01 folds
+1 2 3 River folds
+paul bzh calls 650
+*** FLOP *** [8c 5d 3h]
+paul bzh bets 1250
+AgameGG xD raises 7540 to 8790 and is all-in
+paul bzh folds
+AgameGG xD collected 12950 from pot
+*** SUMMARY ***
+Total pot 12950 | No rake
+Board: [8c 5d 3h]
+Seat 2: AgameGG xD won 12950
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422764-30-1537730193 - Holdem no limit (60/250/500) - 2018/09/23 19:16:33 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #4 is the button
+Seat 1: Jack_40 (10168)
+Seat 2: AgameGG xD (12950)
+Seat 3: locomotive01 (15906)
+Seat 4: 1 2 3 River (19496)
+Seat 5: paul bzh (29408)
+Seat 6: YoSoyTuPadre (28152)
+*** ANTE/BLINDS ***
+paul bzh posts ante 60
+YoSoyTuPadre posts ante 60
+Jack_40 posts ante 60
+AgameGG xD posts ante 60
+locomotive01 posts ante 60
+1 2 3 River posts ante 60
+paul bzh posts small blind 250
+YoSoyTuPadre posts big blind 500
+Dealt to paul bzh [7d 2d]
+*** PRE-FLOP *** 
+Jack_40 raises 9608 to 10108 and is all-in
+AgameGG xD folds
+locomotive01 folds
+1 2 3 River raises 9328 to 19436 and is all-in
+paul bzh folds
+YoSoyTuPadre folds
+*** FLOP *** [8c 8d Td]
+*** TURN *** [8c 8d Td][8h]
+*** RIVER *** [8c 8d Td 8h][6s]
+*** SHOW DOWN ***
+Jack_40 shows [Kh As] (Trips of 8)
+1 2 3 River shows [Ah Jh] (Trips of 8)
+1 2 3 River collected 9328 from side pot 1
+Jack_40 collected 21326 from main pot
+*** SUMMARY ***
+Total pot 30654 | No rake
+Board: [8c 8d Td 8h 6s]
+Seat 1: Jack_40 showed [Kh As] and won 21326 with Trips of 8
+Seat 4: 1 2 3 River (button) showed [Ah Jh] and won 9328 with Trips of 8
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1067326371220422764-31-1537730230 - Holdem no limit (60/250/500) - 2018/09/23 19:17:10 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #5 is the button
+Seat 1: Jack_40 (21326)
+Seat 2: AgameGG xD (12890)
+Seat 3: locomotive01 (15846)
+Seat 4: 1 2 3 River (9328)
+Seat 5: paul bzh (29098)
+Seat 6: YoSoyTuPadre (27592)
+*** ANTE/BLINDS ***
+YoSoyTuPadre posts ante 60
+Jack_40 posts ante 60
+AgameGG xD posts ante 60
+locomotive01 posts ante 60
+1 2 3 River posts ante 60
+paul bzh posts ante 60
+YoSoyTuPadre posts small blind 250
+Jack_40 posts big blind 500
+Dealt to paul bzh [7c 4c]
+*** PRE-FLOP *** 
+AgameGG xD folds
+locomotive01 calls 500
+1 2 3 River folds
+paul bzh raises 750 to 1250
+YoSoyTuPadre raises 3250 to 4500
+Jack_40 folds
+locomotive01 folds
+paul bzh calls 3250
+*** FLOP *** [3s 2s Kc]
+YoSoyTuPadre bets 3750
+paul bzh folds
+YoSoyTuPadre collected 14110 from pot
+*** SUMMARY ***
+Total pot 14110 | No rake
+Board: [3s 2s Kc]
+Seat 6: YoSoyTuPadre (small blind) won 14110
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-32-1537730294 - Holdem no limit (80/300/600) - 2018/09/23 19:18:14 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #6 is the button
+Seat 1: Jack_40 (20766)
+Seat 2: AgameGG xD (12830)
+Seat 3: locomotive01 (15286)
+Seat 4: 1 2 3 River (9268)
+Seat 5: paul bzh (24538)
+Seat 6: YoSoyTuPadre (33392)
+*** ANTE/BLINDS ***
+Jack_40 posts ante 80
+AgameGG xD posts ante 80
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+Jack_40 posts small blind 300
+AgameGG xD posts big blind 600
+Dealt to paul bzh [2c 3c]
+*** PRE-FLOP *** 
+locomotive01 folds
+1 2 3 River folds
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 folds
+AgameGG xD collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 2: AgameGG xD (big blind) won 1380
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-33-1537730320 - Holdem no limit (80/300/600) - 2018/09/23 19:18:40 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #1 is the button
+Seat 1: Jack_40 (20386)
+Seat 2: AgameGG xD (13530)
+Seat 3: locomotive01 (15206)
+Seat 4: 1 2 3 River (9188)
+Seat 5: paul bzh (24458)
+Seat 6: YoSoyTuPadre (33312)
+*** ANTE/BLINDS ***
+AgameGG xD posts ante 80
+locomotive01 posts ante 80
+Jack_40 posts ante 80
+1 2 3 River posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+AgameGG xD posts small blind 300
+locomotive01 posts big blind 600
+Dealt to paul bzh [3d Kh]
+*** PRE-FLOP *** 
+1 2 3 River folds
+paul bzh folds
+YoSoyTuPadre raises 600 to 1200
+Jack_40 calls 1200
+AgameGG xD raises 12250 to 13450 and is all-in
+locomotive01 folds
+YoSoyTuPadre folds
+Jack_40 folds
+AgameGG xD collected 16930 from pot
+*** SUMMARY ***
+Total pot 16930 | No rake
+Seat 2: AgameGG xD (small blind) won 16930
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-34-1537730360 - Holdem no limit (80/300/600) - 2018/09/23 19:19:20 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #2 is the button
+Seat 1: Jack_40 (19106)
+Seat 2: AgameGG xD (16930)
+Seat 3: locomotive01 (14526)
+Seat 4: 1 2 3 River (9108)
+Seat 5: paul bzh (24378)
+Seat 6: YoSoyTuPadre (32032)
+*** ANTE/BLINDS ***
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+Jack_40 posts ante 80
+AgameGG xD posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+locomotive01 posts small blind 300
+1 2 3 River posts big blind 600
+Dealt to paul bzh [7s 9h]
+*** PRE-FLOP *** 
+paul bzh folds
+YoSoyTuPadre raises 600 to 1200
+Jack_40 calls 1200
+AgameGG xD calls 1200
+locomotive01 raises 13246 to 14446 and is all-in
+1 2 3 River folds
+YoSoyTuPadre folds
+Jack_40 folds
+AgameGG xD calls 13246
+*** FLOP *** [9d 6s 6h]
+*** TURN *** [9d 6s 6h][Jh]
+*** RIVER *** [9d 6s 6h Jh][2h]
+*** SHOW DOWN ***
+AgameGG xD shows [Ks Qc] (One pair : 6)
+locomotive01 shows [Ad Ac] (Two pairs : Aces and 6)
+locomotive01 collected 32372 from pot
+*** SUMMARY ***
+Total pot 32372 | No rake
+Board: [9d 6s 6h Jh 2h]
+Seat 2: AgameGG xD (button) showed [Ks Qc] and lost with One pair : 6
+Seat 3: locomotive01 (small blind) showed [Ad Ac] and won 32372 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-35-1537730481 - Holdem no limit (80/300/600) - 2018/09/23 19:21:21 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #3 is the button
+Seat 1: Jack_40 (17826)
+Seat 2: AgameGG xD (2404)
+Seat 3: locomotive01 (32372)
+Seat 4: 1 2 3 River (8428)
+Seat 5: paul bzh (24298)
+Seat 6: YoSoyTuPadre (30752)
+*** ANTE/BLINDS ***
+1 2 3 River posts ante 80
+paul bzh posts ante 80
+Jack_40 posts ante 80
+AgameGG xD posts ante 80
+locomotive01 posts ante 80
+YoSoyTuPadre posts ante 80
+1 2 3 River posts small blind 300
+paul bzh posts big blind 600
+Dealt to paul bzh [2h Jh]
+*** PRE-FLOP *** 
+YoSoyTuPadre raises 600 to 1200
+Jack_40 folds
+AgameGG xD raises 1124 to 2324 and is all-in
+locomotive01 folds
+1 2 3 River folds
+paul bzh folds
+YoSoyTuPadre calls 1124
+*** FLOP *** [8d 3d 6d]
+*** TURN *** [8d 3d 6d][8c]
+*** RIVER *** [8d 3d 6d 8c][8h]
+*** SHOW DOWN ***
+AgameGG xD shows [4s 4h] (Full of 8 and 4)
+YoSoyTuPadre shows [As Ah] (Full of 8 and Aces)
+YoSoyTuPadre collected 6028 from pot
+*** SUMMARY ***
+Total pot 6028 | No rake
+Board: [8d 3d 6d 8c 8h]
+Seat 2: AgameGG xD showed [4s 4h] and lost with Full of 8 and 4
+Seat 6: YoSoyTuPadre showed [As Ah] and won 6028 with Full of 8 and Aces
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-36-1537730525 - Holdem no limit (80/300/600) - 2018/09/23 19:22:05 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #4 is the button
+Seat 1: Jack_40 (17746)
+Seat 3: locomotive01 (32292)
+Seat 4: 1 2 3 River (8048)
+Seat 5: paul bzh (23618)
+Seat 6: YoSoyTuPadre (34376)
+*** ANTE/BLINDS ***
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+Jack_40 posts ante 80
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+paul bzh posts small blind 300
+YoSoyTuPadre posts big blind 600
+Dealt to paul bzh [4s Tc]
+*** PRE-FLOP *** 
+Jack_40 folds
+locomotive01 folds
+1 2 3 River raises 7368 to 7968 and is all-in
+paul bzh folds
+YoSoyTuPadre calls 7368
+*** FLOP *** [3d Td 5h]
+*** TURN *** [3d Td 5h][Qd]
+*** RIVER *** [3d Td 5h Qd][2c]
+*** SHOW DOWN ***
+YoSoyTuPadre shows [7d 7h] (One pair : 7)
+1 2 3 River shows [5d Ad] (Flush Ace high)
+1 2 3 River collected 16636 from pot
+*** SUMMARY ***
+Total pot 16636 | No rake
+Board: [3d Td 5h Qd 2c]
+Seat 4: 1 2 3 River (button) showed [5d Ad] and won 16636 with Flush Ace high
+Seat 6: YoSoyTuPadre (big blind) showed [7d 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-37-1537730560 - Holdem no limit (80/300/600) - 2018/09/23 19:22:40 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #5 is the button
+Seat 1: Jack_40 (17666)
+Seat 3: locomotive01 (32212)
+Seat 4: 1 2 3 River (16636)
+Seat 5: paul bzh (23238)
+Seat 6: YoSoyTuPadre (26328)
+*** ANTE/BLINDS ***
+YoSoyTuPadre posts ante 80
+Jack_40 posts ante 80
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts small blind 300
+Jack_40 posts big blind 600
+Dealt to paul bzh [5h Ks]
+*** PRE-FLOP *** 
+locomotive01 folds
+1 2 3 River folds
+paul bzh raises 600 to 1200
+YoSoyTuPadre folds
+Jack_40 folds
+paul bzh collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 5: paul bzh (button) won 2500
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-38-1537730598 - Holdem no limit (80/300/600) - 2018/09/23 19:23:18 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #6 is the button
+Seat 1: Jack_40 (16986)
+Seat 3: locomotive01 (32132)
+Seat 4: 1 2 3 River (16556)
+Seat 5: paul bzh (24458)
+Seat 6: YoSoyTuPadre (25948)
+*** ANTE/BLINDS ***
+Jack_40 posts ante 80
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+Jack_40 posts small blind 300
+locomotive01 posts big blind 600
+Dealt to paul bzh [7h 3d]
+*** PRE-FLOP *** 
+1 2 3 River raises 655 to 1255
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 folds
+locomotive01 folds
+1 2 3 River collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | No rake
+Seat 4: 1 2 3 River won 2555
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1067326371220422764-39-1537730633 - Holdem no limit (80/300/600) - 2018/09/23 19:23:53 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #1 is the button
+Seat 1: Jack_40 (16606)
+Seat 2: guevere17 (10000)
+Seat 3: locomotive01 (31452)
+Seat 4: 1 2 3 River (17776)
+Seat 5: paul bzh (24378)
+Seat 6: YoSoyTuPadre (25868)
+*** ANTE/BLINDS ***
+locomotive01 posts ante 80
+1 2 3 River posts ante 80
+Jack_40 posts ante 80
+paul bzh posts ante 80
+YoSoyTuPadre posts ante 80
+locomotive01 posts small blind 300
+1 2 3 River posts big blind 600
+Dealt to paul bzh [As 7c]
+*** PRE-FLOP *** 
+paul bzh raises 600 to 1200
+YoSoyTuPadre folds
+Jack_40 folds
+locomotive01 calls 900
+1 2 3 River folds
+*** FLOP *** [2h 8d 9c]
+locomotive01 bets 1700
+paul bzh raises 1700 to 3400
+locomotive01 folds
+paul bzh collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Board: [2h 8d 9c]
+Seat 5: paul bzh won 8500
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1067326371220422764-40-1537730700 - Holdem no limit (100/400/800) - 2018/09/23 19:25:00 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #3 is the button
+Seat 1: Jack_40 (16526)
+Seat 2: guevere17 (10000)
+Seat 3: locomotive01 (28472)
+Seat 4: 1 2 3 River (17096)
+Seat 5: paul bzh (28198)
+Seat 6: YoSoyTuPadre (25788)
+*** ANTE/BLINDS ***
+1 2 3 River posts ante 100
+paul bzh posts ante 100
+Jack_40 posts ante 100
+guevere17 posts ante 100
+locomotive01 posts ante 100
+YoSoyTuPadre posts ante 100
+1 2 3 River posts small blind 400
+paul bzh posts big blind 800
+Dealt to paul bzh [Ts 6h]
+*** PRE-FLOP *** 
+YoSoyTuPadre folds
+Jack_40 folds
+guevere17 raises 1200 to 2000
+locomotive01 folds
+1 2 3 River folds
+paul bzh calls 1200
+*** FLOP *** [8d 7d 9h]
+paul bzh checks
+guevere17 bets 2400
+paul bzh raises 2800 to 5200
+guevere17 raises 2700 to 7900 and is all-in
+paul bzh calls 2700
+*** TURN *** [8d 7d 9h][Qd]
+*** RIVER *** [8d 7d 9h Qd][Qh]
+*** SHOW DOWN ***
+guevere17 shows [Qs Td] (Trips of Queens)
+paul bzh shows [Ts 6h] (Straight Ten high)
+paul bzh collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | No rake
+Board: [8d 7d 9h Qd Qh]
+Seat 2: guevere17 showed [Qs Td] and lost with Trips of Queens
+Seat 5: paul bzh (big blind) showed [Ts 6h] and won 20800 with Straight Ten high
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1067326371220422764-41-1537730750 - Holdem no limit (100/400/800) - 2018/09/23 19:25:50 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #4 is the button
+Seat 1: Jack_40 (16426)
+Seat 3: locomotive01 (28372)
+Seat 4: 1 2 3 River (16596)
+Seat 5: paul bzh (38998)
+Seat 6: YoSoyTuPadre (25688)
+*** ANTE/BLINDS ***
+paul bzh posts ante 100
+YoSoyTuPadre posts ante 100
+Jack_40 posts ante 100
+locomotive01 posts ante 100
+1 2 3 River posts ante 100
+paul bzh posts small blind 400
+YoSoyTuPadre posts big blind 800
+Dealt to paul bzh [Tc 5d]
+*** PRE-FLOP *** 
+Jack_40 raises 1200 to 2000
+locomotive01 folds
+1 2 3 River folds
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Seat 1: Jack_40 won 3700
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1067326371220422764-42-1537730798 - Holdem no limit (100/400/800) - 2018/09/23 19:26:38 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #5 is the button
+Seat 1: Jack_40 (18026)
+Seat 3: locomotive01 (28272)
+Seat 4: 1 2 3 River (16496)
+Seat 5: paul bzh (38498)
+Seat 6: YoSoyTuPadre (24788)
+*** ANTE/BLINDS ***
+YoSoyTuPadre posts ante 100
+Jack_40 posts ante 100
+locomotive01 posts ante 100
+1 2 3 River posts ante 100
+paul bzh posts ante 100
+YoSoyTuPadre posts small blind 400
+Jack_40 posts big blind 800
+Dealt to paul bzh [Ts 7d]
+*** PRE-FLOP *** 
+locomotive01 folds
+1 2 3 River raises 914 to 1714
+paul bzh calls 1714
+YoSoyTuPadre folds
+Jack_40 folds
+*** FLOP *** [4h 4s 3h]
+1 2 3 River bets 2000
+paul bzh raises 2000 to 4000
+1 2 3 River calls 2000
+*** TURN *** [4h 4s 3h][4d]
+1 2 3 River checks
+paul bzh bets 5600
+1 2 3 River folds
+paul bzh collected 18728 from pot
+*** SUMMARY ***
+Total pot 18728 | No rake
+Board: [4h 4s 3h 4d]
+Seat 5: paul bzh (button) won 18728
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1067326371220422764-43-1537730922 - Holdem no limit (100/400/800) - 2018/09/23 19:28:42 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #6 is the button
+Seat 1: Jack_40 (17126)
+Seat 2: Khi-Mono (11180)
+Seat 3: locomotive01 (28172)
+Seat 4: 1 2 3 River (10682)
+Seat 5: paul bzh (45812)
+Seat 6: YoSoyTuPadre (24288)
+*** ANTE/BLINDS ***
+Jack_40 posts ante 100
+Khi-Mono posts ante 100
+locomotive01 posts ante 100
+1 2 3 River posts ante 100
+paul bzh posts ante 100
+YoSoyTuPadre posts ante 100
+Jack_40 posts small blind 400
+Khi-Mono posts big blind 800
+Dealt to paul bzh [Jd Ks]
+*** PRE-FLOP *** 
+locomotive01 folds
+1 2 3 River folds
+paul bzh raises 800 to 1600
+YoSoyTuPadre calls 1600
+Jack_40 calls 1200
+Khi-Mono calls 800
+*** FLOP *** [Ac Qs 6h]
+Jack_40 checks
+Khi-Mono checks
+paul bzh checks
+YoSoyTuPadre checks
+*** TURN *** [Ac Qs 6h][9c]
+Jack_40 bets 5250
+Khi-Mono folds
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | No rake
+Board: [Ac Qs 6h 9c]
+Seat 1: Jack_40 (small blind) won 12250
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422764-44-1537731002 - Holdem no limit (120/500/1000) - 2018/09/23 19:30:02 UTC
+Table: 'WANTED(248506286)#107' 6-max (real money) Seat #1 is the button
+Seat 1: Jack_40 (22426)
+Seat 2: Khi-Mono (9480)
+Seat 3: locomotive01 (28072)
+Seat 4: 1 2 3 River (10582)
+Seat 5: paul bzh (44112)
+Seat 6: YoSoyTuPadre (22588)
+*** ANTE/BLINDS ***
+Khi-Mono posts ante 120
+locomotive01 posts ante 120
+Jack_40 posts ante 120
+1 2 3 River posts ante 120
+paul bzh posts ante 120
+YoSoyTuPadre posts ante 120
+Khi-Mono posts small blind 500
+locomotive01 posts big blind 1000
+Dealt to paul bzh [2d 3s]
+*** PRE-FLOP *** 
+1 2 3 River folds
+paul bzh folds
+YoSoyTuPadre folds
+Jack_40 raises 1000 to 2000
+Khi-Mono calls 1500
+locomotive01 raises 25952 to 27952 and is all-in
+Jack_40 folds
+Khi-Mono calls 7360 and is all-in
+*** FLOP *** [Qc Kc 6d]
+*** TURN *** [Qc Kc 6d][Ts]
+*** RIVER *** [Qc Kc 6d Ts][Jc]
+*** SHOW DOWN ***
+Khi-Mono shows [7h 7s] (One pair : 7)
+locomotive01 shows [Ks Kh] (Trips of Kings)
+locomotive01 collected 40032 from pot
+*** SUMMARY ***
+Total pot 40032 | No rake
+Board: [Qc Kc 6d Ts Jc]
+Seat 2: Khi-Mono (small blind) showed [7h 7s] and lost with One pair : 7
+Seat 3: locomotive01 (big blind) showed [Ks Kh] and won 40032 with Trips of Kings
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-70-1537731072 - Holdem no limit (120/500/1000) - 2018/09/23 19:31:12 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (43992)
+Seat 2: Jagerbombe09 (43924)
+Seat 3: zzxzz (40316)
+Seat 5: Du_dg (9980)
+Seat 6: a_toul59 (35950)
+*** ANTE/BLINDS ***
+a_toul59 posts ante 120
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+Du_dg posts ante 120
+a_toul59 posts small blind 500
+paul bzh posts big blind 1000
+Dealt to paul bzh [Jc 2s]
+*** PRE-FLOP *** 
+Jagerbombe09 folds
+zzxzz folds
+Du_dg raises 1500 to 2500
+a_toul59 calls 2000
+paul bzh calls 1500
+*** FLOP *** [6s 5d Qs]
+a_toul59 checks
+paul bzh bets 2000
+Du_dg folds
+a_toul59 calls 2000
+*** TURN *** [6s 5d Qs][5h]
+a_toul59 bets 1000
+paul bzh raises 4500 to 5500
+a_toul59 folds
+paul bzh collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Board: [6s 5d Qs 5h]
+Seat 1: paul bzh (big blind) won 18600
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-71-1537731113 - Holdem no limit (120/500/1000) - 2018/09/23 19:31:53 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (52472)
+Seat 2: Jagerbombe09 (43804)
+Seat 3: zzxzz (40196)
+Seat 5: Du_dg (7360)
+Seat 6: a_toul59 (30330)
+*** ANTE/BLINDS ***
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+Du_dg posts ante 120
+a_toul59 posts ante 120
+paul bzh posts small blind 500
+Jagerbombe09 posts big blind 1000
+Dealt to paul bzh [Qc 9d]
+*** PRE-FLOP *** 
+zzxzz folds
+Du_dg folds
+a_toul59 folds
+paul bzh raises 1000 to 2000
+Jagerbombe09 calls 1000
+*** FLOP *** [6h Td 6s]
+paul bzh checks
+Jagerbombe09 checks
+*** TURN *** [6h Td 6s][9c]
+paul bzh bets 4000
+Jagerbombe09 raises 4000 to 8000
+paul bzh calls 4000
+*** RIVER *** [6h Td 6s 9c][Qs]
+paul bzh bets 7500
+Jagerbombe09 raises 7500 to 15000
+paul bzh calls 7500
+*** SHOW DOWN ***
+paul bzh shows [Qc 9d] (Two pairs : Queens and 9)
+Jagerbombe09 shows [8c 7d] (Straight Ten high)
+Jagerbombe09 collected 50600 from pot
+*** SUMMARY ***
+Total pot 50600 | No rake
+Board: [6h Td 6s 9c Qs]
+Seat 1: paul bzh (small blind) showed [Qc 9d] and lost with Two pairs : Queens and 9
+Seat 2: Jagerbombe09 (big blind) showed [8c 7d] and won 50600 with Straight Ten high
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-72-1537731173 - Holdem no limit (120/500/1000) - 2018/09/23 19:32:53 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (27352)
+Seat 2: Jagerbombe09 (69284)
+Seat 3: zzxzz (40076)
+Seat 5: Du_dg (7240)
+Seat 6: a_toul59 (30210)
+*** ANTE/BLINDS ***
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+paul bzh posts ante 120
+Du_dg posts ante 120
+a_toul59 posts ante 120
+Jagerbombe09 posts small blind 500
+zzxzz posts big blind 1000
+Dealt to paul bzh [Ac 2d]
+*** PRE-FLOP *** 
+Du_dg folds
+a_toul59 folds
+paul bzh raises 1000 to 2000
+Jagerbombe09 folds
+zzxzz raises 37956 to 39956 and is all-in
+paul bzh folds
+zzxzz collected 43056 from pot
+*** SUMMARY ***
+Total pot 43056 | No rake
+Seat 3: zzxzz (big blind) won 43056
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-73-1537731208 - Holdem no limit (120/500/1000) - 2018/09/23 19:33:28 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (25232)
+Seat 2: Jagerbombe09 (68664)
+Seat 3: zzxzz (43056)
+Seat 4: flovane34 (20945)
+Seat 5: Du_dg (7120)
+Seat 6: a_toul59 (30090)
+*** ANTE/BLINDS ***
+zzxzz posts ante 120
+flovane34 posts ante 120
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+Du_dg posts ante 120
+a_toul59 posts ante 120
+zzxzz posts small blind 500
+flovane34 posts big blind 1000
+Dealt to paul bzh [Td 8c]
+*** PRE-FLOP *** 
+Du_dg folds
+a_toul59 folds
+paul bzh calls 1000
+Jagerbombe09 folds
+zzxzz calls 500
+flovane34 raises 4000 to 5000
+paul bzh calls 4000
+zzxzz folds
+*** FLOP *** [4c 6h Ac]
+flovane34 bets 5860
+paul bzh folds
+flovane34 collected 17580 from pot
+*** SUMMARY ***
+Total pot 17580 | No rake
+Board: [4c 6h Ac]
+Seat 4: flovane34 (big blind) won 17580
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-74-1537731235 - Holdem no limit (120/500/1000) - 2018/09/23 19:33:55 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (20112)
+Seat 2: Jagerbombe09 (68544)
+Seat 3: zzxzz (41936)
+Seat 4: flovane34 (27545)
+Seat 5: Du_dg (7000)
+Seat 6: a_toul59 (29970)
+*** ANTE/BLINDS ***
+flovane34 posts ante 120
+Du_dg posts ante 120
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+a_toul59 posts ante 120
+flovane34 posts small blind 500
+Du_dg posts big blind 1000
+Dealt to paul bzh [8s 2d]
+*** PRE-FLOP *** 
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 folds
+zzxzz folds
+flovane34 calls 500
+Du_dg checks
+*** FLOP *** [4h Kc Ah]
+flovane34 checks
+Du_dg checks
+*** TURN *** [4h Kc Ah][7s]
+flovane34 checks
+Du_dg checks
+*** RIVER *** [4h Kc Ah 7s][Tc]
+flovane34 bets 1813
+Du_dg folds
+flovane34 collected 4533 from pot
+*** SUMMARY ***
+Total pot 4533 | No rake
+Board: [4h Kc Ah 7s Tc]
+Seat 4: flovane34 (small blind) won 4533
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-75-1537731265 - Holdem no limit (120/500/1000) - 2018/09/23 19:34:25 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (19992)
+Seat 2: Jagerbombe09 (68424)
+Seat 3: zzxzz (41816)
+Seat 4: flovane34 (29145)
+Seat 5: Du_dg (5880)
+Seat 6: a_toul59 (29850)
+*** ANTE/BLINDS ***
+Du_dg posts ante 120
+a_toul59 posts ante 120
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+flovane34 posts ante 120
+Du_dg posts small blind 500
+a_toul59 posts big blind 1000
+Dealt to paul bzh [3s 3h]
+*** PRE-FLOP *** 
+paul bzh raises 1000 to 2000
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 calls 1000
+*** FLOP *** [8s Qd 7s]
+a_toul59 bets 1000
+paul bzh raises 1500 to 2500
+a_toul59 calls 1500
+*** TURN *** [8s Qd 7s][4c]
+a_toul59 bets 1000
+paul bzh raises 2000 to 3000
+a_toul59 raises 16220 to 19220
+paul bzh folds
+a_toul59 collected 32440 from pot
+*** SUMMARY ***
+Total pot 32440 | No rake
+Board: [8s Qd 7s 4c]
+Seat 6: a_toul59 (big blind) won 32440
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-76-1537731308 - Holdem no limit (120/500/1000) - 2018/09/23 19:35:08 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (12372)
+Seat 2: Jagerbombe09 (68304)
+Seat 3: zzxzz (41696)
+Seat 4: flovane34 (29025)
+Seat 5: Du_dg (5260)
+Seat 6: a_toul59 (38450)
+*** ANTE/BLINDS ***
+a_toul59 posts ante 120
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+flovane34 posts ante 120
+Du_dg posts ante 120
+a_toul59 posts small blind 500
+paul bzh posts big blind 1000
+Dealt to paul bzh [7s Jd]
+*** PRE-FLOP *** 
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 calls 500
+paul bzh checks
+*** FLOP *** [9s 4h 6c]
+a_toul59 checks
+paul bzh bets 1000
+a_toul59 folds
+paul bzh collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [9s 4h 6c]
+Seat 1: paul bzh (big blind) won 3720
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1067326371220422713-77-1537731329 - Holdem no limit (120/500/1000) - 2018/09/23 19:35:29 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (13972)
+Seat 2: Jagerbombe09 (68184)
+Seat 3: zzxzz (41576)
+Seat 4: flovane34 (28905)
+Seat 5: Du_dg (5140)
+Seat 6: a_toul59 (37330)
+*** ANTE/BLINDS ***
+paul bzh posts ante 120
+Jagerbombe09 posts ante 120
+zzxzz posts ante 120
+flovane34 posts ante 120
+Du_dg posts ante 120
+a_toul59 posts ante 120
+paul bzh posts small blind 500
+Jagerbombe09 posts big blind 1000
+Dealt to paul bzh [6s 2c]
+*** PRE-FLOP *** 
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 folds
+paul bzh calls 500
+Jagerbombe09 checks
+*** FLOP *** [Ac 4s 5d]
+paul bzh checks
+Jagerbombe09 checks
+*** TURN *** [Ac 4s 5d][Ts]
+paul bzh checks
+Jagerbombe09 checks
+*** RIVER *** [Ac 4s 5d Ts][4c]
+paul bzh bets 1000
+Jagerbombe09 raises 1000 to 2000
+paul bzh folds
+Jagerbombe09 collected 5720 from pot
+*** SUMMARY ***
+Total pot 5720 | No rake
+Board: [Ac 4s 5d Ts 4c]
+Seat 2: Jagerbombe09 (big blind) won 5720
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-78-1537731368 - Holdem no limit (160/600/1200) - 2018/09/23 19:36:08 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (11852)
+Seat 2: Jagerbombe09 (70784)
+Seat 3: zzxzz (41456)
+Seat 4: flovane34 (28785)
+Seat 5: Du_dg (5020)
+Seat 6: a_toul59 (37210)
+*** ANTE/BLINDS ***
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+paul bzh posts ante 160
+flovane34 posts ante 160
+Du_dg posts ante 160
+a_toul59 posts ante 160
+Jagerbombe09 posts small blind 600
+zzxzz posts big blind 1200
+Dealt to paul bzh [Ad As]
+*** PRE-FLOP *** 
+flovane34 raises 2400 to 3600
+Du_dg folds
+a_toul59 folds
+paul bzh raises 6000 to 9600
+Jagerbombe09 folds
+zzxzz folds
+flovane34 raises 6000 to 15600
+paul bzh calls 2092 and is all-in
+*** FLOP *** [4d Jh Qs]
+*** TURN *** [4d Jh Qs][Qh]
+*** RIVER *** [4d Jh Qs Qh][3s]
+*** SHOW DOWN ***
+paul bzh shows [Ad As] (Two pairs : Aces and Queens)
+flovane34 shows [5s 5c] (Two pairs : Queens and 5)
+flovane34 collected 3908 from side pot 1
+paul bzh collected 26144 from main pot
+*** SUMMARY ***
+Total pot 30052 | No rake
+Board: [4d Jh Qs Qh 3s]
+Seat 1: paul bzh (button) showed [Ad As] and won 26144 with Two pairs : Aces and Queens
+Seat 4: flovane34 showed [5s 5c] and won 3908 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-79-1537731454 - Holdem no limit (160/600/1200) - 2018/09/23 19:37:34 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (26144)
+Seat 2: Jagerbombe09 (70024)
+Seat 3: zzxzz (40096)
+Seat 4: flovane34 (16933)
+Seat 5: Du_dg (4860)
+Seat 6: a_toul59 (37050)
+*** ANTE/BLINDS ***
+zzxzz posts ante 160
+flovane34 posts ante 160
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+Du_dg posts ante 160
+a_toul59 posts ante 160
+zzxzz posts small blind 600
+flovane34 posts big blind 1200
+Dealt to paul bzh [Tc Js]
+*** PRE-FLOP *** 
+Du_dg folds
+a_toul59 folds
+paul bzh calls 1200
+Jagerbombe09 folds
+zzxzz calls 600
+flovane34 checks
+*** FLOP *** [7s 3c As]
+zzxzz checks
+flovane34 checks
+paul bzh bets 1800
+zzxzz folds
+flovane34 folds
+paul bzh collected 6360 from pot
+*** SUMMARY ***
+Total pot 6360 | No rake
+Board: [7s 3c As]
+Seat 1: paul bzh won 6360
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-80-1537731487 - Holdem no limit (160/600/1200) - 2018/09/23 19:38:07 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (29344)
+Seat 2: Jagerbombe09 (69864)
+Seat 3: zzxzz (38736)
+Seat 4: flovane34 (15573)
+Seat 5: Du_dg (4700)
+Seat 6: a_toul59 (36890)
+*** ANTE/BLINDS ***
+flovane34 posts ante 160
+Du_dg posts ante 160
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+a_toul59 posts ante 160
+flovane34 posts small blind 600
+Du_dg posts big blind 1200
+Dealt to paul bzh [9c Qc]
+*** PRE-FLOP *** 
+a_toul59 folds
+paul bzh raises 1200 to 2400
+Jagerbombe09 folds
+zzxzz folds
+flovane34 calls 1800
+Du_dg calls 1200
+*** FLOP *** [8s 2c 2d]
+flovane34 checks
+Du_dg bets 2140 and is all-in
+paul bzh calls 2140
+flovane34 raises 10873 to 13013 and is all-in
+paul bzh folds
+*** TURN *** [8s 2c 2d][5c]
+*** RIVER *** [8s 2c 2d 5c][Js]
+*** SHOW DOWN ***
+flovane34 shows [Jc Kh] (Two pairs : Jacks and 2)
+Du_dg shows [Kc Jd] (Two pairs : Jacks and 2)
+Du_dg collected 7290 from main pot
+flovane34 collected 18163 from side pot 1
+*** SUMMARY ***
+Total pot 25453 | No rake
+Board: [8s 2c 2d 5c Js]
+Seat 4: flovane34 (small blind) showed [Jc Kh] and won 18163 with Two pairs : Jacks and 2
+Seat 5: Du_dg (big blind) showed [Kc Jd] and won 7290 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-81-1537731528 - Holdem no limit (160/600/1200) - 2018/09/23 19:38:48 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (24644)
+Seat 2: Jagerbombe09 (69704)
+Seat 3: zzxzz (38576)
+Seat 4: flovane34 (18163)
+Seat 5: Du_dg (7290)
+Seat 6: a_toul59 (36730)
+*** ANTE/BLINDS ***
+Du_dg posts ante 160
+a_toul59 posts ante 160
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+flovane34 posts ante 160
+Du_dg posts small blind 600
+a_toul59 posts big blind 1200
+Dealt to paul bzh [7s 9s]
+*** PRE-FLOP *** 
+paul bzh calls 1200
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 checks
+*** FLOP *** [Ks 3h 6d]
+a_toul59 checks
+paul bzh checks
+*** TURN *** [Ks 3h 6d][5s]
+a_toul59 checks
+paul bzh checks
+*** RIVER *** [Ks 3h 6d 5s][Th]
+a_toul59 checks
+paul bzh checks
+*** SHOW DOWN ***
+paul bzh shows [7s 9s] (High card : King)
+a_toul59 shows [2s Jh] (High card : King)
+a_toul59 collected 3960 from pot
+*** SUMMARY ***
+Total pot 3960 | No rake
+Board: [Ks 3h 6d 5s Th]
+Seat 1: paul bzh showed [7s 9s] and lost with High card : King
+Seat 6: a_toul59 (big blind) showed [2s Jh] and won 3960 with High card : King
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-82-1537731571 - Holdem no limit (160/600/1200) - 2018/09/23 19:39:31 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (23284)
+Seat 2: Jagerbombe09 (69544)
+Seat 3: zzxzz (38416)
+Seat 4: flovane34 (18003)
+Seat 5: Du_dg (6530)
+Seat 6: a_toul59 (39330)
+*** ANTE/BLINDS ***
+a_toul59 posts ante 160
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+flovane34 posts ante 160
+Du_dg posts ante 160
+a_toul59 posts small blind 600
+paul bzh posts big blind 1200
+Dealt to paul bzh [5d 2c]
+*** PRE-FLOP *** 
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 calls 600
+paul bzh raises 2400 to 3600
+a_toul59 folds
+paul bzh collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Seat 1: paul bzh (big blind) won 5760
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-83-1537731607 - Holdem no limit (160/600/1200) - 2018/09/23 19:40:07 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (25284)
+Seat 2: Jagerbombe09 (69384)
+Seat 3: zzxzz (38256)
+Seat 4: flovane34 (17843)
+Seat 5: Du_dg (6370)
+Seat 6: a_toul59 (37970)
+*** ANTE/BLINDS ***
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+flovane34 posts ante 160
+Du_dg posts ante 160
+a_toul59 posts ante 160
+paul bzh posts small blind 600
+Jagerbombe09 posts big blind 1200
+Dealt to paul bzh [Ks 7c]
+*** PRE-FLOP *** 
+zzxzz folds
+flovane34 folds
+Du_dg folds
+a_toul59 folds
+paul bzh calls 600
+Jagerbombe09 checks
+*** FLOP *** [6h 8h Td]
+paul bzh checks
+Jagerbombe09 checks
+*** TURN *** [6h 8h Td][Kh]
+paul bzh bets 2400
+Jagerbombe09 folds
+paul bzh collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [6h 8h Td Kh]
+Seat 1: paul bzh (small blind) won 5760
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-84-1537731646 - Holdem no limit (160/600/1200) - 2018/09/23 19:40:46 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (27284)
+Seat 2: Jagerbombe09 (68024)
+Seat 3: zzxzz (38096)
+Seat 4: flovane34 (17683)
+Seat 5: Du_dg (6210)
+Seat 6: a_toul59 (37810)
+*** ANTE/BLINDS ***
+Jagerbombe09 posts ante 160
+zzxzz posts ante 160
+paul bzh posts ante 160
+flovane34 posts ante 160
+Du_dg posts ante 160
+a_toul59 posts ante 160
+Jagerbombe09 posts small blind 600
+zzxzz posts big blind 1200
+Dealt to paul bzh [2d 9h]
+*** PRE-FLOP *** 
+flovane34 folds
+Du_dg raises 4850 to 6050 and is all-in
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 folds
+zzxzz calls 4850
+*** FLOP *** [8h 3c 2s]
+*** TURN *** [8h 3c 2s][4d]
+*** RIVER *** [8h 3c 2s 4d][4c]
+*** SHOW DOWN ***
+Du_dg shows [Ts Qs] (One pair : 4)
+zzxzz shows [4h Kd] (Trips of 4)
+zzxzz collected 13660 from pot
+*** SUMMARY ***
+Total pot 13660 | No rake
+Board: [8h 3c 2s 4d 4c]
+Seat 3: zzxzz (big blind) showed [4h Kd] and won 13660 with Trips of 4
+Seat 5: Du_dg showed [Ts Qs] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1067326371220422713-85-1537731690 - Holdem no limit (160/600/1200) - 2018/09/23 19:41:30 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (27124)
+Seat 2: Jagerbombe09 (67264)
+Seat 3: zzxzz (45546)
+Seat 4: flovane34 (17523)
+Seat 5: MusTafaKLNit (33952)
+Seat 6: a_toul59 (37650)
+*** ANTE/BLINDS ***
+zzxzz posts ante 160
+flovane34 posts ante 160
+paul bzh posts ante 160
+Jagerbombe09 posts ante 160
+MusTafaKLNit posts ante 160
+a_toul59 posts ante 160
+zzxzz posts small blind 600
+flovane34 posts big blind 1200
+Dealt to paul bzh [5c 2s]
+*** PRE-FLOP *** 
+MusTafaKLNit raises 1620 to 2820
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+MusTafaKLNit collected 5580 from pot
+*** SUMMARY ***
+Total pot 5580 | No rake
+Seat 5: MusTafaKLNit won 5580
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-86-1537731740 - Holdem no limit (200/800/1600) - 2018/09/23 19:42:20 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (26964)
+Seat 2: Jagerbombe09 (67104)
+Seat 3: zzxzz (44786)
+Seat 4: flovane34 (16163)
+Seat 5: MusTafaKLNit (36552)
+Seat 6: a_toul59 (37490)
+*** ANTE/BLINDS ***
+flovane34 posts ante 200
+MusTafaKLNit posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+a_toul59 posts ante 200
+flovane34 posts small blind 800
+MusTafaKLNit posts big blind 1600
+Dealt to paul bzh [Tc Ts]
+*** PRE-FLOP *** 
+a_toul59 calls 1600
+paul bzh raises 2400 to 4000
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+MusTafaKLNit folds
+a_toul59 folds
+paul bzh collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Seat 1: paul bzh won 9200
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-87-1537731773 - Holdem no limit (200/800/1600) - 2018/09/23 19:42:53 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (31964)
+Seat 2: Jagerbombe09 (66904)
+Seat 3: zzxzz (44586)
+Seat 4: flovane34 (15163)
+Seat 5: MusTafaKLNit (34752)
+Seat 6: a_toul59 (35690)
+*** ANTE/BLINDS ***
+MusTafaKLNit posts ante 200
+a_toul59 posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+flovane34 posts ante 200
+MusTafaKLNit posts small blind 800
+a_toul59 posts big blind 1600
+Dealt to paul bzh [4h 5s]
+*** PRE-FLOP *** 
+paul bzh folds
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+MusTafaKLNit calls 800
+a_toul59 checks
+*** FLOP *** [9h 7h 5c]
+MusTafaKLNit checks
+a_toul59 checks
+*** TURN *** [9h 7h 5c][3s]
+MusTafaKLNit checks
+a_toul59 checks
+*** RIVER *** [9h 7h 5c 3s][Qc]
+MusTafaKLNit bets 2068
+a_toul59 folds
+MusTafaKLNit collected 6468 from pot
+*** SUMMARY ***
+Total pot 6468 | No rake
+Board: [9h 7h 5c 3s Qc]
+Seat 5: MusTafaKLNit (small blind) won 6468
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-88-1537731803 - Holdem no limit (200/800/1600) - 2018/09/23 19:43:23 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (31764)
+Seat 2: Jagerbombe09 (66704)
+Seat 3: zzxzz (44386)
+Seat 4: flovane34 (14963)
+Seat 5: MusTafaKLNit (37352)
+Seat 6: a_toul59 (33890)
+*** ANTE/BLINDS ***
+a_toul59 posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+flovane34 posts ante 200
+MusTafaKLNit posts ante 200
+a_toul59 posts small blind 800
+paul bzh posts big blind 1600
+Dealt to paul bzh [7s Qd]
+*** PRE-FLOP *** 
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+MusTafaKLNit folds
+a_toul59 calls 800
+paul bzh checks
+*** FLOP *** [Td Jc Ah]
+a_toul59 checks
+paul bzh bets 2200
+a_toul59 folds
+paul bzh collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Board: [Td Jc Ah]
+Seat 1: paul bzh (big blind) won 6600
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-89-1537731838 - Holdem no limit (200/800/1600) - 2018/09/23 19:43:58 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (34364)
+Seat 2: Jagerbombe09 (66504)
+Seat 3: zzxzz (44186)
+Seat 4: flovane34 (14763)
+Seat 5: MusTafaKLNit (37152)
+Seat 6: a_toul59 (32090)
+*** ANTE/BLINDS ***
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+flovane34 posts ante 200
+MusTafaKLNit posts ante 200
+a_toul59 posts ante 200
+paul bzh posts small blind 800
+Jagerbombe09 posts big blind 1600
+Dealt to paul bzh [Kd 2c]
+*** PRE-FLOP *** 
+zzxzz folds
+flovane34 folds
+MusTafaKLNit folds
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 2: Jagerbombe09 (big blind) won 3600
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-90-1537731855 - Holdem no limit (200/800/1600) - 2018/09/23 19:44:15 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (33364)
+Seat 2: Jagerbombe09 (68304)
+Seat 3: zzxzz (43986)
+Seat 4: flovane34 (14563)
+Seat 5: MusTafaKLNit (36952)
+Seat 6: a_toul59 (31890)
+*** ANTE/BLINDS ***
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+paul bzh posts ante 200
+flovane34 posts ante 200
+MusTafaKLNit posts ante 200
+a_toul59 posts ante 200
+Jagerbombe09 posts small blind 800
+zzxzz posts big blind 1600
+Dealt to paul bzh [7c 4h]
+*** PRE-FLOP *** 
+flovane34 folds
+MusTafaKLNit folds
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 calls 800
+zzxzz checks
+*** FLOP *** [5c Ac Qd]
+Jagerbombe09 checks
+zzxzz checks
+*** TURN *** [5c Ac Qd][Kd]
+Jagerbombe09 checks
+zzxzz checks
+*** RIVER *** [5c Ac Qd Kd][Qc]
+Jagerbombe09 checks
+zzxzz checks
+*** SHOW DOWN ***
+Jagerbombe09 shows [9h 7h] (One pair : Queens)
+zzxzz shows [8c Ts] (One pair : Queens)
+zzxzz collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [5c Ac Qd Kd Qc]
+Seat 2: Jagerbombe09 (small blind) showed [9h 7h] and lost with One pair : Queens
+Seat 3: zzxzz (big blind) showed [8c Ts] and won 4400 with One pair : Queens
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-91-1537731927 - Holdem no limit (200/800/1600) - 2018/09/23 19:45:27 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (33164)
+Seat 2: Jagerbombe09 (66504)
+Seat 3: zzxzz (46586)
+Seat 4: flovane34 (14363)
+Seat 5: MusTafaKLNit (36752)
+Seat 6: a_toul59 (31690)
+*** ANTE/BLINDS ***
+zzxzz posts ante 200
+flovane34 posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+MusTafaKLNit posts ante 200
+a_toul59 posts ante 200
+zzxzz posts small blind 800
+flovane34 posts big blind 1600
+Dealt to paul bzh [Kh Ks]
+*** PRE-FLOP *** 
+MusTafaKLNit raises 2160 to 3760
+a_toul59 folds
+paul bzh calls 3760
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+*** FLOP *** [2s 8s As]
+MusTafaKLNit bets 5226
+paul bzh calls 5226
+*** TURN *** [2s 8s As][Js]
+MusTafaKLNit checks
+paul bzh bets 8000
+MusTafaKLNit calls 8000
+*** RIVER *** [2s 8s As Js][Ah]
+MusTafaKLNit checks
+paul bzh checks
+*** SHOW DOWN ***
+MusTafaKLNit shows [Qh Qs] (Flush Ace high)
+paul bzh shows [Kh Ks] (Flush Ace high)
+paul bzh collected 37572 from pot
+*** SUMMARY ***
+Total pot 37572 | No rake
+Board: [2s 8s As Js Ah]
+Seat 1: paul bzh showed [Kh Ks] and won 37572 with Flush Ace high
+Seat 5: MusTafaKLNit showed [Qh Qs] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-92-1537731988 - Holdem no limit (200/800/1600) - 2018/09/23 19:46:28 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (53550)
+Seat 2: Jagerbombe09 (66304)
+Seat 3: zzxzz (45586)
+Seat 4: flovane34 (12563)
+Seat 5: MusTafaKLNit (19566)
+Seat 6: a_toul59 (31490)
+*** ANTE/BLINDS ***
+flovane34 posts ante 200
+MusTafaKLNit posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+a_toul59 posts ante 200
+flovane34 posts small blind 800
+MusTafaKLNit posts big blind 1600
+Dealt to paul bzh [Qs 3c]
+*** PRE-FLOP *** 
+a_toul59 folds
+paul bzh folds
+Jagerbombe09 folds
+zzxzz folds
+flovane34 raises 10763 to 12363 and is all-in
+MusTafaKLNit calls 10763
+*** FLOP *** [6h 5d Jc]
+*** TURN *** [6h 5d Jc][Qh]
+*** RIVER *** [6h 5d Jc Qh][5h]
+*** SHOW DOWN ***
+MusTafaKLNit shows [Ts 8d] (One pair : 5)
+flovane34 shows [Ac Kd] (One pair : 5)
+flovane34 collected 25926 from pot
+*** SUMMARY ***
+Total pot 25926 | No rake
+Board: [6h 5d Jc Qh 5h]
+Seat 4: flovane34 (small blind) showed [Ac Kd] and won 25926 with One pair : 5
+Seat 5: MusTafaKLNit (big blind) showed [Ts 8d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1067326371220422713-93-1537732041 - Holdem no limit (200/800/1600) - 2018/09/23 19:47:21 UTC
+Table: 'WANTED(248506286)#056' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (53350)
+Seat 2: Jagerbombe09 (66104)
+Seat 3: zzxzz (45386)
+Seat 4: flovane34 (25926)
+Seat 5: MusTafaKLNit (7003)
+Seat 6: a_toul59 (31290)
+*** ANTE/BLINDS ***
+MusTafaKLNit posts ante 200
+a_toul59 posts ante 200
+paul bzh posts ante 200
+Jagerbombe09 posts ante 200
+zzxzz posts ante 200
+flovane34 posts ante 200
+MusTafaKLNit posts small blind 800
+a_toul59 posts big blind 1600
+Dealt to paul bzh [4d 7d]
+*** PRE-FLOP *** 
+paul bzh folds
+Jagerbombe09 folds
+zzxzz folds
+flovane34 folds
+MusTafaKLNit raises 5203 to 6803 and is all-in
+a_toul59 folds
+MusTafaKLNit collected 9603 from pot
+*** SUMMARY ***
+Total pot 9603 | No rake
+Seat 5: MusTafaKLNit (small blind) won 9603
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-95-1537732118 - Holdem no limit (250/1000/2000) - 2018/09/23 19:48:38 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #3 is the button
+Seat 1: TinT1&Fishou (45714)
+Seat 2: Austin 69 (32872)
+Seat 3: paul bzh (53150)
+Seat 4: theorudy (17074)
+Seat 5: _senna_ (108637)
+Seat 6: fr puma (6784)
+*** ANTE/BLINDS ***
+theorudy posts ante 250
+_senna_ posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+fr puma posts ante 250
+theorudy posts small blind 1000
+_senna_ posts big blind 2000
+*** PRE-FLOP *** 
+fr puma raises 4534 to 6534 and is all-in
+TinT1&Fishou folds
+Austin 69 folds
+theorudy folds
+_senna_ calls 4534
+*** FLOP *** [9s 8d 5s]
+*** TURN *** [9s 8d 5s][4d]
+*** RIVER *** [9s 8d 5s 4d][Jc]
+*** SHOW DOWN ***
+_senna_ shows [4h 6h] (One pair : 4)
+fr puma shows [Ah Jd] (One pair : Jacks)
+fr puma collected 15318 from pot
+*** SUMMARY ***
+Total pot 15318 | No rake
+Board: [9s 8d 5s 4d Jc]
+Seat 5: _senna_ (big blind) showed [4h 6h] and lost with One pair : 4
+Seat 6: fr puma showed [Ah Jd] and won 15318 with One pair : Jacks
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-96-1537732146 - Holdem no limit (250/1000/2000) - 2018/09/23 19:49:06 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #4 is the button
+Seat 1: TinT1&Fishou (45464)
+Seat 2: Austin 69 (32622)
+Seat 3: paul bzh (53150)
+Seat 4: theorudy (15824)
+Seat 5: _senna_ (101853)
+Seat 6: fr puma (15318)
+*** ANTE/BLINDS ***
+_senna_ posts ante 250
+fr puma posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+paul bzh posts ante 250
+theorudy posts ante 250
+_senna_ posts small blind 1000
+fr puma posts big blind 2000
+Dealt to paul bzh [2s Qh]
+*** PRE-FLOP *** 
+TinT1&Fishou folds
+Austin 69 folds
+paul bzh folds
+theorudy raises 4000 to 6000
+_senna_ folds
+fr puma folds
+theorudy collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Seat 4: theorudy (button) won 10500
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-97-1537732168 - Holdem no limit (250/1000/2000) - 2018/09/23 19:49:28 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #5 is the button
+Seat 1: TinT1&Fishou (45214)
+Seat 2: Austin 69 (32372)
+Seat 3: paul bzh (52900)
+Seat 4: theorudy (20074)
+Seat 5: _senna_ (100603)
+Seat 6: fr puma (13068)
+*** ANTE/BLINDS ***
+fr puma posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+paul bzh posts ante 250
+theorudy posts ante 250
+_senna_ posts ante 250
+fr puma posts small blind 1000
+TinT1&Fishou posts big blind 2000
+Dealt to paul bzh [6s 7d]
+*** PRE-FLOP *** 
+Austin 69 folds
+paul bzh folds
+theorudy folds
+_senna_ folds
+fr puma raises 10818 to 12818 and is all-in
+TinT1&Fishou folds
+fr puma collected 16318 from pot
+*** SUMMARY ***
+Total pot 16318 | No rake
+Seat 6: fr puma (small blind) won 16318
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-98-1537732218 - Holdem no limit (250/1000/2000) - 2018/09/23 19:50:18 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #6 is the button
+Seat 1: TinT1&Fishou (42964)
+Seat 2: Austin 69 (32122)
+Seat 3: paul bzh (52650)
+Seat 4: theorudy (19824)
+Seat 5: _senna_ (100353)
+Seat 6: fr puma (16318)
+*** ANTE/BLINDS ***
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+paul bzh posts ante 250
+theorudy posts ante 250
+_senna_ posts ante 250
+fr puma posts ante 250
+TinT1&Fishou posts small blind 1000
+Austin 69 posts big blind 2000
+Dealt to paul bzh [5c Kc]
+*** PRE-FLOP *** 
+paul bzh folds
+theorudy folds
+_senna_ folds
+fr puma folds
+TinT1&Fishou calls 1000
+Austin 69 checks
+*** FLOP *** [As 3d Qh]
+TinT1&Fishou checks
+Austin 69 checks
+*** TURN *** [As 3d Qh][Ah]
+TinT1&Fishou checks
+Austin 69 checks
+*** RIVER *** [As 3d Qh Ah][6h]
+TinT1&Fishou checks
+Austin 69 checks
+*** SHOW DOWN ***
+Austin 69 shows [4s Kd] (One pair : Aces)
+TinT1&Fishou shows [7c 6d] (Two pairs : Aces and 6)
+TinT1&Fishou collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [As 3d Qh Ah 6h]
+Seat 1: TinT1&Fishou (small blind) showed [7c 6d] and won 5500 with Two pairs : Aces and 6
+Seat 2: Austin 69 (big blind) showed [4s Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-99-1537732323 - Holdem no limit (250/1000/2000) - 2018/09/23 19:52:03 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #1 is the button
+Seat 1: TinT1&Fishou (46214)
+Seat 2: Austin 69 (29872)
+Seat 3: paul bzh (52400)
+Seat 4: theorudy (19574)
+Seat 5: _senna_ (100103)
+Seat 6: fr puma (16068)
+*** ANTE/BLINDS ***
+Austin 69 posts ante 250
+paul bzh posts ante 250
+TinT1&Fishou posts ante 250
+theorudy posts ante 250
+_senna_ posts ante 250
+fr puma posts ante 250
+Austin 69 posts small blind 1000
+paul bzh posts big blind 2000
+Dealt to paul bzh [9h 2c]
+*** PRE-FLOP *** 
+theorudy folds
+_senna_ folds
+fr puma folds
+TinT1&Fishou folds
+Austin 69 raises 27622 to 29622 and is all-in
+paul bzh folds
+Austin 69 collected 33122 from pot
+*** SUMMARY ***
+Total pot 33122 | No rake
+Seat 2: Austin 69 (small blind) won 33122
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-100-1537732354 - Holdem no limit (250/1000/2000) - 2018/09/23 19:52:34 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #2 is the button
+Seat 1: TinT1&Fishou (45964)
+Seat 2: Austin 69 (33122)
+Seat 3: paul bzh (50150)
+Seat 4: theorudy (19324)
+Seat 5: _senna_ (99853)
+Seat 6: fr puma (15818)
+*** ANTE/BLINDS ***
+paul bzh posts ante 250
+theorudy posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+_senna_ posts ante 250
+fr puma posts ante 250
+paul bzh posts small blind 1000
+theorudy posts big blind 2000
+Dealt to paul bzh [Ks Tc]
+*** PRE-FLOP *** 
+_senna_ raises 2000 to 4000
+fr puma folds
+TinT1&Fishou folds
+Austin 69 folds
+paul bzh calls 3000
+theorudy folds
+*** FLOP *** [2h 2d 5h]
+paul bzh bets 5000
+_senna_ raises 90603 to 95603 and is all-in
+paul bzh folds
+_senna_ collected 112103 from pot
+*** SUMMARY ***
+Total pot 112103 | No rake
+Board: [2h 2d 5h]
+Seat 5: _senna_ won 112103
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-101-1537732410 - Holdem no limit (250/1000/2000) - 2018/09/23 19:53:30 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #3 is the button
+Seat 1: TinT1&Fishou (45714)
+Seat 2: Austin 69 (32872)
+Seat 3: paul bzh (40900)
+Seat 4: theorudy (17074)
+Seat 5: _senna_ (112103)
+Seat 6: fr puma (15568)
+*** ANTE/BLINDS ***
+theorudy posts ante 250
+_senna_ posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+paul bzh posts ante 250
+fr puma posts ante 250
+theorudy posts small blind 1000
+_senna_ posts big blind 2000
+Dealt to paul bzh [Kc 5h]
+*** PRE-FLOP *** 
+fr puma folds
+TinT1&Fishou folds
+Austin 69 folds
+paul bzh folds
+theorudy folds
+_senna_ collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 5: _senna_ (big blind) won 4500
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #1067326371220422701-102-1537732431 - Holdem no limit (250/1000/2000) - 2018/09/23 19:53:51 UTC
+Table: 'WANTED(248506286)#044' 6-max (real money) Seat #4 is the button
+Seat 1: TinT1&Fishou (45464)
+Seat 2: Austin 69 (32622)
+Seat 3: paul bzh (40650)
+Seat 4: theorudy (15824)
+Seat 5: _senna_ (114353)
+Seat 6: fr puma (15318)
+*** ANTE/BLINDS ***
+_senna_ posts ante 250
+fr puma posts ante 250
+TinT1&Fishou posts ante 250
+Austin 69 posts ante 250
+paul bzh posts ante 250
+theorudy posts ante 250
+_senna_ posts small blind 1000
+fr puma posts big blind 2000
+Dealt to paul bzh [As Kd]
+*** PRE-FLOP *** 
+TinT1&Fishou folds
+Austin 69 raises 30372 to 32372 and is all-in
+paul bzh calls 32372
+theorudy folds
+_senna_ folds
+fr puma folds
+*** FLOP *** [Kc 8c Ah]
+*** TURN *** [Kc 8c Ah][3h]
+*** RIVER *** [Kc 8c Ah 3h][7c]
+*** SHOW DOWN ***
+Austin 69 shows [Jh Ac] (One pair : Aces)
+paul bzh shows [As Kd] (Two pairs : Aces and Kings)
+paul bzh collected 69244 from pot
+*** SUMMARY ***
+Total pot 69244 | No rake
+Board: [Kc 8c Ah 3h 7c]
+Seat 2: Austin 69 showed [Jh Ac] and lost with One pair : Aces
+Seat 3: paul bzh showed [As Kd] and won 69244 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #1067326371220422677-94-1537733340 - Holdem no limit (400/1500/3000) - 2018/09/23 20:09:00 UTC
+Table: 'WANTED(248506286)#020' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (90522)
+Seat 2: farkana (44107)
+Seat 3: Cekel51 (127090)
+Seat 4: nioto30 (128690)
+Seat 5: QQ-LA-PRALL- (40339)
+Seat 6: Mafia ilo (89381)
+*** ANTE/BLINDS ***
+Cekel51 posts ante 400
+nioto30 posts ante 400
+paul bzh posts ante 400
+farkana posts ante 400
+QQ-LA-PRALL- posts ante 400
+Mafia ilo posts ante 400
+Cekel51 posts small blind 1500
+nioto30 posts big blind 3000
+Dealt to paul bzh [2s Ks]
+*** PRE-FLOP *** 
+QQ-LA-PRALL- raises 36939 to 39939 and is all-in
+Mafia ilo calls 39939
+paul bzh folds
+farkana folds
+Cekel51 folds
+nioto30 folds
+
+*** FLOP *** [4h Kd 2d]
+
+*** TURN *** [4h Kd 2d][3s]
+
+*** RIVER *** [4h Kd 2d 3s][8s]
+
+*** SHOW DOWN ***
+Mafia ilo shows [Js Qs] (High card : King)
+QQ-LA-PRALL- shows [6s 6h] (One pair : 6)
+QQ-LA-PRALL- collected 86778 from pot
+
+*** SUMMARY ***
+Total pot 86778 | No rake
+Board: [4h Kd 2d 3s 8s]
+Seat 5: QQ-LA-PRALL- showed [6s 6h] and won 86778 with One pair : 
+6
+Seat 6: Mafia ilo showed [Js Qs] and lost with High card : 
+
+King
+
+
+Winamax Poker - Tournament "WANTED" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #1067326371220422677-95-1537733641 - Holdem no limit (400/1500/3000) - 2018/09/23 20:14:01 UTC
+Table: 'WANTED(248506286)#020' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (90122)
+Seat 2: farkana (43707)
+Seat 3: Cekel51 (125190)
+Seat 4: nioto30 (125290)
+Seat 5: QQ-LA-PRALL- (86778)
+Seat 6: Mafia ilo (49042)
+*** ANTE/BLINDS ***
+nioto30 posts ante 400
+QQ-LA-PRALL- posts ante 400
+paul bzh posts ante 400
+farkana posts ante 400
+Cekel51 posts ante 400
+Mafia ilo posts ante 400
+nioto30 posts small blind 1500
+QQ-LA-PRALL- posts big blind 3000
+Dealt to paul bzh [2d Ks]
+*** PRE-FLOP *** 
+Mafia ilo folds
+paul bzh folds
+farkana folds
+Cekel51 calls 3000
+nioto30 calls 1500
+QQ-LA-PRALL- raises 6090 to 9090
+Cekel51 calls 6090
+nioto30 folds
+*** FLOP *** [Jd Ad 2h]
+QQ-LA-PRALL- checks
+Cekel51 checks
+*** TURN *** [Jd Ad 2h][Ts]
+QQ-LA-PRALL- bets 11083
+Cekel51 calls 11083
+*** RIVER *** [Jd Ad 2h Ts][7c]
+QQ-LA-PRALL- bets 18000
+Cekel51 folds
+QQ-LA-PRALL- collected 63746 from pot
+*** SUMMARY ***
+Total pot 63746 | No rake
+Board: [Jd Ad 2h Ts 7c]
+Seat 5: QQ-LA-PRALL- (big blind) won 63746
+
+

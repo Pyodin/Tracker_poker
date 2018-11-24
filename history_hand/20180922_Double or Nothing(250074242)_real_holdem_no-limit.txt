@@ -1,0 +1,807 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074060690961989633-1-1537631036 - Holdem no limit (10/20) - 2018/09/22 15:43:56 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1500)
+Seat 2: I_am_No_One (1500)
+Seat 3: LammyYukun (1500)
+Seat 4: RHUMI (1500)
+Seat 5: ezerus1 (1500)
+Seat 6: Manulafuine (1500)
+*** ANTE/BLINDS ***
+Manulafuine posts small blind 10
+paul bzh posts big blind 20
+Dealt to paul bzh [Td 2c]
+*** PRE-FLOP *** 
+I_am_No_One folds
+LammyYukun folds
+RHUMI calls 20
+ezerus1 calls 20
+Manulafuine calls 10
+paul bzh checks
+*** FLOP *** [3c Js Ac]
+Manulafuine checks
+paul bzh checks
+RHUMI checks
+ezerus1 checks
+*** TURN *** [3c Js Ac][Qh]
+Manulafuine checks
+paul bzh checks
+RHUMI checks
+ezerus1 checks
+*** RIVER *** [3c Js Ac Qh][3h]
+Manulafuine checks
+paul bzh checks
+RHUMI checks
+ezerus1 checks
+*** SHOW DOWN ***
+paul bzh shows [Td 2c] (One pair : 3)
+RHUMI shows [Jd Th] (Two pairs : Jacks and 3)
+Manulafuine shows [5c 7c] (One pair : 3)
+ezerus1 shows [4s Ah] (Two pairs : Aces and 3)
+ezerus1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3c Js Ac Qh 3h]
+Seat 1: paul bzh (big blind) showed [Td 2c] and lost with One pair : 3
+Seat 4: RHUMI showed [Jd Th] and lost with Two pairs : Jacks and 3
+Seat 5: ezerus1 (button) showed [4s Ah] and won 80 with Two pairs : Aces and 3
+Seat 6: Manulafuine (small blind) showed [5c 7c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074060690961989633-2-1537631139 - Holdem no limit (10/20) - 2018/09/22 15:45:39 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (1480)
+Seat 2: I_am_No_One (1500)
+Seat 3: LammyYukun (1500)
+Seat 4: RHUMI (1480)
+Seat 5: ezerus1 (1560)
+Seat 6: Manulafuine (1480)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 10
+I_am_No_One posts big blind 20
+Dealt to paul bzh [Jh 8s]
+*** PRE-FLOP *** 
+LammyYukun folds
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+paul bzh calls 10
+I_am_No_One checks
+*** FLOP *** [Qh Qs 8d]
+paul bzh bets 30
+I_am_No_One calls 30
+*** TURN *** [Qh Qs 8d][3s]
+paul bzh bets 50
+I_am_No_One calls 50
+*** RIVER *** [Qh Qs 8d 3s][7d]
+paul bzh checks
+I_am_No_One checks
+*** SHOW DOWN ***
+paul bzh shows [Jh 8s] (Two pairs : Queens and 8)
+I_am_No_One shows [8h Ks] (Two pairs : Queens and 8)
+I_am_No_One collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qh Qs 8d 3s 7d]
+Seat 1: paul bzh (small blind) showed [Jh 8s] and lost with Two pairs : Queens and 8
+Seat 2: I_am_No_One (big blind) showed [8h Ks] and won 200 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 1 - HandId: #1074060690961989633-3-1537631174 - Holdem no limit (10/20) - 2018/09/22 15:46:14 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (1380)
+Seat 2: I_am_No_One (1600)
+Seat 3: LammyYukun (1500)
+Seat 4: RHUMI (1480)
+Seat 5: ezerus1 (1560)
+Seat 6: Manulafuine (1480)
+*** ANTE/BLINDS ***
+I_am_No_One posts small blind 10
+LammyYukun posts big blind 20
+Dealt to paul bzh [Ts 7d]
+*** PRE-FLOP *** 
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+paul bzh calls 20
+I_am_No_One calls 10
+LammyYukun checks
+*** FLOP *** [5d 9d 3h]
+I_am_No_One checks
+LammyYukun checks
+paul bzh checks
+*** TURN *** [5d 9d 3h][3d]
+I_am_No_One checks
+LammyYukun checks
+paul bzh bets 40
+I_am_No_One folds
+LammyYukun folds
+paul bzh collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5d 9d 3h 3d]
+Seat 1: paul bzh (button) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074060690961989633-4-1537631237 - Holdem no limit (15/30) - 2018/09/22 15:47:17 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (1420)
+Seat 2: I_am_No_One (1580)
+Seat 3: LammyYukun (1480)
+Seat 4: RHUMI (1480)
+Seat 5: ezerus1 (1560)
+Seat 6: Manulafuine (1480)
+*** ANTE/BLINDS ***
+LammyYukun posts small blind 15
+RHUMI posts big blind 30
+Dealt to paul bzh [8c 6h]
+*** PRE-FLOP *** 
+ezerus1 folds
+Manulafuine folds
+paul bzh folds
+I_am_No_One raises 45 to 75
+LammyYukun folds
+RHUMI folds
+I_am_No_One collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: I_am_No_One (button) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074060690961989633-5-1537631260 - Holdem no limit (15/30) - 2018/09/22 15:47:40 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1420)
+Seat 2: I_am_No_One (1625)
+Seat 3: LammyYukun (1465)
+Seat 4: RHUMI (1450)
+Seat 5: ezerus1 (1560)
+Seat 6: Manulafuine (1480)
+*** ANTE/BLINDS ***
+RHUMI posts small blind 15
+ezerus1 posts big blind 30
+Dealt to paul bzh [Kh Td]
+*** PRE-FLOP *** 
+Manulafuine folds
+paul bzh raises 45 to 75
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 calls 45
+*** FLOP *** [7s 7d Ts]
+ezerus1 checks
+paul bzh bets 75
+ezerus1 calls 75
+*** TURN *** [7s 7d Ts][6d]
+ezerus1 checks
+paul bzh checks
+*** RIVER *** [7s 7d Ts 6d][Js]
+ezerus1 checks
+paul bzh bets 158
+ezerus1 folds
+paul bzh collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | No rake
+Board: [7s 7d Ts 6d Js]
+Seat 1: paul bzh won 473
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074060690961989633-6-1537631334 - Holdem no limit (15/30) - 2018/09/22 15:48:54 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1585)
+Seat 2: I_am_No_One (1625)
+Seat 3: LammyYukun (1465)
+Seat 4: RHUMI (1435)
+Seat 5: ezerus1 (1410)
+Seat 6: Manulafuine (1480)
+*** ANTE/BLINDS ***
+ezerus1 posts small blind 15
+Manulafuine posts big blind 30
+Dealt to paul bzh [9d 2h]
+*** PRE-FLOP *** 
+paul bzh folds
+I_am_No_One raises 45 to 75
+LammyYukun folds
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+I_am_No_One collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: I_am_No_One won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 2 - HandId: #1074060690961989633-7-1537631364 - Holdem no limit (15/30) - 2018/09/22 15:49:24 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1585)
+Seat 2: I_am_No_One (1670)
+Seat 3: LammyYukun (1465)
+Seat 4: RHUMI (1435)
+Seat 5: ezerus1 (1395)
+Seat 6: Manulafuine (1450)
+*** ANTE/BLINDS ***
+Manulafuine posts small blind 15
+paul bzh posts big blind 30
+Dealt to paul bzh [5h 8s]
+*** PRE-FLOP *** 
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 raises 30 to 60
+Manulafuine folds
+paul bzh calls 30
+*** FLOP *** [8h Jh 4c]
+paul bzh bets 60
+ezerus1 calls 60
+*** TURN *** [8h Jh 4c][3h]
+paul bzh checks
+ezerus1 checks
+*** RIVER *** [8h Jh 4c 3h][Qs]
+paul bzh bets 75
+ezerus1 calls 75
+*** SHOW DOWN ***
+ezerus1 shows [6h 6d] (One pair : 6)
+paul bzh shows [5h 8s] (One pair : 8)
+paul bzh collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [8h Jh 4c 3h Qs]
+Seat 1: paul bzh (big blind) showed [5h 8s] and won 405 with One pair : 8
+Seat 5: ezerus1 (button) showed [6h 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074060690961989633-8-1537631469 - Holdem no limit (20/40) - 2018/09/22 15:51:09 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (1795)
+Seat 2: I_am_No_One (1670)
+Seat 3: LammyYukun (1465)
+Seat 4: RHUMI (1435)
+Seat 5: ezerus1 (1200)
+Seat 6: Manulafuine (1435)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 20
+I_am_No_One posts big blind 40
+Dealt to paul bzh [6h Jc]
+*** PRE-FLOP *** 
+LammyYukun folds
+RHUMI calls 40
+ezerus1 folds
+Manulafuine folds
+paul bzh calls 20
+I_am_No_One checks
+*** FLOP *** [2d 8c Tc]
+paul bzh checks
+I_am_No_One checks
+RHUMI checks
+*** TURN *** [2d 8c Tc][2h]
+paul bzh checks
+I_am_No_One checks
+RHUMI checks
+*** RIVER *** [2d 8c Tc 2h][Ad]
+paul bzh bets 100
+I_am_No_One folds
+RHUMI calls 100
+*** SHOW DOWN ***
+paul bzh shows [6h Jc] (One pair : 2)
+RHUMI shows [Kd Td] (Two pairs : Tens and 2)
+RHUMI collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2d 8c Tc 2h Ad]
+Seat 1: paul bzh (small blind) showed [6h Jc] and lost with One pair : 2
+Seat 4: RHUMI showed [Kd Td] and won 320 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 3 - HandId: #1074060690961989633-9-1537631559 - Holdem no limit (20/40) - 2018/09/22 15:52:39 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (1655)
+Seat 2: I_am_No_One (1630)
+Seat 3: LammyYukun (1465)
+Seat 4: RHUMI (1615)
+Seat 5: ezerus1 (1200)
+Seat 6: Manulafuine (1435)
+*** ANTE/BLINDS ***
+I_am_No_One posts small blind 20
+LammyYukun posts big blind 40
+Dealt to paul bzh [2s Jh]
+*** PRE-FLOP *** 
+RHUMI folds
+ezerus1 calls 40
+Manulafuine folds
+paul bzh folds
+I_am_No_One folds
+LammyYukun checks
+*** FLOP *** [Ah Qd 9s]
+LammyYukun checks
+ezerus1 checks
+*** TURN *** [Ah Qd 9s][6h]
+LammyYukun checks
+ezerus1 checks
+*** RIVER *** [Ah Qd 9s 6h][3h]
+LammyYukun checks
+ezerus1 checks
+*** SHOW DOWN ***
+LammyYukun shows [Js 8s] (High card : Ace)
+ezerus1 shows [9c Th] (One pair : 9)
+ezerus1 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ah Qd 9s 6h 3h]
+Seat 3: LammyYukun (big blind) showed [Js 8s] and lost with High card : Ace
+Seat 5: ezerus1 showed [9c Th] and won 100 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074060690961989633-10-1537631606 - Holdem no limit (30/60) - 2018/09/22 15:53:26 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (1655)
+Seat 2: I_am_No_One (1610)
+Seat 3: LammyYukun (1425)
+Seat 4: RHUMI (1615)
+Seat 5: ezerus1 (1260)
+Seat 6: Manulafuine (1435)
+*** ANTE/BLINDS ***
+LammyYukun posts small blind 30
+RHUMI posts big blind 60
+Dealt to paul bzh [Ac 9d]
+*** PRE-FLOP *** 
+ezerus1 calls 60
+Manulafuine folds
+paul bzh raises 90 to 150
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 calls 90
+*** FLOP *** [8s 7c 2h]
+ezerus1 checks
+paul bzh bets 90
+ezerus1 raises 1020 to 1110 and is all-in
+paul bzh folds
+ezerus1 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [8s 7c 2h]
+Seat 5: ezerus1 won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074060690961989633-11-1537631674 - Holdem no limit (30/60) - 2018/09/22 15:54:34 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1415)
+Seat 2: I_am_No_One (1610)
+Seat 3: LammyYukun (1395)
+Seat 4: RHUMI (1555)
+Seat 5: ezerus1 (1590)
+Seat 6: Manulafuine (1435)
+*** ANTE/BLINDS ***
+RHUMI posts small blind 30
+ezerus1 posts big blind 60
+Dealt to paul bzh [Tc Jc]
+*** PRE-FLOP *** 
+Manulafuine folds
+paul bzh calls 60
+I_am_No_One folds
+LammyYukun folds
+RHUMI calls 30
+ezerus1 checks
+*** FLOP *** [7c 9h Jd]
+RHUMI checks
+ezerus1 checks
+paul bzh bets 120
+RHUMI folds
+ezerus1 folds
+paul bzh collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7c 9h Jd]
+Seat 1: paul bzh won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 4 - HandId: #1074060690961989633-12-1537631713 - Holdem no limit (30/60) - 2018/09/22 15:55:13 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1535)
+Seat 2: I_am_No_One (1610)
+Seat 3: LammyYukun (1395)
+Seat 4: RHUMI (1495)
+Seat 5: ezerus1 (1530)
+Seat 6: Manulafuine (1435)
+*** ANTE/BLINDS ***
+ezerus1 posts small blind 30
+Manulafuine posts big blind 60
+Dealt to paul bzh [Qc Jh]
+*** PRE-FLOP *** 
+paul bzh calls 60
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 calls 30
+Manulafuine checks
+*** FLOP *** [6c 9h Kd]
+ezerus1 checks
+Manulafuine checks
+paul bzh checks
+*** TURN *** [6c 9h Kd][7d]
+ezerus1 checks
+Manulafuine bets 60
+paul bzh calls 60
+ezerus1 calls 60
+*** RIVER *** [6c 9h Kd 7d][4c]
+ezerus1 checks
+Manulafuine checks
+paul bzh checks
+*** SHOW DOWN ***
+paul bzh shows [Qc Jh] (High card : King)
+Manulafuine shows [Th Jc] (High card : King)
+ezerus1 shows [3d 9d] (One pair : 9)
+ezerus1 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6c 9h Kd 7d 4c]
+Seat 1: paul bzh showed [Qc Jh] and lost with High card : King
+Seat 5: ezerus1 (small blind) showed [3d 9d] and won 360 with One pair : 9
+Seat 6: Manulafuine (big blind) showed [Th Jc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074060690961989633-13-1537631773 - Holdem no limit (40/80) - 2018/09/22 15:56:13 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1415)
+Seat 2: I_am_No_One (1610)
+Seat 3: LammyYukun (1395)
+Seat 4: RHUMI (1495)
+Seat 5: ezerus1 (1770)
+Seat 6: Manulafuine (1315)
+*** ANTE/BLINDS ***
+Manulafuine posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [Qc 9s]
+*** PRE-FLOP *** 
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 calls 80
+Manulafuine raises 200 to 280
+paul bzh folds
+ezerus1 calls 200
+*** FLOP *** [8c 6c Ad]
+Manulafuine checks
+ezerus1 bets 1490 and is all-in
+Manulafuine folds
+ezerus1 collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Board: [8c 6c Ad]
+Seat 5: ezerus1 (button) won 2130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074060690961989633-14-1537631833 - Holdem no limit (40/80) - 2018/09/22 15:57:13 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (1335)
+Seat 2: I_am_No_One (1610)
+Seat 3: LammyYukun (1395)
+Seat 4: RHUMI (1495)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (1035)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 40
+I_am_No_One posts big blind 80
+Dealt to paul bzh [Kh 5d]
+*** PRE-FLOP *** 
+LammyYukun folds
+RHUMI folds
+ezerus1 folds
+Manulafuine calls 80
+paul bzh calls 40
+I_am_No_One checks
+*** FLOP *** [3s Kd As]
+paul bzh checks
+I_am_No_One checks
+Manulafuine bets 80
+paul bzh calls 80
+I_am_No_One calls 80
+*** TURN *** [3s Kd As][Ac]
+paul bzh checks
+I_am_No_One checks
+Manulafuine checks
+*** RIVER *** [3s Kd As Ac][7s]
+paul bzh bets 80
+I_am_No_One raises 160 to 240
+Manulafuine folds
+paul bzh folds
+I_am_No_One collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [3s Kd As Ac 7s]
+Seat 2: I_am_No_One (big blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074060690961989633-15-1537631906 - Holdem no limit (40/80) - 2018/09/22 15:58:26 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (1095)
+Seat 2: I_am_No_One (2010)
+Seat 3: LammyYukun (1395)
+Seat 4: RHUMI (1495)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (875)
+*** ANTE/BLINDS ***
+I_am_No_One posts small blind 40
+LammyYukun posts big blind 80
+Dealt to paul bzh [Qc 8h]
+*** PRE-FLOP *** 
+RHUMI folds
+ezerus1 folds
+Manulafuine raises 160 to 240
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+Manulafuine collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: Manulafuine won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 5 - HandId: #1074060690961989633-16-1537631923 - Holdem no limit (40/80) - 2018/09/22 15:58:43 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (1095)
+Seat 2: I_am_No_One (1970)
+Seat 3: LammyYukun (1315)
+Seat 4: RHUMI (1495)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (995)
+*** ANTE/BLINDS ***
+LammyYukun posts small blind 40
+RHUMI posts big blind 80
+Dealt to paul bzh [Qs 8d]
+*** PRE-FLOP *** 
+ezerus1 folds
+Manulafuine folds
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+RHUMI collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: RHUMI (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-17-1537631946 - Holdem no limit (60/120) - 2018/09/22 15:59:06 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1095)
+Seat 2: I_am_No_One (1970)
+Seat 3: LammyYukun (1275)
+Seat 4: RHUMI (1535)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (995)
+*** ANTE/BLINDS ***
+RHUMI posts small blind 60
+ezerus1 posts big blind 120
+Dealt to paul bzh [7s 6c]
+*** PRE-FLOP *** 
+Manulafuine raises 875 to 995 and is all-in
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+RHUMI folds
+ezerus1 folds
+Manulafuine collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Seat 6: Manulafuine won 1175
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-18-1537631971 - Holdem no limit (60/120) - 2018/09/22 15:59:31 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1095)
+Seat 2: I_am_No_One (1970)
+Seat 3: LammyYukun (1275)
+Seat 4: RHUMI (1475)
+Seat 5: ezerus1 (2010)
+Seat 6: Manulafuine (1175)
+*** ANTE/BLINDS ***
+ezerus1 posts small blind 60
+Manulafuine posts big blind 120
+Dealt to paul bzh [6c 4s]
+*** PRE-FLOP *** 
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+RHUMI raises 1355 to 1475 and is all-in
+ezerus1 folds
+Manulafuine folds
+RHUMI collected 1655 from pot
+*** SUMMARY ***
+Total pot 1655 | No rake
+Seat 4: RHUMI (button) won 1655
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-19-1537631998 - Holdem no limit (60/120) - 2018/09/22 15:59:58 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1095)
+Seat 2: I_am_No_One (1970)
+Seat 3: LammyYukun (1275)
+Seat 4: RHUMI (1655)
+Seat 5: ezerus1 (1950)
+Seat 6: Manulafuine (1055)
+*** ANTE/BLINDS ***
+Manulafuine posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [3c 7s]
+*** PRE-FLOP *** 
+I_am_No_One folds
+LammyYukun raises 1155 to 1275 and is all-in
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+paul bzh folds
+LammyYukun collected 1455 from pot
+*** SUMMARY ***
+Total pot 1455 | No rake
+Seat 3: LammyYukun won 1455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-20-1537632035 - Holdem no limit (60/120) - 2018/09/22 16:00:35 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #6 is the button
+Seat 1: paul bzh (975)
+Seat 2: I_am_No_One (1970)
+Seat 3: LammyYukun (1455)
+Seat 4: RHUMI (1655)
+Seat 5: ezerus1 (1950)
+Seat 6: Manulafuine (995)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+I_am_No_One posts big blind 120
+Dealt to paul bzh [7h 6c]
+*** PRE-FLOP *** 
+LammyYukun folds
+RHUMI folds
+ezerus1 folds
+Manulafuine raises 875 to 995 and is all-in
+paul bzh folds
+I_am_No_One folds
+Manulafuine collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Seat 6: Manulafuine (button) won 1175
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-21-1537632051 - Holdem no limit (60/120) - 2018/09/22 16:00:51 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #1 is the button
+Seat 1: paul bzh (915)
+Seat 2: I_am_No_One (1850)
+Seat 3: LammyYukun (1455)
+Seat 4: RHUMI (1655)
+Seat 5: ezerus1 (1950)
+Seat 6: Manulafuine (1175)
+*** ANTE/BLINDS ***
+I_am_No_One posts small blind 60
+LammyYukun posts big blind 120
+Dealt to paul bzh [Qd 2c]
+*** PRE-FLOP *** 
+RHUMI folds
+ezerus1 raises 240 to 360
+Manulafuine folds
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+ezerus1 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 5: ezerus1 won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-22-1537632079 - Holdem no limit (60/120) - 2018/09/22 16:01:19 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #2 is the button
+Seat 1: paul bzh (915)
+Seat 2: I_am_No_One (1790)
+Seat 3: LammyYukun (1335)
+Seat 4: RHUMI (1655)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (1175)
+*** ANTE/BLINDS ***
+LammyYukun posts small blind 60
+RHUMI posts big blind 120
+Dealt to paul bzh [6d Qd]
+*** PRE-FLOP *** 
+ezerus1 folds
+Manulafuine folds
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+RHUMI collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: RHUMI (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 6 - HandId: #1074060690961989633-23-1537632091 - Holdem no limit (60/120) - 2018/09/22 16:01:31 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #3 is the button
+Seat 1: paul bzh (915)
+Seat 2: I_am_No_One (1790)
+Seat 3: LammyYukun (1275)
+Seat 4: RHUMI (1715)
+Seat 5: ezerus1 (2130)
+Seat 6: Manulafuine (1175)
+*** ANTE/BLINDS ***
+RHUMI posts small blind 60
+ezerus1 posts big blind 120
+Dealt to paul bzh [7h 8h]
+*** PRE-FLOP *** 
+Manulafuine folds
+paul bzh folds
+I_am_No_One folds
+LammyYukun folds
+RHUMI calls 60
+ezerus1 checks
+*** FLOP *** [3c 2s Kc]
+RHUMI checks
+ezerus1 checks
+*** TURN *** [3c 2s Kc][6s]
+RHUMI checks
+ezerus1 checks
+*** RIVER *** [3c 2s Kc 6s][Js]
+RHUMI checks
+ezerus1 checks
+*** SHOW DOWN ***
+ezerus1 shows [Ah 7d] (High card : Ace)
+RHUMI shows [5s Kd] (One pair : Kings)
+RHUMI collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3c 2s Kc 6s Js]
+Seat 4: RHUMI (small blind) showed [5s Kd] and won 240 with One pair : Kings
+Seat 5: ezerus1 (big blind) showed [Ah 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 7 - HandId: #1074060690961989633-24-1537632116 - Holdem no limit (80/160) - 2018/09/22 16:01:56 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #4 is the button
+Seat 1: paul bzh (915)
+Seat 2: I_am_No_One (1790)
+Seat 3: LammyYukun (1275)
+Seat 4: RHUMI (1835)
+Seat 5: ezerus1 (2010)
+Seat 6: Manulafuine (1175)
+*** ANTE/BLINDS ***
+ezerus1 posts small blind 80
+Manulafuine posts big blind 160
+Dealt to paul bzh [4c Ts]
+*** PRE-FLOP *** 
+paul bzh folds
+I_am_No_One folds
+LammyYukun raises 1115 to 1275 and is all-in
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+LammyYukun collected 1515 from pot
+*** SUMMARY ***
+Total pot 1515 | No rake
+Seat 3: LammyYukun won 1515
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4.70€ + 0.30€ level: 7 - HandId: #1074060690961989633-25-1537632141 - Holdem no limit (80/160) - 2018/09/22 16:02:21 UTC
+Table: 'Double or Nothing(250074242)#0' 6-max (real money) Seat #5 is the button
+Seat 1: paul bzh (915)
+Seat 2: I_am_No_One (1790)
+Seat 3: LammyYukun (1515)
+Seat 4: RHUMI (1835)
+Seat 5: ezerus1 (1930)
+Seat 6: Manulafuine (1015)
+*** ANTE/BLINDS ***
+Manulafuine posts small blind 80
+paul bzh posts big blind 160
+Dealt to paul bzh [Js 5c]
+*** PRE-FLOP *** 
+I_am_No_One folds
+LammyYukun raises 1355 to 1515 and is all-in
+RHUMI folds
+ezerus1 folds
+Manulafuine folds
+paul bzh calls 755 and is all-in
+*** FLOP *** [9c 8d Kc]
+*** TURN *** [9c 8d Kc][6h]
+*** RIVER *** [9c 8d Kc 6h][Qd]
+*** SHOW DOWN ***
+paul bzh shows [Js 5c] (High card : King)
+LammyYukun shows [Ac Kd] (One pair : Kings)
+LammyYukun collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [9c 8d Kc 6h Qd]
+Seat 1: paul bzh (big blind) showed [Js 5c] and lost with High card : King
+Seat 3: LammyYukun showed [Ac Kd] and won 2510 with One pair : Kings
+
+

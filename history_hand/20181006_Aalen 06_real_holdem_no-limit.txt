@@ -1,0 +1,594 @@
+Winamax Poker - CashGame - HandId: #11822740-449-1538826511 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:48:31 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #1 is the button
+Seat 1: .REZ (2.41€)
+Seat 2: LscuaL (3.22€)
+Seat 3: paul bzh (2€)
+Seat 4: LOL_Gutshot (2.03€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+LscuaL posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [3d 2h]
+*** PRE-FLOP *** 
+LOL_Gutshot folds
+abAdAkorrrrr raises 0.04€ to 0.06€
+.REZ folds
+LscuaL folds
+paul bzh folds
+abAdAkorrrrr collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: abAdAkorrrrr won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11822740-450-1538826538 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:48:58 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #2 is the button
+Seat 1: .REZ (2.41€)
+Seat 2: LscuaL (3.21€)
+Seat 3: paul bzh (1.98€)
+Seat 4: LOL_Gutshot (2.03€)
+Seat 5: abAdAkorrrrr (2.16€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+LOL_Gutshot posts big blind 0.02€
+Dealt to paul bzh [5h 7d]
+*** PRE-FLOP *** 
+abAdAkorrrrr folds
+.REZ folds
+LscuaL folds
+paul bzh calls 0.01€
+LOL_Gutshot checks
+*** FLOP *** [2d 8c Qd]
+paul bzh checks
+LOL_Gutshot checks
+*** TURN *** [2d 8c Qd][6h]
+paul bzh checks
+LOL_Gutshot bets 0.03€
+paul bzh raises 0.04€ to 0.07€
+LOL_Gutshot folds
+paul bzh collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [2d 8c Qd 6h]
+Seat 3: paul bzh (small blind) won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #11822740-451-1538826582 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:49:42 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #3 is the button
+Seat 1: .REZ (2.41€)
+Seat 2: LscuaL (3.21€)
+Seat 3: paul bzh (2.02€)
+Seat 4: LOL_Gutshot (1.98€)
+Seat 5: abAdAkorrrrr (2.16€)
+*** ANTE/BLINDS ***
+LOL_Gutshot posts small blind 0.01€
+abAdAkorrrrr posts big blind 0.02€
+Dealt to paul bzh [4d Ts]
+*** PRE-FLOP *** 
+.REZ folds
+LscuaL folds
+paul bzh raises 0.04€ to 0.06€
+LOL_Gutshot folds
+abAdAkorrrrr folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11822740-452-1538826610 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:50:10 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #4 is the button
+Seat 1: .REZ (2.41€)
+Seat 2: LscuaL (3.21€)
+Seat 3: paul bzh (2.05€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.14€)
+*** ANTE/BLINDS ***
+abAdAkorrrrr posts small blind 0.01€
+.REZ posts big blind 0.02€
+Dealt to paul bzh [Ad Kh]
+*** PRE-FLOP *** 
+LscuaL folds
+paul bzh raises 0.04€ to 0.06€
+LOL_Gutshot folds
+abAdAkorrrrr folds
+.REZ folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: paul bzh won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11822740-453-1538826622 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:50:22 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #5 is the button
+Seat 1: .REZ (2.39€)
+Seat 2: LscuaL (3.21€)
+Seat 3: paul bzh (2.08€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+.REZ posts small blind 0.01€
+LscuaL posts big blind 0.02€
+Dealt to paul bzh [2c Td]
+*** PRE-FLOP *** 
+paul bzh folds
+LOL_Gutshot folds
+abAdAkorrrrr raises 0.03€ to 0.05€
+.REZ folds
+LscuaL folds
+abAdAkorrrrr collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: abAdAkorrrrr (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #11822740-454-1538826638 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:50:38 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #1 is the button
+Seat 1: .REZ (2.38€)
+Seat 2: LscuaL (3.19€)
+Seat 3: paul bzh (2.08€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.16€)
+*** ANTE/BLINDS ***
+LscuaL posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [2d Qs]
+*** PRE-FLOP *** 
+LOL_Gutshot folds
+abAdAkorrrrr folds
+.REZ folds
+LscuaL folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11822740-455-1538826648 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:50:48 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #2 is the button
+Seat 1: .REZ (2.38€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.09€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.16€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+LOL_Gutshot posts big blind 0.02€
+Dealt to paul bzh [9s 6s]
+*** PRE-FLOP *** 
+abAdAkorrrrr folds
+.REZ raises 0.04€ to 0.06€
+LscuaL folds
+paul bzh calls 0.05€
+LOL_Gutshot folds
+*** FLOP *** [4c 8c Kh]
+paul bzh checks
+.REZ bets 0.05€
+paul bzh folds
+.REZ collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.01€
+Board: [4c 8c Kh]
+Seat 1: .REZ won 0.18€
+
+
+Winamax Poker - CashGame - HandId: #11822740-456-1538826689 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:51:29 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #3 is the button
+Seat 1: .REZ (2.45€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.03€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.16€)
+*** ANTE/BLINDS ***
+LOL_Gutshot posts small blind 0.01€
+abAdAkorrrrr posts big blind 0.02€
+Dealt to paul bzh [Ad Ah]
+*** PRE-FLOP *** 
+.REZ folds
+LscuaL folds
+paul bzh raises 0.04€ to 0.06€
+LOL_Gutshot folds
+abAdAkorrrrr folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 3: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11822740-457-1538826705 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:51:45 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #4 is the button
+Seat 1: .REZ (2.45€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.06€)
+Seat 4: LOL_Gutshot (1.99€)
+Seat 5: abAdAkorrrrr (2.14€)
+*** ANTE/BLINDS ***
+abAdAkorrrrr posts small blind 0.01€
+.REZ posts big blind 0.02€
+Dealt to paul bzh [2h 3d]
+*** PRE-FLOP *** 
+LscuaL folds
+paul bzh folds
+LOL_Gutshot folds
+abAdAkorrrrr folds
+.REZ collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: .REZ (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11822740-458-1538826715 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:51:55 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #5 is the button
+Seat 1: .REZ (2.46€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.06€)
+Seat 4: LOL_Gutshot (1.99€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+.REZ posts small blind 0.01€
+LscuaL posts big blind 0.02€
+Dealt to paul bzh [9d 6s]
+*** PRE-FLOP *** 
+paul bzh folds
+LOL_Gutshot folds
+abAdAkorrrrr folds
+.REZ folds
+LscuaL collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: LscuaL (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11822740-459-1538826737 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:52:17 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #1 is the button
+Seat 1: .REZ (2.45€)
+Seat 2: LscuaL (3.19€)
+Seat 3: paul bzh (2.06€)
+Seat 4: LOL_Gutshot (1.99€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+LscuaL posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Kh Js]
+*** PRE-FLOP *** 
+LOL_Gutshot folds
+abAdAkorrrrr folds
+.REZ folds
+LscuaL folds
+paul bzh collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: paul bzh (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11822740-460-1538826752 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:52:32 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #2 is the button
+Seat 1: .REZ (2.45€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.07€)
+Seat 4: LOL_Gutshot (1.99€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+LOL_Gutshot posts big blind 0.02€
+Dealt to paul bzh [2c 2d]
+*** PRE-FLOP *** 
+abAdAkorrrrr folds
+.REZ calls 0.02€
+LscuaL folds
+paul bzh raises 0.04€ to 0.06€
+LOL_Gutshot folds
+.REZ folds
+paul bzh collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 3: paul bzh (small blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #11822740-461-1538826770 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:52:50 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #3 is the button
+Seat 1: .REZ (2.43€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.11€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.13€)
+*** ANTE/BLINDS ***
+LOL_Gutshot posts small blind 0.01€
+abAdAkorrrrr posts big blind 0.02€
+Dealt to paul bzh [5h Kd]
+*** PRE-FLOP *** 
+.REZ folds
+LscuaL folds
+paul bzh raises 0.04€ to 0.06€
+LOL_Gutshot folds
+abAdAkorrrrr raises 0.14€ to 0.20€
+paul bzh folds
+abAdAkorrrrr collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 5: abAdAkorrrrr (big blind) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #11822740-462-1538826814 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:53:34 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #4 is the button
+Seat 1: .REZ (2.43€)
+Seat 2: LscuaL (3.18€)
+Seat 3: paul bzh (2.05€)
+Seat 4: LOL_Gutshot (1.99€)
+Seat 5: abAdAkorrrrr (2.20€)
+*** ANTE/BLINDS ***
+abAdAkorrrrr posts small blind 0.01€
+.REZ posts big blind 0.02€
+Dealt to paul bzh [Td Jh]
+*** PRE-FLOP *** 
+LscuaL raises 0.03€ to 0.05€
+paul bzh calls 0.05€
+LOL_Gutshot calls 0.05€
+abAdAkorrrrr folds
+.REZ folds
+*** FLOP *** [3h 9d 4s]
+LscuaL bets 0.09€
+paul bzh calls 0.09€
+LOL_Gutshot folds
+*** TURN *** [3h 9d 4s][8h]
+LscuaL checks
+paul bzh bets 0.18€
+LscuaL calls 0.18€
+*** RIVER *** [3h 9d 4s 8h][As]
+LscuaL checks
+paul bzh bets 0.30€
+LscuaL calls 0.30€
+*** SHOW DOWN ***
+paul bzh shows [Td Jh] (High card : Ace)
+LscuaL shows [9c Kc] (One pair : 9)
+LscuaL collected 1.24€ from pot
+*** SUMMARY ***
+Total pot 1.24€ | Rake 0.08€
+Board: [3h 9d 4s 8h As]
+Seat 2: LscuaL showed [9c Kc] and won 1.24€ with One pair : 9
+Seat 3: paul bzh showed [Td Jh] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11822740-463-1538826886 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:54:46 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #5 is the button
+Seat 1: .REZ (2.41€)
+Seat 2: LscuaL (3.80€)
+Seat 3: paul bzh (1.43€)
+Seat 4: LOL_Gutshot (2€)
+Seat 5: abAdAkorrrrr (2.19€)
+*** ANTE/BLINDS ***
+.REZ posts small blind 0.01€
+LscuaL posts big blind 0.02€
+Dealt to paul bzh [Tc 2h]
+*** PRE-FLOP *** 
+paul bzh folds
+LOL_Gutshot folds
+abAdAkorrrrr raises 0.03€ to 0.05€
+.REZ raises 0.10€ to 0.15€
+LscuaL folds
+abAdAkorrrrr calls 0.10€
+*** FLOP *** [5c Kh 2s]
+.REZ bets 0.20€
+abAdAkorrrrr folds
+.REZ collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [5c Kh 2s]
+Seat 1: .REZ (small blind) won 0.50€
+
+
+Winamax Poker - CashGame - HandId: #11822740-464-1538826955 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:55:55 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #1 is the button
+Seat 1: .REZ (2.56€)
+Seat 2: LscuaL (3.78€)
+Seat 3: paul bzh (1.43€)
+Seat 5: abAdAkorrrrr (2.04€)
+*** ANTE/BLINDS ***
+LscuaL posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [9d Ah]
+*** PRE-FLOP *** 
+abAdAkorrrrr raises 0.04€ to 0.06€
+.REZ folds
+LscuaL folds
+paul bzh calls 0.04€
+*** FLOP *** [6s 4h 7s]
+paul bzh checks
+abAdAkorrrrr bets 0.08€
+paul bzh calls 0.08€
+*** TURN *** [6s 4h 7s][9c]
+paul bzh bets 0.14€
+abAdAkorrrrr calls 0.14€
+*** RIVER *** [6s 4h 7s 9c][8s]
+paul bzh checks
+abAdAkorrrrr checks
+*** SHOW DOWN ***
+paul bzh shows [9d Ah] (One pair : 9)
+abAdAkorrrrr shows [Qh Qd] (One pair : Queens)
+abAdAkorrrrr collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.03€
+Board: [6s 4h 7s 9c 8s]
+Seat 3: paul bzh (big blind) showed [9d Ah] and lost with One pair : 9
+Seat 5: abAdAkorrrrr showed [Qh Qd] and won 0.54€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #11822740-465-1538826992 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:56:32 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #2 is the button
+Seat 1: .REZ (2.56€)
+Seat 2: LscuaL (3.77€)
+Seat 3: paul bzh (1.15€)
+Seat 5: abAdAkorrrrr (2.30€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+abAdAkorrrrr posts big blind 0.02€
+Dealt to paul bzh [4s Js]
+*** PRE-FLOP *** 
+.REZ folds
+LscuaL folds
+paul bzh folds
+abAdAkorrrrr collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: abAdAkorrrrr (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11822740-466-1538827004 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:56:44 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #3 is the button
+Seat 1: .REZ (2.56€)
+Seat 2: LscuaL (3.77€)
+Seat 3: paul bzh (1.14€)
+Seat 4: filor (2€)
+Seat 5: abAdAkorrrrr (2.31€)
+*** ANTE/BLINDS ***
+abAdAkorrrrr posts small blind 0.01€
+.REZ posts big blind 0.02€
+Dealt to paul bzh [6d 6s]
+*** PRE-FLOP *** 
+LscuaL calls 0.02€
+paul bzh raises 0.06€ to 0.08€
+abAdAkorrrrr folds
+.REZ folds
+LscuaL folds
+paul bzh collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | No rake
+Seat 3: paul bzh (button) won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #11822740-467-1538827036 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:57:16 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #5 is the button
+Seat 1: .REZ (2.54€)
+Seat 2: LscuaL (3.75€)
+Seat 3: paul bzh (1.19€)
+Seat 4: filor (2€)
+Seat 5: abAdAkorrrrr (2.30€)
+*** ANTE/BLINDS ***
+.REZ posts small blind 0.01€
+LscuaL posts big blind 0.02€
+filor posts big blind 0.02€ out of position
+Dealt to paul bzh [5c 4c]
+*** PRE-FLOP *** 
+paul bzh folds
+filor checks
+abAdAkorrrrr folds
+.REZ calls 0.01€
+LscuaL checks
+*** FLOP *** [2d 8s Td]
+.REZ checks
+LscuaL checks
+filor checks
+*** TURN *** [2d 8s Td][Kh]
+.REZ checks
+LscuaL checks
+filor checks
+*** RIVER *** [2d 8s Td Kh][6c]
+.REZ checks
+LscuaL checks
+filor checks
+*** SHOW DOWN ***
+.REZ shows [4d 7d] (High card : King)
+LscuaL shows [4h 7c] (High card : King)
+filor shows [3d 2s] (One pair : 2)
+filor collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [2d 8s Td Kh 6c]
+Seat 1: .REZ (small blind) showed [4d 7d] and lost with High card : King
+Seat 2: LscuaL (big blind) showed [4h 7c] and lost with High card : King
+Seat 4: filor showed [3d 2s] and won 0.06€ with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #11822740-468-1538827091 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:58:11 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #1 is the button
+Seat 1: .REZ (2.52€)
+Seat 2: LscuaL (3.73€)
+Seat 3: paul bzh (1.19€)
+Seat 4: filor (2.04€)
+Seat 5: abAdAkorrrrr (2.30€)
+*** ANTE/BLINDS ***
+LscuaL posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [7c Kd]
+*** PRE-FLOP *** 
+filor calls 0.02€
+abAdAkorrrrr folds
+.REZ folds
+LscuaL folds
+paul bzh checks
+*** FLOP *** [7d As 5s]
+paul bzh checks
+filor checks
+*** TURN *** [7d As 5s][Jc]
+paul bzh checks
+filor checks
+*** RIVER *** [7d As 5s Jc][4d]
+paul bzh bets 0.05€
+filor folds
+paul bzh collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [7d As 5s Jc 4d]
+Seat 3: paul bzh (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #11822740-469-1538827151 - Holdem no limit (0.01€/0.02€) - 2018/10/06 11:59:11 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #2 is the button
+Seat 1: .REZ (2.52€)
+Seat 2: LscuaL (3.72€)
+Seat 3: paul bzh (1.22€)
+Seat 4: filor (2.02€)
+Seat 5: abAdAkorrrrr (2.30€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+filor posts big blind 0.02€
+Dealt to paul bzh [Jc Ac]
+*** PRE-FLOP *** 
+abAdAkorrrrr folds
+.REZ folds
+LscuaL raises 0.03€ to 0.05€
+paul bzh raises 0.15€ to 0.20€
+filor calls 0.18€
+LscuaL folds
+*** FLOP *** [9d 8c 7h]
+paul bzh checks
+filor bets 0.02€
+paul bzh calls 0.02€
+*** TURN *** [9d 8c 7h][4h]
+paul bzh checks
+filor bets 0.02€
+paul bzh raises 0.32€ to 0.34€
+filor calls 0.32€
+*** RIVER *** [9d 8c 7h 4h][2h]
+paul bzh bets 0.66€ and is all-in
+filor folds
+paul bzh collected 1.76€ from pot
+*** SUMMARY ***
+Total pot 1.76€ | Rake 0.07€
+Board: [9d 8c 7h 4h 2h]
+Seat 3: paul bzh (small blind) won 1.76€
+
+
+Winamax Poker - CashGame - HandId: #11822740-470-1538827250 - Holdem no limit (0.01€/0.02€) - 2018/10/06 12:00:50 UTC
+Table: 'Aalen 06' 5-max (real money) Seat #3 is the button
+Seat 1: .REZ (2.52€)
+Seat 2: LscuaL (3.67€)
+Seat 3: paul bzh (1.76€)
+Seat 4: filor (1.46€)
+Seat 5: abAdAkorrrrr (2.30€)
+*** ANTE/BLINDS ***
+filor posts small blind 0.01€
+abAdAkorrrrr posts big blind 0.02€
+Dealt to paul bzh [5h 4h]
+*** PRE-FLOP *** 
+.REZ folds
+LscuaL folds
+paul bzh folds
+filor raises 0.02€ to 0.04€
+abAdAkorrrrr folds
+filor collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Seat 4: filor (small blind) won 0.06€
+
+

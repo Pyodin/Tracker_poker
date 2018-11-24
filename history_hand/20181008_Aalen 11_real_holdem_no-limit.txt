@@ -1,0 +1,425 @@
+Winamax Poker - CashGame - HandId: #11833577-257-1539005791 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:36:31 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (2€)
+Seat 2: gZzuu (2.29€)
+Seat 3: jncga (1.99€)
+Seat 4: schooldays (2€)
+Seat 5: stanxgame (2.02€)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Td 7c]
+*** PRE-FLOP *** 
+gZzuu folds
+jncga calls 0.02€
+schooldays raises 0.06€ to 0.08€
+stanxgame folds
+paul bzh folds
+jncga calls 0.06€
+*** FLOP *** [3d 7d Js]
+jncga checks
+schooldays bets 0.10€
+jncga calls 0.10€
+*** TURN *** [3d 7d Js][Qc]
+jncga checks
+schooldays bets 0.20€
+jncga folds
+schooldays collected 0.57€ from pot
+*** SUMMARY ***
+Total pot 0.57€ | Rake 0.02€
+Board: [3d 7d Js Qc]
+Seat 4: schooldays (button) won 0.57€
+
+
+Winamax Poker - CashGame - HandId: #11833577-258-1539005852 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:37:32 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1.98€)
+Seat 2: gZzuu (2.29€)
+Seat 3: jncga (1.81€)
+Seat 4: schooldays (2.19€)
+Seat 5: stanxgame (2.01€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+gZzuu posts big blind 0.02€
+Dealt to paul bzh [Td As]
+*** PRE-FLOP *** 
+jncga folds
+schooldays raises 0.04€ to 0.06€
+stanxgame folds
+paul bzh calls 0.05€
+gZzuu folds
+*** FLOP *** [6c Js 3c]
+paul bzh checks
+schooldays bets 0.06€
+paul bzh calls 0.06€
+*** TURN *** [6c Js 3c][3d]
+paul bzh checks
+schooldays checks
+*** RIVER *** [6c Js 3c 3d][Qh]
+paul bzh bets 0.13€
+schooldays calls 0.13€
+*** SHOW DOWN ***
+paul bzh shows [Td As] (One pair : 3)
+schooldays shows [Kd Qs] (Two pairs : Queens and 3)
+schooldays collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.03€
+Board: [6c Js 3c 3d Qh]
+Seat 1: paul bzh (small blind) showed [Td As] and lost with One pair : 3
+Seat 4: schooldays showed [Kd Qs] and won 0.49€ with Two pairs : Queens and 3
+
+
+Winamax Poker - CashGame - HandId: #11833577-259-1539005958 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:39:18 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (1.73€)
+Seat 2: gZzuu (2.27€)
+Seat 3: jncga (1.81€)
+Seat 4: schooldays (2.43€)
+Seat 5: stanxgame (2.01€)
+*** ANTE/BLINDS ***
+gZzuu posts small blind 0.01€
+jncga posts big blind 0.02€
+Dealt to paul bzh [Th Qs]
+*** PRE-FLOP *** 
+schooldays folds
+stanxgame folds
+paul bzh raises 0.04€ to 0.06€
+gZzuu folds
+jncga folds
+paul bzh collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 1: paul bzh (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11833577-260-1539006002 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:40:02 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (1.76€)
+Seat 2: gZzuu (2.26€)
+Seat 3: jncga (1.79€)
+Seat 4: schooldays (2.43€)
+Seat 5: stanxgame (2.01€)
+*** ANTE/BLINDS ***
+jncga posts small blind 0.01€
+schooldays posts big blind 0.02€
+Dealt to paul bzh [5s 4h]
+*** PRE-FLOP *** 
+stanxgame raises 0.04€ to 0.06€
+paul bzh folds
+gZzuu folds
+jncga folds
+schooldays folds
+stanxgame collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: stanxgame won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11833577-261-1539006024 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:40:24 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1.76€)
+Seat 2: gZzuu (2.26€)
+Seat 3: jncga (1.78€)
+Seat 4: schooldays (2.41€)
+Seat 5: stanxgame (2.04€)
+*** ANTE/BLINDS ***
+schooldays posts small blind 0.01€
+stanxgame posts big blind 0.02€
+Dealt to paul bzh [5c Ks]
+*** PRE-FLOP *** 
+paul bzh folds
+gZzuu raises 0.04€ to 0.06€
+jncga folds
+schooldays folds
+stanxgame folds
+gZzuu collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 2: gZzuu won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #11833577-262-1539006059 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:40:59 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1.76€)
+Seat 2: gZzuu (2.29€)
+Seat 3: jncga (1.78€)
+Seat 4: schooldays (2.40€)
+Seat 5: stanxgame (2.02€)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [Kh 7c]
+*** PRE-FLOP *** 
+gZzuu folds
+jncga calls 0.02€
+schooldays raises 0.06€ to 0.08€
+stanxgame folds
+paul bzh calls 0.06€
+jncga calls 0.06€
+*** FLOP *** [Ah 7s 8d]
+paul bzh checks
+jncga checks
+schooldays bets 0.09€
+paul bzh folds
+jncga folds
+schooldays collected 0.33€ from pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.01€
+Board: [Ah 7s 8d]
+Seat 4: schooldays (button) won 0.33€
+
+
+Winamax Poker - CashGame - HandId: #11833577-263-1539006111 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:41:51 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1.68€)
+Seat 2: gZzuu (2.29€)
+Seat 3: jncga (1.70€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (2.01€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+gZzuu posts big blind 0.02€
+Dealt to paul bzh [2d 3c]
+*** PRE-FLOP *** 
+jncga folds
+schooldays folds
+stanxgame folds
+paul bzh calls 0.01€
+gZzuu raises 0.08€ to 0.10€
+paul bzh folds
+gZzuu collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Seat 2: gZzuu (big blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #11833577-264-1539006132 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:42:12 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (1.66€)
+Seat 2: gZzuu (2.31€)
+Seat 3: jncga (1.70€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (2.01€)
+*** ANTE/BLINDS ***
+gZzuu posts small blind 0.01€
+jncga posts big blind 0.02€
+Dealt to paul bzh [Th Tc]
+*** PRE-FLOP *** 
+schooldays folds
+stanxgame raises 0.02€ to 0.04€
+paul bzh raises 0.08€ to 0.12€
+gZzuu folds
+jncga folds
+stanxgame calls 0.08€
+*** FLOP *** [5h Kc 9h]
+stanxgame checks
+paul bzh bets 0.10€
+stanxgame calls 0.10€
+*** TURN *** [5h Kc 9h][Jh]
+stanxgame checks
+paul bzh bets 0.24€
+stanxgame folds
+paul bzh collected 0.68€ from pot
+*** SUMMARY ***
+Total pot 0.68€ | Rake 0.03€
+Board: [5h Kc 9h Jh]
+Seat 1: paul bzh (button) won 0.68€
+
+
+Winamax Poker - CashGame - HandId: #11833577-265-1539006239 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:43:59 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (1.88€)
+Seat 2: gZzuu (2.30€)
+Seat 3: jncga (1.68€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (1.79€)
+*** ANTE/BLINDS ***
+jncga posts small blind 0.01€
+schooldays posts big blind 0.02€
+Dealt to paul bzh [3d 8c]
+*** PRE-FLOP *** 
+stanxgame folds
+paul bzh folds
+gZzuu folds
+jncga folds
+schooldays collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: schooldays (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #11833577-266-1539006256 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:44:16 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #3 is the button
+Seat 1: paul bzh (1.88€)
+Seat 2: gZzuu (2.30€)
+Seat 3: jncga (1.67€)
+Seat 4: schooldays (2.57€)
+Seat 5: stanxgame (1.79€)
+*** ANTE/BLINDS ***
+schooldays posts small blind 0.01€
+stanxgame posts big blind 0.02€
+Dealt to paul bzh [4c Kd]
+*** PRE-FLOP *** 
+paul bzh folds
+gZzuu raises 0.04€ to 0.06€
+jncga folds
+schooldays folds
+stanxgame calls 0.04€
+*** FLOP *** [Kc Js 6d]
+stanxgame checks
+gZzuu checks
+*** TURN *** [Kc Js 6d][5c]
+stanxgame checks
+gZzuu checks
+*** RIVER *** [Kc Js 6d 5c][3s]
+stanxgame checks
+gZzuu checks
+*** SHOW DOWN ***
+stanxgame shows [9d Ad] (High card : Ace)
+gZzuu shows [4h 4d] (One pair : 4)
+gZzuu collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [Kc Js 6d 5c 3s]
+Seat 2: gZzuu showed [4h 4d] and won 0.12€ with One pair : 4
+Seat 5: stanxgame (big blind) showed [9d Ad] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #11833577-267-1539006302 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:45:02 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #4 is the button
+Seat 1: paul bzh (1.88€)
+Seat 2: gZzuu (2.36€)
+Seat 3: jncga (1.67€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (1.73€)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 0.01€
+paul bzh posts big blind 0.02€
+Dealt to paul bzh [9c 5d]
+*** PRE-FLOP *** 
+gZzuu folds
+jncga calls 0.02€
+schooldays folds
+stanxgame folds
+paul bzh checks
+*** FLOP *** [6c 6s 8s]
+paul bzh checks
+jncga checks
+*** TURN *** [6c 6s 8s][Ac]
+paul bzh checks
+jncga checks
+*** RIVER *** [6c 6s 8s Ac][3h]
+paul bzh bets 0.02€
+jncga folds
+paul bzh collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Board: [6c 6s 8s Ac 3h]
+Seat 1: paul bzh (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #11833577-268-1539006344 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:45:44 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #5 is the button
+Seat 1: paul bzh (1.91€)
+Seat 2: gZzuu (2.36€)
+Seat 3: jncga (1.92€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (1.72€)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 0.01€
+gZzuu posts big blind 0.02€
+Dealt to paul bzh [6c 8s]
+*** PRE-FLOP *** 
+jncga folds
+schooldays folds
+stanxgame folds
+paul bzh calls 0.01€
+gZzuu raises 0.06€ to 0.08€
+paul bzh calls 0.06€
+*** FLOP *** [8d Tc 4h]
+paul bzh checks
+gZzuu bets 0.08€
+paul bzh calls 0.08€
+*** TURN *** [8d Tc 4h][Qd]
+paul bzh checks
+gZzuu checks
+*** RIVER *** [8d Tc 4h Qd][6h]
+paul bzh bets 0.16€
+gZzuu folds
+paul bzh collected 0.46€ from pot
+*** SUMMARY ***
+Total pot 0.46€ | Rake 0.02€
+Board: [8d Tc 4h Qd 6h]
+Seat 1: paul bzh (small blind) won 0.46€
+
+
+Winamax Poker - CashGame - HandId: #11833577-269-1539006382 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:46:22 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #1 is the button
+Seat 1: paul bzh (2.05€)
+Seat 2: gZzuu (2.20€)
+Seat 3: jncga (1.92€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (1.72€)
+*** ANTE/BLINDS ***
+gZzuu posts small blind 0.01€
+jncga posts big blind 0.02€
+Dealt to paul bzh [As Kc]
+*** PRE-FLOP *** 
+schooldays folds
+stanxgame raises 0.02€ to 0.04€
+paul bzh raises 0.08€ to 0.12€
+gZzuu folds
+jncga calls 0.10€
+stanxgame folds
+*** FLOP *** [2s Kd 4d]
+jncga checks
+paul bzh bets 0.14€
+jncga calls 0.14€
+*** TURN *** [2s Kd 4d][Qc]
+jncga checks
+paul bzh bets 0.20€
+jncga calls 0.20€
+*** RIVER *** [2s Kd 4d Qc][Qh]
+jncga checks
+paul bzh checks
+*** SHOW DOWN ***
+jncga shows [8d 9d] (One pair : Queens)
+paul bzh shows [As Kc] (Two pairs : Kings and Queens)
+paul bzh collected 0.91€ from pot
+*** SUMMARY ***
+Total pot 0.91€ | Rake 0.06€
+Board: [2s Kd 4d Qc Qh]
+Seat 1: paul bzh (button) showed [As Kc] and won 0.91€ with Two pairs : Kings and Queens
+Seat 3: jncga (big blind) showed [8d 9d] and lost with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #11833577-270-1539006476 - Holdem no limit (0.01€/0.02€) - 2018/10/08 13:47:56 UTC
+Table: 'Aalen 11' 5-max (real money) Seat #2 is the button
+Seat 1: paul bzh (2.50€)
+Seat 2: gZzuu (2.19€)
+Seat 3: jncga (1.46€)
+Seat 4: schooldays (2.56€)
+Seat 5: stanxgame (1.68€)
+*** ANTE/BLINDS ***
+jncga posts small blind 0.01€
+schooldays posts big blind 0.02€
+Dealt to paul bzh [6d 6h]
+*** PRE-FLOP *** 
+stanxgame folds
+paul bzh calls 0.02€
+gZzuu folds
+jncga calls 0.01€
+schooldays checks
+*** FLOP *** [8h Qd 2h]
+jncga checks
+schooldays checks
+paul bzh bets 0.06€
+jncga folds
+schooldays folds
+paul bzh collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [8h Qd 2h]
+Seat 1: paul bzh won 0.12€
+
+

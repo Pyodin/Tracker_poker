@@ -1,0 +1,908 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #1080515575836311553-1-1538825415 - Holdem no limit (10/20) - 2018/10/06 11:30:15 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Bastien77171 (1500)
+Seat 2: Tenoi50 (1500)
+Seat 3: YO233 (1500)
+Seat 4: calabrese06 (1500)
+Seat 5: paul bzh (1500)
+Seat 6: rockyriver (1500)
+Seat 7: Raphiky313 (1500)
+Seat 8: jejesaf (1500)
+Seat 9: Ravecca 1 (1500)
+Seat 10: TCHITCHI740 (1500)
+*** ANTE/BLINDS ***
+calabrese06 posts small blind 10
+paul bzh posts big blind 20
+Dealt to paul bzh [8c 7s]
+*** PRE-FLOP *** 
+rockyriver raises 40 to 60
+Raphiky313 folds
+jejesaf folds
+Ravecca 1 calls 60
+TCHITCHI740 raises 1440 to 1500 and is all-in
+Bastien77171 folds
+Tenoi50 folds
+YO233 folds
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+Ravecca 1 folds
+TCHITCHI740 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 10: TCHITCHI740 won 1650
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #1080515575836311553-2-1538825466 - Holdem no limit (10/20) - 2018/10/06 11:31:06 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Bastien77171 (1500)
+Seat 2: Tenoi50 (1500)
+Seat 3: YO233 (1500)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1480)
+Seat 6: rockyriver (1440)
+Seat 7: Raphiky313 (1500)
+Seat 8: jejesaf (1500)
+Seat 9: Ravecca 1 (1440)
+Seat 10: TCHITCHI740 (1650)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 10
+rockyriver posts big blind 20
+Dealt to paul bzh [Kd Td]
+*** PRE-FLOP *** 
+Raphiky313 raises 1480 to 1500 and is all-in
+jejesaf folds
+Ravecca 1 folds
+TCHITCHI740 raises 150 to 1650 and is all-in
+Bastien77171 calls 1500 and is all-in
+Tenoi50 folds
+YO233 folds
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+*** FLOP *** [9s Tc 8h]
+*** TURN *** [9s Tc 8h][Ad]
+*** RIVER *** [9s Tc 8h Ad][Jh]
+*** SHOW DOWN ***
+Bastien77171 shows [As 2s] (One pair : Aces)
+Raphiky313 shows [3d 9d] (One pair : 9)
+TCHITCHI740 shows [5c Qs] (Straight Queen high)
+TCHITCHI740 collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [9s Tc 8h Ad Jh]
+Seat 1: Bastien77171 showed [As 2s] and lost with One pair : Aces
+Seat 7: Raphiky313 showed [3d 9d] and lost with One pair : 9
+Seat 10: TCHITCHI740 showed [5c Qs] and won 4680 with Straight Queen high
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #1080515575836311553-3-1538825514 - Holdem no limit (10/20) - 2018/10/06 11:31:54 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (1500)
+Seat 3: YO233 (1500)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1470)
+Seat 6: rockyriver (1420)
+Seat 8: jejesaf (1500)
+Seat 9: Ravecca 1 (1440)
+Seat 10: TCHITCHI740 (4680)
+*** ANTE/BLINDS ***
+rockyriver posts small blind 10
+jejesaf posts big blind 20
+Dealt to paul bzh [6h 9c]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+TCHITCHI740 raises 1312 to 1332
+Tenoi50 calls 1332
+YO233 folds
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+jejesaf folds
+*** FLOP *** [7c 3h 4h]
+TCHITCHI740 bets 1346
+Tenoi50 calls 168 and is all-in
+*** TURN *** [7c 3h 4h][Jd]
+*** RIVER *** [7c 3h 4h Jd][6s]
+*** SHOW DOWN ***
+Tenoi50 shows [Ah Qd] (High card : Ace)
+TCHITCHI740 shows [Tc Kd] (High card : King)
+TCHITCHI740 collected 1178 from side pot 1
+Tenoi50 collected 3030 from main pot
+*** SUMMARY ***
+Total pot 4208 | No rake
+Board: [7c 3h 4h Jd 6s]
+Seat 2: Tenoi50 showed [Ah Qd] and won 3030 with High card : Ace
+Seat 10: TCHITCHI740 showed [Tc Kd] and won 1178 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #1080515575836311553-4-1538825548 - Holdem no limit (10/20) - 2018/10/06 11:32:28 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Tenoi50 (3030)
+Seat 3: YO233 (1500)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1470)
+Seat 6: rockyriver (1410)
+Seat 8: jejesaf (1480)
+Seat 9: Ravecca 1 (1440)
+Seat 10: TCHITCHI740 (3180)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 10
+Ravecca 1 posts big blind 20
+Dealt to paul bzh [Tc Jc]
+*** PRE-FLOP *** 
+TCHITCHI740 raises 3160 to 3180 and is all-in
+Tenoi50 folds
+YO233 folds
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+jejesaf folds
+Ravecca 1 calls 1420 and is all-in
+*** FLOP *** [As Th 8c]
+*** TURN *** [As Th 8c][5c]
+*** RIVER *** [As Th 8c 5c][Qs]
+*** SHOW DOWN ***
+Ravecca 1 shows [7h 7d] (One pair : 7)
+TCHITCHI740 shows [Jd 4c] (High card : Ace)
+TCHITCHI740 collected 1740 from side pot 1
+Ravecca 1 collected 2890 from main pot
+*** SUMMARY ***
+Total pot 4630 | No rake
+Board: [As Th 8c 5c Qs]
+Seat 9: Ravecca 1 (big blind) showed [7h 7d] and won 2890 with One pair : 7
+Seat 10: TCHITCHI740 showed [Jd 4c] and won 1740 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #1080515575836311553-5-1538825583 - Holdem no limit (10/20) - 2018/10/06 11:33:03 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Tenoi50 (3030)
+Seat 3: YO233 (1500)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1470)
+Seat 6: rockyriver (1410)
+Seat 8: jejesaf (1470)
+Seat 9: Ravecca 1 (2890)
+Seat 10: TCHITCHI740 (1740)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 10
+TCHITCHI740 posts big blind 20
+Dealt to paul bzh [8c 7h]
+*** PRE-FLOP *** 
+Tenoi50 calls 20
+YO233 raises 20 to 40
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+jejesaf calls 40
+Ravecca 1 folds
+TCHITCHI740 raises 1700 to 1740 and is all-in
+Tenoi50 calls 1720
+YO233 calls 1460 and is all-in
+jejesaf folds
+*** FLOP *** [Js 9c Kc]
+*** TURN *** [Js 9c Kc][5s]
+*** RIVER *** [Js 9c Kc 5s][Ah]
+*** SHOW DOWN ***
+YO233 shows [Jh Qc] (One pair : Jacks)
+TCHITCHI740 shows [Jc Qd] (One pair : Jacks)
+Tenoi50 shows [Ad 7c] (One pair : Aces)
+Tenoi50 collected 5030 from pot
+*** SUMMARY ***
+Total pot 5030 | No rake
+Board: [Js 9c Kc 5s Ah]
+Seat 2: Tenoi50 showed [Ad 7c] and won 5030 with One pair : Aces
+Seat 3: YO233 showed [Jh Qc] and lost with One pair : Jacks
+Seat 10: TCHITCHI740 (big blind) showed [Jc Qd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 2 - HandId: #1080515575836311553-6-1538825637 - Holdem no limit (15/30) - 2018/10/06 11:33:57 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (6320)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1470)
+Seat 6: rockyriver (1410)
+Seat 8: jejesaf (1430)
+Seat 9: Ravecca 1 (2880)
+*** ANTE/BLINDS ***
+Tenoi50 posts big blind 30
+Dealt to paul bzh [6h Ks]
+*** PRE-FLOP *** 
+calabrese06 folds
+paul bzh folds
+rockyriver folds
+jejesaf calls 30
+Ravecca 1 folds
+Tenoi50 checks
+*** FLOP *** [Td 2d Jc]
+Tenoi50 checks
+jejesaf checks
+*** TURN *** [Td 2d Jc][8d]
+Tenoi50 checks
+jejesaf checks
+*** RIVER *** [Td 2d Jc 8d][Ah]
+Tenoi50 bets 60
+jejesaf folds
+Tenoi50 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 2d Jc 8d Ah]
+Seat 2: Tenoi50 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 2 - HandId: #1080515575836311553-7-1538825746 - Holdem no limit (15/30) - 2018/10/06 11:35:46 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Tenoi50 (6350)
+Seat 4: calabrese06 (1490)
+Seat 5: paul bzh (1470)
+Seat 6: rockyriver (1410)
+Seat 8: jejesaf (1400)
+Seat 9: Ravecca 1 (2880)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 15
+calabrese06 posts big blind 30
+Dealt to paul bzh [5s 4h]
+*** PRE-FLOP *** 
+paul bzh folds
+rockyriver raises 45 to 75
+jejesaf folds
+Ravecca 1 calls 75
+Tenoi50 raises 6275 to 6350 and is all-in
+calabrese06 folds
+rockyriver calls 1335 and is all-in
+Ravecca 1 folds
+*** FLOP *** [Js 2c 7s]
+*** TURN *** [Js 2c 7s][Kc]
+*** RIVER *** [Js 2c 7s Kc][4d]
+*** SHOW DOWN ***
+rockyriver shows [5h Ac] (High card : Ace)
+Tenoi50 shows [As Ks] (One pair : Kings)
+Tenoi50 collected 7865 from pot
+*** SUMMARY ***
+Total pot 7865 | No rake
+Board: [Js 2c 7s Kc 4d]
+Seat 2: Tenoi50 (small blind) showed [As Ks] and won 7865 with One pair : Kings
+Seat 6: rockyriver showed [5h Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 3 - HandId: #1080515575836311553-8-1538825783 - Holdem no limit (20/40) - 2018/10/06 11:36:23 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (7865)
+Seat 4: calabrese06 (1460)
+Seat 5: paul bzh (1470)
+Seat 8: jejesaf (1400)
+Seat 9: Ravecca 1 (2805)
+*** ANTE/BLINDS ***
+calabrese06 posts small blind 20
+paul bzh posts big blind 40
+Dealt to paul bzh [Th 7s]
+*** PRE-FLOP *** 
+jejesaf calls 40
+Ravecca 1 folds
+Tenoi50 folds
+calabrese06 folds
+paul bzh checks
+*** FLOP *** [4d 8c 2s]
+paul bzh checks
+jejesaf checks
+*** TURN *** [4d 8c 2s][5h]
+paul bzh bets 50
+jejesaf folds
+paul bzh collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [4d 8c 2s 5h]
+Seat 5: paul bzh (big blind) won 150
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 3 - HandId: #1080515575836311553-9-1538825823 - Holdem no limit (20/40) - 2018/10/06 11:37:03 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Tenoi50 (7865)
+Seat 4: calabrese06 (1440)
+Seat 5: paul bzh (1530)
+Seat 8: jejesaf (1360)
+Seat 9: Ravecca 1 (2805)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 20
+jejesaf posts big blind 40
+Dealt to paul bzh [3d 9c]
+*** PRE-FLOP *** 
+Ravecca 1 raises 60 to 100
+Tenoi50 folds
+calabrese06 raises 1340 to 1440 and is all-in
+paul bzh folds
+jejesaf folds
+Ravecca 1 calls 1340
+*** FLOP *** [7h Ts 5h]
+*** TURN *** [7h Ts 5h][Ah]
+*** RIVER *** [7h Ts 5h Ah][6c]
+*** SHOW DOWN ***
+calabrese06 shows [5d 5c] (Trips of 5)
+Ravecca 1 shows [As Ad] (Trips of Aces)
+Ravecca 1 collected 2940 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Board: [7h Ts 5h Ah 6c]
+Seat 4: calabrese06 (button) showed [5d 5c] and lost with Trips of 5
+Seat 9: Ravecca 1 showed [As Ad] and won 2940 with Trips of Aces
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 3 - HandId: #1080515575836311553-10-1538825872 - Holdem no limit (20/40) - 2018/10/06 11:37:52 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (7865)
+Seat 5: paul bzh (1510)
+Seat 8: jejesaf (1320)
+Seat 9: Ravecca 1 (4305)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 20
+Ravecca 1 posts big blind 40
+Dealt to paul bzh [Jc 5c]
+*** PRE-FLOP *** 
+Tenoi50 folds
+paul bzh folds
+jejesaf calls 20
+Ravecca 1 checks
+*** FLOP *** [Qc Qs 5h]
+jejesaf checks
+Ravecca 1 bets 40
+jejesaf folds
+Ravecca 1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc Qs 5h]
+Seat 9: Ravecca 1 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 3 - HandId: #1080515575836311553-11-1538825887 - Holdem no limit (20/40) - 2018/10/06 11:38:07 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Tenoi50 (7865)
+Seat 5: paul bzh (1510)
+Seat 8: jejesaf (1280)
+Seat 9: Ravecca 1 (4345)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 20
+Tenoi50 posts big blind 40
+Dealt to paul bzh [9h Js]
+*** PRE-FLOP *** 
+paul bzh calls 40
+jejesaf folds
+Ravecca 1 calls 20
+Tenoi50 checks
+*** FLOP *** [2d 3c Td]
+Ravecca 1 checks
+Tenoi50 checks
+paul bzh checks
+*** TURN *** [2d 3c Td][6h]
+Ravecca 1 bets 60
+Tenoi50 folds
+paul bzh calls 60
+*** RIVER *** [2d 3c Td 6h][4d]
+Ravecca 1 bets 60
+paul bzh folds
+Ravecca 1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [2d 3c Td 6h 4d]
+Seat 9: Ravecca 1 (small blind) won 300
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-12-1538825976 - Holdem no limit (30/60) - 2018/10/06 11:39:36 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (7825)
+Seat 5: paul bzh (1410)
+Seat 8: jejesaf (1280)
+Seat 9: Ravecca 1 (4485)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [5d 7c]
+*** PRE-FLOP *** 
+jejesaf folds
+Ravecca 1 folds
+Tenoi50 raises 90 to 150
+paul bzh folds
+Tenoi50 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: Tenoi50 (small blind) won 210
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-13-1538825992 - Holdem no limit (30/60) - 2018/10/06 11:39:52 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (7885)
+Seat 5: paul bzh (1350)
+Seat 8: jejesaf (1280)
+Seat 9: Ravecca 1 (4485)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 30
+jejesaf posts big blind 60
+Dealt to paul bzh [8h 2d]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+Tenoi50 raises 90 to 150
+paul bzh folds
+jejesaf calls 90
+*** FLOP *** [Kd Ks 7c]
+jejesaf checks
+Tenoi50 checks
+*** TURN *** [Kd Ks 7c][3s]
+jejesaf checks
+Tenoi50 checks
+*** RIVER *** [Kd Ks 7c 3s][7h]
+jejesaf checks
+Tenoi50 checks
+*** SHOW DOWN ***
+jejesaf shows [8d 6h] (Two pairs : Kings and 7)
+Tenoi50 shows [As Tc] (Two pairs : Kings and 7)
+Tenoi50 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Kd Ks 7c 3s 7h]
+Seat 2: Tenoi50 (button) showed [As Tc] and won 330 with Two pairs : Kings and 7
+Seat 8: jejesaf (big blind) showed [8d 6h] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-14-1538826038 - Holdem no limit (30/60) - 2018/10/06 11:40:38 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (8065)
+Seat 5: paul bzh (1320)
+Seat 8: jejesaf (1130)
+Seat 9: Ravecca 1 (4485)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 30
+Ravecca 1 posts big blind 60
+Dealt to paul bzh [Kd Jc]
+*** PRE-FLOP *** 
+Tenoi50 folds
+paul bzh raises 120 to 180
+jejesaf folds
+Ravecca 1 folds
+paul bzh collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 5: paul bzh (button) won 270
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-15-1538826050 - Holdem no limit (30/60) - 2018/10/06 11:40:50 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Tenoi50 (8065)
+Seat 5: paul bzh (1410)
+Seat 8: jejesaf (1100)
+Seat 9: Ravecca 1 (4425)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 30
+Tenoi50 posts big blind 60
+Dealt to paul bzh [Jh 7d]
+*** PRE-FLOP *** 
+paul bzh folds
+jejesaf folds
+Ravecca 1 folds
+Tenoi50 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Tenoi50 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-16-1538826057 - Holdem no limit (30/60) - 2018/10/06 11:40:57 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (8095)
+Seat 5: paul bzh (1410)
+Seat 8: jejesaf (1100)
+Seat 9: Ravecca 1 (4395)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 30
+paul bzh posts big blind 60
+Dealt to paul bzh [3s Qh]
+*** PRE-FLOP *** 
+jejesaf calls 60
+Ravecca 1 folds
+Tenoi50 calls 30
+paul bzh checks
+*** FLOP *** [8d 6c 9c]
+Tenoi50 checks
+paul bzh checks
+jejesaf checks
+*** TURN *** [8d 6c 9c][Qs]
+Tenoi50 checks
+paul bzh bets 120
+jejesaf folds
+Tenoi50 calls 120
+*** RIVER *** [8d 6c 9c Qs][5h]
+Tenoi50 checks
+paul bzh checks
+*** SHOW DOWN ***
+paul bzh shows [3s Qh] (One pair : Queens)
+Tenoi50 shows [Qc Th] (One pair : Queens)
+Tenoi50 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8d 6c 9c Qs 5h]
+Seat 2: Tenoi50 (small blind) showed [Qc Th] and won 420 with One pair : Queens
+Seat 5: paul bzh (big blind) showed [3s Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 4 - HandId: #1080515575836311553-17-1538826124 - Holdem no limit (30/60) - 2018/10/06 11:42:04 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (8335)
+Seat 5: paul bzh (1230)
+Seat 8: jejesaf (1040)
+Seat 9: Ravecca 1 (4395)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 30
+jejesaf posts big blind 60
+Dealt to paul bzh [Td 9c]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+Tenoi50 folds
+paul bzh calls 30
+jejesaf checks
+*** FLOP *** [Th Ac Ad]
+paul bzh bets 90
+jejesaf folds
+paul bzh collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Th Ac Ad]
+Seat 5: paul bzh (small blind) won 210
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-18-1538826153 - Holdem no limit (40/80) - 2018/10/06 11:42:33 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (8335)
+Seat 5: paul bzh (1290)
+Seat 8: jejesaf (980)
+Seat 9: Ravecca 1 (4395)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 40
+Ravecca 1 posts big blind 80
+Dealt to paul bzh [2c 7s]
+*** PRE-FLOP *** 
+Tenoi50 folds
+paul bzh folds
+jejesaf calls 40
+Ravecca 1 checks
+*** FLOP *** [Ts 6h 9d]
+jejesaf checks
+Ravecca 1 checks
+*** TURN *** [Ts 6h 9d][Qh]
+jejesaf checks
+Ravecca 1 checks
+*** RIVER *** [Ts 6h 9d Qh][3h]
+jejesaf checks
+Ravecca 1 checks
+*** SHOW DOWN ***
+Ravecca 1 shows [5c 2h] (High card : Queen)
+jejesaf shows [Jd 5s] (High card : Queen)
+jejesaf collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ts 6h 9d Qh 3h]
+Seat 8: jejesaf (small blind) showed [Jd 5s] and won 160 with High card : Queen
+Seat 9: Ravecca 1 (big blind) showed [5c 2h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-19-1538826182 - Holdem no limit (40/80) - 2018/10/06 11:43:02 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Tenoi50 (8335)
+Seat 5: paul bzh (1290)
+Seat 8: jejesaf (1060)
+Seat 9: Ravecca 1 (4315)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 40
+Tenoi50 posts big blind 80
+Dealt to paul bzh [2h 4c]
+*** PRE-FLOP *** 
+paul bzh folds
+jejesaf calls 80
+Ravecca 1 calls 40
+Tenoi50 checks
+*** FLOP *** [4s 3c Kh]
+Ravecca 1 checks
+Tenoi50 checks
+jejesaf checks
+*** TURN *** [4s 3c Kh][8c]
+Ravecca 1 checks
+Tenoi50 bets 120
+jejesaf calls 120
+Ravecca 1 folds
+*** RIVER *** [4s 3c Kh 8c][5s]
+Tenoi50 bets 200
+jejesaf folds
+Tenoi50 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4s 3c Kh 8c 5s]
+Seat 2: Tenoi50 (big blind) won 680
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-20-1538826231 - Holdem no limit (40/80) - 2018/10/06 11:43:51 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (8615)
+Seat 5: paul bzh (1290)
+Seat 8: jejesaf (860)
+Seat 9: Ravecca 1 (4235)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 40
+paul bzh posts big blind 80
+Dealt to paul bzh [3s Kh]
+*** PRE-FLOP *** 
+jejesaf folds
+Ravecca 1 folds
+Tenoi50 calls 40
+paul bzh checks
+*** FLOP *** [4h Jh 4s]
+Tenoi50 checks
+paul bzh checks
+*** TURN *** [4h Jh 4s][Ts]
+Tenoi50 checks
+paul bzh checks
+*** RIVER *** [4h Jh 4s Ts][3c]
+Tenoi50 bets 80
+paul bzh calls 80
+*** SHOW DOWN ***
+paul bzh shows [3s Kh] (Two pairs : 4 and 3)
+Tenoi50 shows [As 4c] (Trips of 4)
+Tenoi50 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [4h Jh 4s Ts 3c]
+Seat 2: Tenoi50 (small blind) showed [As 4c] and won 320 with Trips of 4
+Seat 5: paul bzh (big blind) showed [3s Kh] and lost with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-21-1538826254 - Holdem no limit (40/80) - 2018/10/06 11:44:14 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (8775)
+Seat 5: paul bzh (1130)
+Seat 8: jejesaf (860)
+Seat 9: Ravecca 1 (4235)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 40
+jejesaf posts big blind 80
+Dealt to paul bzh [7d Jd]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+Tenoi50 calls 80
+paul bzh calls 40
+jejesaf checks
+*** FLOP *** [Jc 5c Ad]
+paul bzh checks
+jejesaf checks
+Tenoi50 checks
+*** TURN *** [Jc 5c Ad][Kc]
+paul bzh checks
+jejesaf checks
+Tenoi50 checks
+*** RIVER *** [Jc 5c Ad Kc][3h]
+paul bzh bets 80
+jejesaf folds
+Tenoi50 calls 80
+*** SHOW DOWN ***
+paul bzh shows [7d Jd] (One pair : Jacks)
+Tenoi50 shows [Js 3s] (Two pairs : Jacks and 3)
+Tenoi50 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Jc 5c Ad Kc 3h]
+Seat 2: Tenoi50 (button) showed [Js 3s] and won 400 with Two pairs : Jacks and 3
+Seat 5: paul bzh (small blind) showed [7d Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-22-1538826284 - Holdem no limit (40/80) - 2018/10/06 11:44:44 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (9015)
+Seat 5: paul bzh (970)
+Seat 8: jejesaf (780)
+Seat 9: Ravecca 1 (4235)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 40
+Ravecca 1 posts big blind 80
+Dealt to paul bzh [2h 4h]
+*** PRE-FLOP *** 
+Tenoi50 raises 80 to 160
+paul bzh folds
+jejesaf folds
+Ravecca 1 folds
+Tenoi50 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: Tenoi50 won 280
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 5 - HandId: #1080515575836311553-23-1538826291 - Holdem no limit (40/80) - 2018/10/06 11:44:51 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Tenoi50 (9135)
+Seat 5: paul bzh (970)
+Seat 8: jejesaf (740)
+Seat 9: Ravecca 1 (4155)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 40
+Tenoi50 posts big blind 80
+Dealt to paul bzh [3s Qh]
+*** PRE-FLOP *** 
+paul bzh raises 890 to 970 and is all-in
+jejesaf calls 740 and is all-in
+Ravecca 1 folds
+Tenoi50 folds
+*** FLOP *** [6s 2s 6h]
+*** TURN *** [6s 2s 6h][3h]
+*** RIVER *** [6s 2s 6h 3h][3c]
+*** SHOW DOWN ***
+jejesaf shows [As Js] (Two pairs : 6 and 3)
+paul bzh shows [3s Qh] (Full of 3 and 6)
+paul bzh collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Board: [6s 2s 6h 3h 3c]
+Seat 5: paul bzh showed [3s Qh] and won 1830 with Full of 3 and 6
+Seat 8: jejesaf (button) showed [As Js] and lost with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-24-1538826313 - Holdem no limit (60/120) - 2018/10/06 11:45:13 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (9055)
+Seat 5: paul bzh (1830)
+Seat 9: Ravecca 1 (4115)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [Js 8d]
+*** PRE-FLOP *** 
+Ravecca 1 raises 180 to 300
+Tenoi50 folds
+paul bzh folds
+Ravecca 1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 9: Ravecca 1 (button) won 480
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-25-1538826324 - Holdem no limit (60/120) - 2018/10/06 11:45:24 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (8995)
+Seat 5: paul bzh (1710)
+Seat 9: Ravecca 1 (4295)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+Ravecca 1 posts big blind 120
+Dealt to paul bzh [7c 8c]
+*** PRE-FLOP *** 
+Tenoi50 folds
+paul bzh calls 60
+Ravecca 1 checks
+*** FLOP *** [7s 4d Ad]
+paul bzh bets 120
+Ravecca 1 folds
+paul bzh collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7s 4d Ad]
+Seat 5: paul bzh (small blind) won 360
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-26-1538826338 - Holdem no limit (60/120) - 2018/10/06 11:45:38 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (8995)
+Seat 5: paul bzh (1830)
+Seat 9: Ravecca 1 (4175)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 60
+Tenoi50 posts big blind 120
+Dealt to paul bzh [9c 6c]
+*** PRE-FLOP *** 
+paul bzh folds
+Ravecca 1 raises 180 to 300
+Tenoi50 folds
+Ravecca 1 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: Ravecca 1 (small blind) won 420
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-27-1538826356 - Holdem no limit (60/120) - 2018/10/06 11:45:56 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (8875)
+Seat 5: paul bzh (1830)
+Seat 9: Ravecca 1 (4295)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [3d Tc]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+Tenoi50 calls 60
+paul bzh checks
+*** FLOP *** [Kc Ad Ts]
+Tenoi50 checks
+paul bzh checks
+*** TURN *** [Kc Ad Ts][5d]
+Tenoi50 bets 120
+paul bzh calls 120
+*** RIVER *** [Kc Ad Ts 5d][Jh]
+Tenoi50 bets 120
+paul bzh calls 120
+*** SHOW DOWN ***
+paul bzh shows [3d Tc] (One pair : Tens)
+Tenoi50 shows [5s Kh] (Two pairs : Kings and 5)
+Tenoi50 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Kc Ad Ts 5d Jh]
+Seat 2: Tenoi50 (small blind) showed [5s Kh] and won 720 with Two pairs : Kings and 5
+Seat 5: paul bzh (big blind) showed [3d Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-28-1538826387 - Holdem no limit (60/120) - 2018/10/06 11:46:27 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Tenoi50 (9235)
+Seat 5: paul bzh (1470)
+Seat 9: Ravecca 1 (4295)
+*** ANTE/BLINDS ***
+paul bzh posts small blind 60
+Ravecca 1 posts big blind 120
+Dealt to paul bzh [3h Kd]
+*** PRE-FLOP *** 
+Tenoi50 folds
+paul bzh calls 60
+Ravecca 1 checks
+*** FLOP *** [Qh Jh 3d]
+paul bzh checks
+Ravecca 1 bets 180
+paul bzh calls 180
+*** TURN *** [Qh Jh 3d][9c]
+paul bzh checks
+Ravecca 1 bets 300
+paul bzh folds
+Ravecca 1 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh Jh 3d 9c]
+Seat 9: Ravecca 1 (big blind) won 900
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-29-1538826417 - Holdem no limit (60/120) - 2018/10/06 11:46:57 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Tenoi50 (9235)
+Seat 5: paul bzh (1170)
+Seat 9: Ravecca 1 (4595)
+*** ANTE/BLINDS ***
+Ravecca 1 posts small blind 60
+Tenoi50 posts big blind 120
+Dealt to paul bzh [Qh 7s]
+*** PRE-FLOP *** 
+paul bzh folds
+Ravecca 1 folds
+Tenoi50 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Tenoi50 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 6 - HandId: #1080515575836311553-30-1538826427 - Holdem no limit (60/120) - 2018/10/06 11:47:07 UTC
+Table: 'Starting Block Winamax Poker Tour(251577137)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Tenoi50 (9295)
+Seat 5: paul bzh (1170)
+Seat 9: Ravecca 1 (4535)
+*** ANTE/BLINDS ***
+Tenoi50 posts small blind 60
+paul bzh posts big blind 120
+Dealt to paul bzh [8d As]
+*** PRE-FLOP *** 
+Ravecca 1 folds
+Tenoi50 raises 120 to 240
+paul bzh raises 930 to 1170 and is all-in
+Tenoi50 calls 930
+*** FLOP *** [2d Js 2h]
+*** TURN *** [2d Js 2h][6c]
+*** RIVER *** [2d Js 2h 6c][7h]
+*** SHOW DOWN ***
+paul bzh shows [8d As] (One pair : 2)
+Tenoi50 shows [8h 8c] (Two pairs : 8 and 2)
+Tenoi50 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [2d Js 2h 6c 7h]
+Seat 2: Tenoi50 (small blind) showed [8h 8c] and won 2340 with Two pairs : 8 and 2
+Seat 5: paul bzh (big blind) showed [8d As] and lost with One pair : 2
+
+
