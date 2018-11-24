@@ -8,15 +8,15 @@ Comment ça marche ?
 
 Dans le dossier py_files, il y a tout les fichiers python, chacun à son utilité.
 
-Les fichier commençant par classe_* sont des descriptifs de classe. 
+1) Les fichier commençant par classe_* sont des descriptifs de classe. 
 
-Le fichier Tracker_code.py est le fichier qui analyse un fichier .txt, et enregistre en mémoire plusieurs donnés qui servirons aux analyses statistiques. (J'utilise pickle pour la sauvegarde en mémoire).
+2) Le fichier Tracker_code.py est le fichier qui analyse un fichier .txt, et enregistre en mémoire plusieurs donnés qui servirons aux analyses statistiques. (J'utilise pickle pour la sauvegarde en mémoire).
 
-Le fichier fonctions.py regroupe toutes les fonctions necessaires au fichier Tracker_code.py. (c'est le .h de ce fichier)
+3) Le fichier fonctions.py regroupe toutes les fonctions necessaires au fichier Tracker_code.py. (c'est le .h de ce fichier)
 
-Le fichier init initialise les données du joueurs qui utilisera le tracker. 
+4) Le fichier init initialise les données du joueurs qui utilisera le tracker. 
 
-Le fichier main.py (inutile pour l'instant car le projet n'est pas complet) est le fichier qui va aller chercher dans les repertoires du pc les fichiers "hystory_hand.txt", les analyser en utilisant le code de trcker_code, et pareil, enregistrer les données. (package os pour aller fouiller dans les répertoires) 
+5) Le fichier main.py (inutile pour l'instant car le projet n'est pas complet) est le fichier qui va aller chercher dans les repertoires du pc les fichiers "hystory_hand.txt", les analyser en utilisant le code de trcker_code, et pareil, enregistrer les données. (package os pour aller fouiller dans les répertoires) 
 
 ---------------------------------------------------------------------------------------------
 Chose à faire pour continuer le projet:
