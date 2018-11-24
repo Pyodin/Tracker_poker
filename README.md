@@ -5,6 +5,7 @@ A ce point, le code que j'ai écrit permet d'analiser un fichier .txt fourni par
 
 ---------------------------------------------------------------------------------------------
 Comment ça marche ? 
+
 Dans le dossier py_files, il y a tout les fichiers python, chacun à son utilité.
 
 Les fichier commençant par classe_* sont des descriptifs de classe. 
